@@ -1,0 +1,19 @@
+# from command line
+# you can retrieve the default user with 
+# whoami linux command
+sudo -u <user> createdb <database_name>
+# connect to postgres client 
+psql postgres 
+# verify that the db was well created
+\l
+#   you must see something like this ! 
+
+Name    | Owner | Encoding |   Collate   |    Ctype    | Access privileges
+-----------+-------+----------+-------------+-------------+-------------------
+ news      | heps  | UTF8     | fr_FR.UTF-8 | fr_FR.UTF-8 |
+
+# now grant all privileges on database
+grant all privileges on database <database_name> to <user>
+
+# you can find the whole tuto here 
+# https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e
