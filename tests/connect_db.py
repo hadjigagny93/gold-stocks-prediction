@@ -1,10 +1,7 @@
 import psycopg2
 import os
 
-
 def connect():
-
-
     DATABASES = {
         'database': os.getenv("DB_NAME"),
         'user': os.getenv("DB_USER"),
