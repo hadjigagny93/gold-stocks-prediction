@@ -1,4 +1,4 @@
-from scraper import GoldNewsRetriever
+from .scraper import GoldNewsRetriever
 import argparse
 
 parser = argparse.ArgumentParser()

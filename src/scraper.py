@@ -3,11 +3,18 @@ import hashlib
 import requests
 from selenium import webdriver
 from datetime import datetime
-from .settings import DATA_DIR
-from .browser_config import BROWSER_CONFIGS
-from db_settings import DATABASES
 import psycopg2
-#from .tools import *
+from .settings import (
+    REPO_DIR, 
+    CONFIG_PATH, 
+    BROWSER_CONFIGS, 
+    DATA_DIR,
+    DATABASES
+)
+#from .browser_config import BROWSER_CONFIGS
+#from db_settings import DATABASES
+
+
 
 
 class GoldNewsRetriever:
@@ -30,7 +37,7 @@ class GoldNewsRetriever:
             headers = {'User-Agent': user_agent}
             response = requests.get(url=url, headers=headers)
             if len(response.history) == 1:
-                raise Exception("eee")
+                raise Exception("No data retrieved")
         driver.get(url)
         titles = self.__get_titles(driver)
         dates = self.__get_dates(driver)
