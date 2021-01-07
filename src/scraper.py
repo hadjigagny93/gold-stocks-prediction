@@ -3,11 +3,11 @@ import hashlib
 import requests
 from selenium import webdriver
 from datetime import datetime
-from settings import * 
-from browser_config import BROWSER_CONFIGS
+from .settings import DATA_DIR
+from .browser_config import BROWSER_CONFIGS
 from db_settings import DATABASES
 import psycopg2
-from tools import *
+#from .tools import *
 
 
 class GoldNewsRetriever:
@@ -17,7 +17,7 @@ class GoldNewsRetriever:
         self.base_url = base_url
 
     def scrape(self, **kwargs):
-        DEFAULT_NEWS_PER_PAGE = 10
+        #DEFAULT_NEWS_PER_PAGE = 10
         chrome_driver_path = BROWSER_CONFIGS['CHROME_DRIVER']
         user_agent = BROWSER_CONFIGS['USER_AGENT']
         driver = webdriver.Chrome(chrome_driver_path)
@@ -30,7 +30,7 @@ class GoldNewsRetriever:
             headers = {'User-Agent': user_agent}
             response = requests.get(url=url, headers=headers)
             if len(response.history) == 1:
-                raise
+                raise Exception("eee")
         driver.get(url)
         titles = self.__get_titles(driver)
         dates = self.__get_dates(driver)
@@ -167,7 +167,7 @@ class GoldNewsRetriever:
         with open(os.path.join(DATA_DIR, path), "r") as file:
             tail = file.readlines()[-PREVIOUS_SCRAPED_NEWS:]
             return [x.split('|')[1] for x in tail]
-        return hashes
+        #return hashes
 
     def back_scrape(self, pagination=2):
         lower = 2
