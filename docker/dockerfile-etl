@@ -55,3 +55,24 @@ RUN apt-get -f install -y --force-yes
 
 # remove zip file
 RUN rm chromedriver_linux64.zip google-chrome-stable_current_amd64.deb
+
+# Create work dir
+RUN mkdir -p /home/lib/
+
+# Set up work directory
+WORKDIR /home/lib/
+
+# Set up env variable
+ENV VIRTUAL_ENV=/opt/venv
+RUN python3 -m venv $VIRTUAL_ENV
+ENV PATH="$VIRTUAL_ENV/bin:$PATH"
+
+# Copy requirements txt
+COPY ../requirements.txt /home/lib/
+
+# Install dependencies
+RUN pip install -r requirements.txt
+
+# Copy source code
+COPY ../data/ .
+COPY ../src/ .
