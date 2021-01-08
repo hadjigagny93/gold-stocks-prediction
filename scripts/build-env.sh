@@ -31,19 +31,19 @@ sudo apt-get install -y --force-yes xvfb
 # Install fonts for web browsers
 sudo apt-get install -y --force-yes xfonts-100dpi xfonts-75dpi xfonts-scalable xfonts-cyrillic
 
-# Install git 
-sudo apt-get install git 
+# Install git
+sudo apt-get install git
 
 # Download pyenv for oythone nv management
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 
-# Export env variable to .bashrc file 
+# Export env variable to .bashrc file
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
 echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
 echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.bashrc
 exec "$SHELL"
 
-# in mac os env with zsh shell 
+# in mac os env with zsh shell
 #echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
 #echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
 #echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.zshrc
@@ -96,25 +96,23 @@ sudo ln -fs /opt/geckodriver-$GK_VERSION /usr/bin/geckodriver
 # Finalize apt-get dependancies
 sudo apt-get -f install -y --force-yes
 
-# clone the repo 
+# clone the repo
 git clone https://github.com/QaniLabs/gold-stock.git
 
-cd gold-stock 
+cd gold-stock
 
 # upgrade pip
 pip install --upgrade pip
 
-# Install pipenv  
+# Install pipenv
 pip install pipenv
 
-# Init and create pipenv virtualenv 
+# Init and create pipenv virtualenv
 pipenv shell
 
-# install all non-dev dependencies in prod env 
-# but with psycopg2 ... waive it and install psycopg2-binary instead 
-pipenv install psycopg2-binary 
+# install all non-dev dependencies in prod env
+# but with psycopg2 ... waive it and install psycopg2-binary instead
+pipenv install psycopg2-binary
 
 # rm pkgs
 rm -r chromedriver_linux64.zip google-chrome-stable_current_amd64.deb
-
-
