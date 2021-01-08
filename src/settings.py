@@ -1,12 +1,12 @@
-import os 
+import os
 
-# DEFAULT DIRS 
+# DEFAULT DIRS
 REPO_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 CONFIG_PATH = os.path.join(REPO_DIR, 'config/browser.yaml')
 DATA_DIR = os.path.join(REPO_DIR, 'data/news')
 
 
-# DATABASE SETTINGS 
+# DATABASE SETTINGS
 DATABASES = {
         'database': os.getenv("DB_NAME"),
         'user': os.getenv("DB_USER"),
@@ -20,3 +20,10 @@ BROWSER_CONFIGS = {
     'CHROME_DRIVER': os.getenv('CHROME_DRIVER_PATH'),
     'USER_AGENT': os.getenv('USER_AGENT')
 }
+
+
+# BASE URL
+BASE_URL = "https://www.investing.com/commodities/gold-news"
+
+# REGISTER MODE
+PERMITTED_REGISTER_MODE = ("DB", "FS")
