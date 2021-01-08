@@ -7,7 +7,7 @@ import psycopg2
 from settings import (
     REPO_DIR,
     CONFIG_PATH,
-    BROWSER_CONFIGS,
+    #BROWSER_CONFIGS,
     DATA_DIR,
     DATABASES,
     BASE_URL,
@@ -17,6 +17,9 @@ from exceptions import (
     RegisterModeException,
     EmptyNewsPageException,
 )
+import yaml
+
+
 
 class GoldNewsRetriever:
 
@@ -27,6 +30,12 @@ class GoldNewsRetriever:
         self.register_mode = register_mode
 
     def scrape(self, **kwargs):
+        with open(os.path.join(REPO_DIR, "config/browser.yaml")) as file:
+            file_content = yaml.full_load(file)
+            try:
+                BROWSER_CONFIGS = file_content["NAVIGATOR_SETTINGS"]
+            except KeyError:
+                raise
         chrome_driver_path = BROWSER_CONFIGS['CHROME_DRIVER']
         user_agent = BROWSER_CONFIGS['USER_AGENT']
         driver = webdriver.Chrome(chrome_driver_path)
@@ -65,6 +74,14 @@ class GoldNewsRetriever:
     def __get_sources(driver, limit=10):
         return [s.text for s in driver.find_elements_by_xpath('//span[contains(text(), "By")]')[:limit]]
 
+    @staticmethod
+    def __check_file(file_name):
+        file_path = os.path.join(DATA_DIR, file_name)
+        if not os.path.exists(file_path):
+            # craete taht file
+            shell_touch = f"touch {file_path}"
+            os.system(shell_touch)
+        return file_path
 
     def register(
         self,
@@ -74,11 +91,18 @@ class GoldNewsRetriever:
         sources,
         dates,
         current=True):
-        path = 'back.txt'
+        file_name = 'back.txt'
         if current:
-            path = 'current.txt'
-            last_news = self.get_last_news()
-        with open(os.path.join(DATA_DIR, path), "a") as file:
+            file_name = 'current.txt'
+            last_news = self.get_last_news(file_name)
+        #file_path = os.path.join(DATA_DIR, file_name)
+        # if not os.path.exists(file_path):
+        #    create that file
+        #    shell_touch = f"touch {file_path}"
+        #    os.system(shell_touch)
+        file_path = self.__check_file(file_name)
+
+        with open(file_path, "a") as file:
             for info in zip(
                 chronos,
                 hashes,
@@ -172,11 +196,16 @@ class GoldNewsRetriever:
                 # close communication with the database
                 conn.close()
 
-    @staticmethod
-    def get_last_news():
+    def get_last_news(self, file_name):
         PREVIOUS_SCRAPED_NEWS = 10
-        path = 'current.txt'
-        with open(os.path.join(DATA_DIR, path), "r") as file:
+        #file_name = 'current.txt'
+        #file_path = os.path.join(DATA_DIR, file_name)
+        #if not os.path.exists(file_path):
+        #    create taht file
+        #    shell_touch = f"touch {file_path}"
+        #    os.system(shell_touch)
+        file_path = self.__check_file(file_name)
+        with open(file_path, "r") as file:
             tail = file.readlines()[-PREVIOUS_SCRAPED_NEWS:]
             return [x.split('|')[1] for x in tail]
         #return hashes

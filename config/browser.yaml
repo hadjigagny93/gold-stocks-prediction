@@ -1,3 +1,3 @@
-navigator_settings:
-  chrome_driver_path: '/usr/local/bin/chromedriver'
-  user_agent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36'
+NAVIGATOR_SETTINGS:
+  CHROME_DRIVER: '/usr/local/bin/chromedriver'
+  USER_AGENT: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36'
