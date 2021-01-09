@@ -17,6 +17,7 @@ from exceptions import (
     RegisterModeException,
     EmptyNewsPageException,
 )
+from docker_env import is_dot_docker_env_there
 import yaml
 
 
@@ -29,16 +30,62 @@ class GoldNewsRetriever:
             raise RegisterModeException(register_mode)
         self.register_mode = register_mode
 
-    def scrape(self, **kwargs):
+    @staticmethod
+    def load_configs():
+        docker_env = is_dot_docker_env_there()
+        if docker_env:
+            # there, that's in docker env
+            from chrome import set_chrome_options
+            options = set_chrome_options()
+            return options
+
         with open(os.path.join(REPO_DIR, "config/browser.yaml")) as file:
             file_content = yaml.full_load(file)
             try:
                 BROWSER_CONFIGS = file_content["NAVIGATOR_SETTINGS"]
             except KeyError:
                 raise
-        chrome_driver_path = BROWSER_CONFIGS['CHROME_DRIVER']
-        user_agent = BROWSER_CONFIGS['USER_AGENT']
-        driver = webdriver.Chrome(chrome_driver_path)
+        try:
+            chrome_driver_path = BROWSER_CONFIGS['CHROME_DRIVER']
+            user_agent = BROWSER_CONFIGS['USER_AGENT']
+        except:
+            raise
+        #docker_env = is_dot_docker_env_there()
+        #if docker_env:
+        # there, that's in the docker container
+        return chrome_driver_path, user_agent
+
+    def scrape(self, **kwargs):
+        """
+        with open(os.path.join(REPO_DIR, "config/browser.yaml")) as file:
+            file_content = yaml.full_load(file)
+            try:
+                BROWSER_CONFIGS = file_content["NAVIGATOR_SETTINGS"]
+            except KeyError:
+                raise
+        try:
+            options = BROWSER_CONFIGS['CHROME_DRIVER']
+            user_agent = BROWSER_CONFIGS['USER_AGENT']
+        except:
+            raise
+        #docker_env = is_dot_docker_env_there()
+        #if docker_env:
+        # there, that's in the docker container
+        docker_env = is_dot_docker_env_there()
+        if docker_env:
+            # there, that's in docker env
+            from chrome import set_chrome_options
+            options = set_chrome_options()
+        """
+        configs = self.load_configs()
+        if len(configs) == 2:
+            # local env dev
+            options, user_agent = configs
+        else:
+            # docker env deployment
+            options = configs
+
+        driver = webdriver.Chrome(options)
         url = self.base_url
         current = True
         if 'page' in kwargs:
