@@ -1,60 +1,29 @@
-# python 3.9 buster version
-FROM python:3.9-slim
+FROM python:3.9
 
-# Configure apt-get resources
-RUN apt-get update
-RUN apt-get install -y unzip
-RUN apt-get install -y xserver-xorg-core
-RUN apt-get install -y x11-xkb-utils
+# Adding trusting keys to apt for repositories
+RUN wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -
 
-# Install Xvfb (headless display system)
-RUN apt-get install -y --force-yes xvfb
+# Adding Google Chrome to the repositories
+RUN sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
 
-# Install fonts for web browsers
-RUN apt-get install -y --force-yes xfonts-100dpi xfonts-75dpi xfonts-scalable xfonts-cyrillic
+# Updating apt to see and install Google Chrome
+RUN apt-get -y update
 
-# Install the required Python build dependencies
-RUN apt-get install -y make build-essential chrpath libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
-RUN apt-get install -y --force-yes libxft-dev
-RUN apt-get install -y --force-yes libfreetype6 libfreetype6-dev
-RUN apt-get install -y --force-yes libfontconfig1 libfontconfig1-dev
-RUN apt-get install -y --force-yes python-dev
-
-# Install chrome
-RUN wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-RUN apt-get -f install -y --force-yes
-RUN dpkg --unpack google-chrome-stable_current_amd64.deb
-
-# Install Chromedriver
-RUN wget -N http://chromedriver.storage.googleapis.com/2.36/chromedriver_linux64.zip
-RUN unzip -o chromedriver_linux64.zip
-RUN chmod +x chromedriver
-RUN rm -f /usr/local/share/chromedriver
-RUN rm -f /usr/local/bin/chromedriver
-RUN rm -f /usr/bin/chromedriver
-RUN mv -f chromedriver /usr/local/share/chromedriver
-RUN ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
-RUN ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
-
-# Geckodriver
-# ENV GECKODRIVER_VERSION=0.24.0
-# RUN GK_VERSION=$(if [ ${GECKODRIVER_VERSION:-latest} = "latest" ]; then echo $(wget -qO- "https://api.github.com/repos/mozilla/geckodriver/releases/latest" | grep '"tag_name":' | sed -E 's/.*"v([0-9.]+)".*/\1/'); else echo $GECKODRIVER_VERSION; fi)
-# RUN echo "Using GeckoDriver version: "$GK_VERSION
-# RUN wget --no-verbose -O /tmp/geckodriver.tar.gz https://github.com/mozilla/geckodriver/releases/download/v$GK_VERSION/geckodriver-v$GK_VERSION-linux64.tar.gz
-RUN wget --no-verbose -O /tmp/geckodriver.tar.gz https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-linux64.tar.gz
-RUN rm -rf /opt/geckodriver
-RUN tar -C /opt -zxf /tmp/geckodriver.tar.gz
-RUN rm /tmp/geckodriver.tar.gz
-RUN mv /opt/geckodriver /opt/geckodriver-$GK_VERSION
-RUN chmod 755 /opt/geckodriver-$GK_VERSION
-RUN ln -fs /opt/geckodriver-$GK_VERSION /usr/bin/geckodriver
+# Magic happens
+RUN apt-get install -y google-chrome-stable
 
 
-# Finalize apt-get dependancies
-RUN apt-get -f install -y --force-yes
+# Installing Unzip
+RUN apt-get install -yqq unzip
 
-# remove zip file
-RUN rm chromedriver_linux64.zip google-chrome-stable_current_amd64.deb
+# Download the Chrome Driver
+RUN wget -O /tmp/chromedriver.zip http://chromedriver.storage.googleapis.com/2.36/chromedriver_linux64.zip
+
+# Unzip the Chrome Driver into /usr/local/bin directory
+RUN unzip /tmp/chromedriver.zip chromedriver -d /usr/local/bin/
+
+# Set display port as an environment variable
+ENV DISPLAY=:99
 
 # Create work dir
 RUN mkdir -p /home/lib/
@@ -74,6 +43,6 @@ COPY ../requirements.txt /home/lib/
 RUN pip install -r requirements.txt
 
 # Copy source code
-COPY ../config/ config/
+#COPY ../config/ config/
 RUN mkdir -p data/news/
 COPY ../src/ src/

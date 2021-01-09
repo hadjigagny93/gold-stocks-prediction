@@ -78,14 +78,15 @@ class GoldNewsRetriever:
             options = set_chrome_options()
         """
         configs = self.load_configs()
-        if len(configs) == 2:
+        if isinstance(configs, tuple):
             # local env dev
-            options, user_agent = configs
+            chrome_driver_path, user_agent = configs
+            driver = webdriver.Chrome(chrome_driver_path)
         else:
             # docker env deployment
             options = configs
+            driver = webdriver.Chrome(options=options)
 
-        driver = webdriver.Chrome(options)
         url = self.base_url
         current = True
         if 'page' in kwargs:
