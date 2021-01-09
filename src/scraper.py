@@ -7,7 +7,6 @@ import psycopg2
 from settings import (
     REPO_DIR,
     CONFIG_PATH,
-    #BROWSER_CONFIGS,
     DATA_DIR,
     DATABASES,
     BASE_URL,
@@ -38,45 +37,14 @@ class GoldNewsRetriever:
             from chrome import set_chrome_options
             options = set_chrome_options()
             return options
-
         with open(os.path.join(REPO_DIR, "config/browser.yaml")) as file:
             file_content = yaml.full_load(file)
-            try:
-                BROWSER_CONFIGS = file_content["NAVIGATOR_SETTINGS"]
-            except KeyError:
-                raise
-        try:
+            BROWSER_CONFIGS = file_content["NAVIGATOR_SETTINGS"]
             chrome_driver_path = BROWSER_CONFIGS['CHROME_DRIVER']
             user_agent = BROWSER_CONFIGS['USER_AGENT']
-        except:
-            raise
-        #docker_env = is_dot_docker_env_there()
-        #if docker_env:
-        # there, that's in the docker container
         return chrome_driver_path, user_agent
 
     def scrape(self, **kwargs):
-        """
-        with open(os.path.join(REPO_DIR, "config/browser.yaml")) as file:
-            file_content = yaml.full_load(file)
-            try:
-                BROWSER_CONFIGS = file_content["NAVIGATOR_SETTINGS"]
-            except KeyError:
-                raise
-        try:
-            options = BROWSER_CONFIGS['CHROME_DRIVER']
-            user_agent = BROWSER_CONFIGS['USER_AGENT']
-        except:
-            raise
-        #docker_env = is_dot_docker_env_there()
-        #if docker_env:
-        # there, that's in the docker container
-        docker_env = is_dot_docker_env_there()
-        if docker_env:
-            # there, that's in docker env
-            from chrome import set_chrome_options
-            options = set_chrome_options()
-        """
         configs = self.load_configs()
         if isinstance(configs, tuple):
             # local env dev
