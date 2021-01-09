@@ -43,6 +43,5 @@ COPY ../requirements.txt /home/lib/
 RUN pip install -r requirements.txt
 
 # Copy source code
-#COPY ../config/ config/
 RUN mkdir -p data/news/
 COPY ../src/ src/
