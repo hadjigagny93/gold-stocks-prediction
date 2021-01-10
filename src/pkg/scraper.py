@@ -61,8 +61,12 @@ class GoldNewsRetriever:
             current = False
             page = kwargs.get('page')
             url = os.path.join(url, str(page))
-            headers = {'User-Agent': user_agent}
-            response = requests.get(url=url, headers=headers)
+            docker_env = is_dot_docker_env_there()
+            if docker_env:
+                response = requests.get(url=url)
+            else:
+                headers = {'User-Agent': user_agent}
+                response = requests.get(url=url, headers=headers)
             if len(response.history) == 1:
                 #raise Exception("No data retrieved")
                 raise EmptyNewsPageException(page)
@@ -111,11 +115,6 @@ class GoldNewsRetriever:
         if current:
             file_name = 'current.txt'
             last_news = self.get_last_news(file_name)
-        #file_path = os.path.join(DATA_DIR, file_name)
-        # if not os.path.exists(file_path):
-        #    create that file
-        #    shell_touch = f"touch {file_path}"
-        #    os.system(shell_touch)
         file_path = self.__check_file(file_name)
 
         with open(file_path, "a") as file:
@@ -214,19 +213,13 @@ class GoldNewsRetriever:
 
     def get_last_news(self, file_name):
         PREVIOUS_SCRAPED_NEWS = 10
-        #file_name = 'current.txt'
-        #file_path = os.path.join(DATA_DIR, file_name)
-        #if not os.path.exists(file_path):
-        #    create taht file
-        #    shell_touch = f"touch {file_path}"
-        #    os.system(shell_touch)
         file_path = self.__check_file(file_name)
         with open(file_path, "r") as file:
             tail = file.readlines()[-PREVIOUS_SCRAPED_NEWS:]
             return [x.split('|')[1] for x in tail]
         #return hashes
 
-    def back_scrape(self, pagination=3):
+    def back_scrape(self, pagination=2):
         lower = 2
         upper = pagination + lower
         for page in range(lower, upper):
