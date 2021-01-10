@@ -130,3 +130,5 @@ dmypy.json
 
 # vscode fucking files
 .vscode
+# ignore data dir
+data/news/
