@@ -1,30 +1,1175 @@
-01/10/2021, 06:59:29|9291e0a13b7352a333d0a6d5d6e51c95|Gold Price Forecast – Gold Markets Get Hammered Again|By FXEmpire| - 12 hours ago
-01/10/2021, 06:59:29|5f5ef46d669ae7b75551470f6cd0d4a2|The Gold Market in 2020 and Beyond|By FXEmpire| - 12 hours ago
-01/10/2021, 06:59:29|8ad46c8163c37cc8de603dcc42b79b5f|Commodities and Cryptos: Oil surges, Gold stumbles, and Bitcoin surges above $40k|By Marketpulse| - 13 hours ago
-01/10/2021, 06:59:29|54efed92928915904fa9f166f7a86cf8|Pass The Baton Already: Why Bitcoin Is Poised To Replace Gold|By Bitcoin Magazine| - 13 hours ago
-01/10/2021, 06:59:29|dcde8ea947ec25789dc6327ea8a7bcb4|Bitcoin Price Taps $41,970, Morgan Creek Partner Says ‘BTC Is a 10x Improvement on Gold’|By Bitcoin.com| - 14 hours ago
-01/10/2021, 06:59:29|297be75c6689c0052ab7c0025f7980d8|Gold and Precious Metals in the Spotlight: 2020 Recap|By ETF Trends| - 14 hours ago
-01/10/2021, 06:59:29|3884a56ac5d085011fd23d0161a34f7a|Bitcoin Will One Day Hit $1 Million, Says BTC Bull Anthony Pompliano|By CryptoGlobe| - 14 hours ago
-01/10/2021, 06:59:29|2485d13cbdc17d6a0ad6602cffcc3e0e|Gold Forecast: Gold Prices Pulling Back, Trend Points Higher|By FXEmpire| - 15 hours ago
-01/10/2021, 06:59:29|241604052e181fe8854a01c8e17c0d45|Will Gold’s March To New Record Highs Be Delayed By Bitcoin And Yields?|By CryptoVibes| - 15 hours ago
-01/10/2021, 06:59:29|a7954b622a8cea5cb2e5ce0b5a18251d|Metals Stocks: Gold prices fall over 1%, slip from perch at $1,900 an ounce|By MarketWatch| - 15 hours ago
-01/10/2021, 06:59:50|62fd36ac5afdc8f6a9555634f4f2ba64|Daily Gold News: Gold Lower Ahead of Monthly Jobs Report|By FXEmpire| - 16 hours ago
-01/10/2021, 06:59:50|cedda5d81dcf8e049427021d0a5eb362|Price of Gold Fundamental Daily Forecast – Investors Focused on Yields, Dollar; Jobs Data is Old News|By FXEmpire| - 16 hours ago
-01/10/2021, 06:59:50|f81e3f7d5e2ffb9d5c9b0534c4d3d94b|Oil holds gains on OPEC+ commitment|By Marketpulse| - 18 hours ago
-01/10/2021, 06:59:50|85036ce36de1cbc3b5b190d28d067330|Is Gold (XAUUSD) Preparing To Move Higher?|By CryptoVibes| - 20 hours ago
-01/10/2021, 06:59:50|34db108a02ea72256c3c6bce6b1f2f23|Gold is at Critical Support Level|By FXEmpire| - 20 hours ago
-01/10/2021, 06:59:50|a69352676de2b9b7e4a5c13fef56fdb4|Oil steady, gold holding at USD 1900|By Marketpulse| - 20 hours ago
-01/10/2021, 06:59:50|dd7239dd5371d8ab8ca170c3ad3cc1a6|Gains in U.S. Equities and Dollar Curtail Upside move in Gold Today|By FXEmpire| - 21 hours ago
-01/10/2021, 06:59:50|6002ebb188cb7e2c7745fd56ddacac36|Stocks, Bitcoin, Gold – How Much Are They Worth?|By FXEmpire| - 21 hours ago
-01/10/2021, 06:59:50|6709ea5ef7d520344b526644d741bbe8|The Commodities Feed: Record LNG prices|By Hellenic Shipping News| - Jan 08, 2021
-01/10/2021, 06:59:50|3440de0f7f50cc1ef254b2dce51ed870|Can gold target new highs?|By Marketpulse| - Jan 08, 2021
-01/10/2021, 07:02:57|9291e0a13b7352a333d0a6d5d6e51c95|Gold Price Forecast – Gold Markets Get Hammered Again|By FXEmpire| - 12 hours ago
-01/10/2021, 07:02:57|5f5ef46d669ae7b75551470f6cd0d4a2|The Gold Market in 2020 and Beyond|By FXEmpire| - 12 hours ago
-01/10/2021, 07:02:57|8ad46c8163c37cc8de603dcc42b79b5f|Commodities and Cryptos: Oil surges, Gold stumbles, and Bitcoin surges above $40k|By Marketpulse| - 13 hours ago
-01/10/2021, 07:02:57|54efed92928915904fa9f166f7a86cf8|Pass The Baton Already: Why Bitcoin Is Poised To Replace Gold|By Bitcoin Magazine| - 13 hours ago
-01/10/2021, 07:02:57|dcde8ea947ec25789dc6327ea8a7bcb4|Bitcoin Price Taps $41,970, Morgan Creek Partner Says ‘BTC Is a 10x Improvement on Gold’|By Bitcoin.com| - 14 hours ago
-01/10/2021, 07:02:57|297be75c6689c0052ab7c0025f7980d8|Gold and Precious Metals in the Spotlight: 2020 Recap|By ETF Trends| - 14 hours ago
-01/10/2021, 07:02:57|3884a56ac5d085011fd23d0161a34f7a|Bitcoin Will One Day Hit $1 Million, Says BTC Bull Anthony Pompliano|By CryptoGlobe| - 15 hours ago
-01/10/2021, 07:02:57|2485d13cbdc17d6a0ad6602cffcc3e0e|Gold Forecast: Gold Prices Pulling Back, Trend Points Higher|By FXEmpire| - 15 hours ago
-01/10/2021, 07:02:57|241604052e181fe8854a01c8e17c0d45|Will Gold’s March To New Record Highs Be Delayed By Bitcoin And Yields?|By CryptoVibes| - 15 hours ago
-01/10/2021, 07:02:57|a7954b622a8cea5cb2e5ce0b5a18251d|Metals Stocks: Gold prices fall over 1%, slip from perch at $1,900 an ounce|By MarketWatch| - 15 hours ago
+12/14/2020, 12:56:58|fc42ea8c97409d4ac5c51e657ef4e275|Big Down Day For Gold And Silver; More To Come?|By FXEmpire| - Dec 13, 2020
+12/14/2020, 12:56:58|29b8b2bb44d343a9acf437a5ab8b7141|Gold (XAUUSD): Will US Dollar Hinders Gold Rally Next Week?|By CryptoVibes| - Dec 12, 2020
+12/14/2020, 12:56:58|0dddf5fda7836735d0ccd8a034b7a07e|Bitcoin Is The Move|By Bitcoin Magazine| - Dec 11, 2020
+12/14/2020, 12:56:58|9763cf986aa1fcad698953f09d4c72f3|Gold Ekes Out Weekly Gain as US Stimulus Talks Hang in Balance|By Investing.com| - Dec 11, 2020
+12/14/2020, 12:56:58|47df13cffea6725ff5507aad7c860f96|Gold Price Prediction – Prices Rise Closing the Week Unchanged Following Weak PPI|By FXEmpire| - Dec 11, 2020
+12/14/2020, 12:56:58|cecbcbefd787c57bd3330dddd4ab62ec|Gold futures post a gain for session, week|By MarketWatch| - Dec 11, 2020
+12/14/2020, 12:57:10|21f89043a48c3de2b4e1d9da304322b3|Bitcoin Gets Away From $20K: The Crypto Weekly Market Update|By CryptoPotato| - Dec 11, 2020
+12/14/2020, 12:57:10|96b9297217b6d262b28510cf61195908|Restaurant Chain That Converted Cash Reserves Into Bitcoin Says Gold’s Safe Haven Days Are Numbered|By Bitcoin.com| - Dec 11, 2020
+12/14/2020, 12:57:10|2efd6a37c065b8e3fbe69969fe4b8b34|Gold Weekly Price Forecast – Gold Markets Sluggish|By FXEmpire| - Dec 11, 2020
+12/14/2020, 12:57:10|d2d12f098f9d78c612bc0d4aa0f92501|Gold Price Forecast – Gold Markets Form Bullish Candle|By FXEmpire| - Dec 11, 2020
+12/14/2020, 12:57:10|9ad477f81575a67433cb7e2dd18f3651|Wells Fargo Compares Bitcoin Investing To The 1850’s Gold Rush|By CryptoPotato| - Dec 11, 2020
+12/14/2020, 12:57:10|d82210aca5abe5522cce1aa636092aaa|Metals Stocks: Gold prices edge higher as U.S. fiscal and Brexit risks rise|By MarketWatch| - Dec 11, 2020
+12/14/2020, 12:57:10|ef9cadc0c578dd9e8d188ef4e593c088|Price of Gold Fundamental Daily Forecast – Vaccine Optimism Capping Gains, Stimulus Hopes Underpinning Prices|By FXEmpire| - Dec 11, 2020
+12/14/2020, 12:57:10|9591f0b2a2f099490ad4ea2be3dbc281|Daily Gold News: Friday, Dec. 11 – Gold’s Short-term Consolidation|By FXEmpire| - Dec 11, 2020
+12/14/2020, 12:57:10|116956a766e985c6d0f5f23622c171cc|Oil pushes past USD50, gold eases|By Marketpulse| - Dec 11, 2020
+12/14/2020, 12:57:10|3ae8163ce54e6a20f996d141d5adfec1|Dow Futures Fall 223 Pts; Stimulus Talks Stagnate|By Investing.com| - Dec 11, 2020
+12/14/2020, 12:57:28|99637450b7abda3359ffbfca5ecc4424|Circle CEO: Biden administration could see bitcoin grow…|By CryptoDaily| - Dec 11, 2020
+12/14/2020, 12:57:28|b1d6d02ed5f4b90fcc3fb457612f3afe|Crypto regulation in France goes full steam ahead as Government bodies acknowledge the benefits of bitcoin|By CryptoDaily| - Dec 11, 2020
+12/14/2020, 12:57:28|ff323d6eb68728823ab3cb774f973824|Crude punches past USD50, gold consolidates|By Marketpulse| - Dec 11, 2020
+12/14/2020, 12:57:28|f0224447954b65f09597ab7159191a2a|Gold ABC Zigzag Pattern in Bullish Wave 2|By FXEmpire| - Dec 11, 2020
+12/14/2020, 12:57:28|2f76a9cf28d6c08ea93ae17e6ddfc7b3|European Stock Futures Lower; Johnson Flags No Deal Brexit Risk|By Investing.com| - Dec 11, 2020
+12/14/2020, 12:57:28|06d0b39d3167e3b16b8c9d6d208ffbe2|Gold Futures Score Fractional Gains Even With Vaccine Expectations|By FXEmpire| - Dec 11, 2020
+12/14/2020, 12:57:28|3783b275dc8e2f2dc603ab261e273020|Gold Up Over U.S. Stimulus Uncertainty|By Investing.com| - Dec 10, 2020
+12/14/2020, 12:57:28|4b30d9ffa398ce8dbf3ede763efa4999|Founder of World’s Largest Hedge Fund Ray Dalio Sees Bitcoin as Gold Alternative in Portfolios|By Bitcoin.com| - Dec 10, 2020
+12/14/2020, 12:57:28|a4b9b0abbc07b8b5c01b606fb3303de7|Growing Bitcoin Adoption Hurting Gold Market, Gold Price Will Continue to Weaken, Says JPMorgan|By Bitcoin.com| - Dec 10, 2020
+12/14/2020, 12:57:28|ef210047dd2cf9d2272118c1b1944cf3|Gold Price Prediction – Price Ease Despite Dollar Weakness as CPI Remains Tame|By FXEmpire| - Dec 10, 2020
+12/14/2020, 12:57:47|98cf4804d638d9296819456c6d495b10|Commodities Update: Oil surges, Gold volatile|By Marketpulse| - Dec 10, 2020
+12/14/2020, 12:57:47|8065a048183df602d85ea9e5c15d55f8|Gold futures finish lower on expectations for a U.S. COVID-19 vaccine|By MarketWatch| - Dec 10, 2020
+12/14/2020, 12:57:47|976cf7baf454148f8a6b1f962de182ae|Metals Stocks: Gold prices rise Thursday as ECB delivers on expectations for increased monetary stimulus|By MarketWatch| - Dec 10, 2020
+12/14/2020, 12:57:47|c1463cb405f1c79c96423483312d07f8|Gold Price Forecast – Gold Markets Recover Slightly on Thursday|By FXEmpire| - Dec 10, 2020
+12/14/2020, 12:57:47|7b4f8c8e28c02e892f2c7e522b811d83|Gold (XAUUSD) Slides Towards $1840, Is It Perfect Time To Buy?|By CryptoVibes| - Dec 10, 2020
+12/14/2020, 12:57:47|265e9a251839f065824f56acf4010426|Thursday's Market Minute: A Glimmer Of Hope For Gold?|By Benzinga| - Dec 10, 2020
+12/14/2020, 12:57:47|b856fcd4b4b2a8a1f7f1f786a822e740|Institutional Investor Adoption of Bitcoin Is Just Beginning, Say JPMorgan Strategists|By CryptoGlobe| - Dec 10, 2020
+12/14/2020, 12:57:47|b623c424a04448dfd81c7761f0c8b634|How Will Gold Perform This Winter?|By FXEmpire| - Dec 10, 2020
+12/14/2020, 12:57:47|0edff43fa296e702c3a53d8dc169dc70|Price of Gold Fundamental Daily Forecast – Supported by Fresh ECB Stimulus, US Initial Claims Jump|By FXEmpire| - Dec 10, 2020
+12/14/2020, 12:57:47|b0d8200b156bb204cc1d9f18388290c2|Brent breaks 50-level, gold dips|By Marketpulse| - Dec 10, 2020
+12/14/2020, 12:57:59|b623c424a04448dfd81c7761f0c8b634|How Will Gold Perform This Winter?|By FXEmpire| - Dec 10, 2020
+12/14/2020, 12:57:59|0edff43fa296e702c3a53d8dc169dc70|Price of Gold Fundamental Daily Forecast – Supported by Fresh ECB Stimulus, US Initial Claims Jump|By FXEmpire| - Dec 10, 2020
+12/14/2020, 12:57:59|20194e7e106f57d46c78becd50d7e874|Clene Nanomedicine Presents Blinded Interim Results from RESCUE-ALS Phase 2 Study at the 31st International Symposium on ALS/MND|By Benzinga| - Dec 10, 2020
+12/14/2020, 12:57:59|49f7a9111afff714341baf22d8e3a5cf|European stablecoin launched on Stellar network by German Bank|By CryptoDaily| - Dec 10, 2020
+12/14/2020, 12:57:59|d1bdfb99cc6c542a35544d400afc4f65|U.S. Futures Mixed; Lawmakers Buy Time for Stimulus Talks|By Investing.com| - Dec 10, 2020
+12/14/2020, 12:57:59|2ddc96ca64dec4af46ccf07f7c3ed5e0|Industry concerns grow surrounding MicroStrategy’s massive sum BTC investments|By CryptoDaily| - Dec 10, 2020
+12/14/2020, 12:57:59|d7991b16808ae350cbec46f925a8d8e9|Gold pulled down by equities|By Marketpulse| - Dec 10, 2020
+12/14/2020, 12:57:59|f3b44d5cbc7605b90c82c4abcede0064|European Stocks Edge Higher; ECB Expected to Deliver Stimulus|By Investing.com| - Dec 10, 2020
+12/14/2020, 12:57:59|aecebb26177d94bc75ae36582797f453|Gold Plummets as Stimulus Negotiations Stall and Vaccine Headway|By FXEmpire| - Dec 10, 2020
+12/14/2020, 12:57:59|6029ac9d3ba9039dad528e94ce318bc5|European Stock Futures Lower; Brexit Talks and ECB in Focus|By Investing.com| - Dec 10, 2020
+12/14/2020, 12:58:25|64c709e1fa4f100ea6e9fc79eefed88f|Gold Up, With Anaphylaxis Warnings Tempering COVID-19 Vaccine Enthusiasm|By Investing.com| - Dec 09, 2020
+12/14/2020, 12:58:25|abd5a5636f9654527e5bde6bd1282120|Oil Longs Ignore Monstrous U.S. Crude Build to Cling to $45/bbl|By Investing.com| - Dec 09, 2020
+12/14/2020, 12:58:25|3393dee90fdd52afa32a29655722bf28|Gold Price Predicition – Prices Drop as Dollar Rises on Risk off Sentiment|By FXEmpire| - Dec 09, 2020
+12/14/2020, 12:58:25|d02556a8bceebebc92a5d8bfd412a3a2|Gold in $40 Meltdown as U.S. Stimulus Talks Hit Wall|By Investing.com| - Dec 09, 2020
+12/14/2020, 12:58:25|592d2d42cf8ca6008010fee08671f7d3|Bitcoin Will Encroach On Gold’s Market Share – JPMorgan|By CryptoVibes| - Dec 09, 2020
+12/14/2020, 12:58:25|e27f43d3ff6f52faa70f9e0348a0e445|Oil sinks on bearish EIA report, gold slumps on dollar comeback|By Marketpulse| - Dec 09, 2020
+12/14/2020, 12:58:25|737c1f491655a7bb95bfc524b1662745|Gold futures mark first loss in 3 sessions|By MarketWatch| - Dec 09, 2020
+12/14/2020, 12:58:25|bf4e637580e87d160efe22edd5c58ff6|Bitcoin’s Halving Helped BTC Price Surge This Year, Says Gold Bug Frank Holmes|By CryptoGlobe| - Dec 09, 2020
+12/14/2020, 12:58:25|9dcd689d4d937a082289db4c1276b43f|Former bitcoin sceptic Ray Dalio expresses how BTC could provide protection against collapsing Fiat currency|By CryptoDaily| - Dec 09, 2020
+12/14/2020, 12:58:25|9c6cbd58dfe861da917c9a057a947627|Gold Price Forecast – Gold Markets Pull Back From 50 Day EMA|By FXEmpire| - Dec 09, 2020
+12/14/2020, 12:58:55|6b05968d0251e414867c9bd75ad63b47|Gold's Volatile Run Continues in December|By The Wall Street Journal| - Dec 09, 2020
+12/14/2020, 12:58:55|31ef84b01b66469bfda9a9da0769102b|JPMorgan: Gold’s Price Could Suffer As Bitcoin Started Taking Its Market Share|By CryptoPotato| - Dec 09, 2020
+12/14/2020, 12:58:55|e8b0eb9ac7969c57fe427fb6708c6f9a|Bitcoin’s Rising Popularity With Investors Means Gold Will ‘Suffer’: JPMorgan|By Coindesk| - Dec 09, 2020
+12/14/2020, 12:58:55|3a987019d63f4f87d40c4726370fe8cf|Metals Stocks: Gold price on verge of snapping 2-day string of gains|By MarketWatch| - Dec 09, 2020
+12/14/2020, 12:58:55|38307e3c47784d729eafe5d0acf307cf|Oil steady on OPEC+ deal, gold dips|By Marketpulse| - Dec 09, 2020
+12/14/2020, 12:58:55|013d2f695f4bb50f135127705d59f702|Could Crypto IRAs Replace Traditional IRAs?|By Benzinga| - Dec 09, 2020
+12/14/2020, 12:58:55|1f5da5d129b1599d07f83725b5b0a594|Daily Gold News: Wednesday, Dec. 9 – Gold’s Downward Correction|By FXEmpire| - Dec 09, 2020
+12/14/2020, 12:58:55|b7cbee9be06b7ffa58b20537cd4c4145|Howard Gold's No-Nonsense Investing: Millions of Americans, it turns out, are making the right investing moves, according to studies|By MarketWatch| - Dec 09, 2020
+12/14/2020, 12:58:55|2a4d602fb232204d30910428433d2357|Stocks scale new peaks, sterling awaits last supper on Brexit|By Reuters| - Dec 09, 2020
+12/14/2020, 12:58:55|2b97b736013bba718e5369cd4a73e058|Gold Bug Frank Holmes Optimistic About BTC Prospects in 2021, Says Halving Cushioned Demand|By Bitcoin.com| - Dec 09, 2020
+12/14/2020, 12:59:26|eceba7d16b0eff9fbbb327aa303bf06d|Dow Futures Up 75 Pts; Confidence of Covid Relief Package Rises|By Investing.com| - Dec 09, 2020
+12/14/2020, 12:59:26|439490104a0533ecf0ad3baa30323bfa|Billionaire Ray Dalio Softens On Bitcoin, Says It’s A Gold Anternative|By CryptoPotato| - Dec 09, 2020
+12/14/2020, 12:59:26|c90ecff59defa18b02bace2415e8f5de|Price of Gold Fundamental Daily Forecast – Pressured by Vaccine Optimism, Stimulus Stalemate|By FXEmpire| - Dec 09, 2020
+12/14/2020, 12:59:26|754bbde428a16df41bda9b022392542a|Gold (XAU/USD) Seems Depressed Around $1860, Downside Is Limited|By CryptoVibes| - Dec 09, 2020
+12/14/2020, 12:59:26|138d0078eef0f2be7e336a5219001823|Oil and gold consolidate|By Marketpulse| - Dec 09, 2020
+12/14/2020, 12:59:26|4cf6897d829597688c9eb078d0c75b50|European Stocks Higher; Brexit Deal Confidence Growing|By Investing.com| - Dec 09, 2020
+12/14/2020, 12:59:26|1122383bd0a58bf6ef581bddce718cf7|Billionaire Investor Ray Dalio Says Bitcoin ‘Could Serve as a Diversifier to Gold’|By CryptoGlobe| - Dec 09, 2020
+12/14/2020, 12:59:26|e837bcc4dc0fc166d5740a0e771db986|Crypto Funds Receive Massive Inflows As Capital Shifts Away From Gold|By CryptoVibes| - Dec 09, 2020
+12/14/2020, 12:59:26|cb7f4b2611d26a71e7f5a28ab9dac195|European Stock Futures Higher; Brexit Talks in Focus|By Investing.com| - Dec 09, 2020
+12/14/2020, 12:59:26|02ab4fccacef34589585be0faeacc236|Gold Down Over Vaccine Hopes|By Investing.com| - Dec 08, 2020
+12/14/2020, 12:59:39|d5677f430fd2463ac4c284cb5902d29f|Research Indicates Investments Flowing Out of Gold and Into Crypto|By CryptoPotato| - Dec 08, 2020
+12/14/2020, 12:59:39|94ff073ada4335b59ba08dfcb53f9c5c|Wells Fargo Investment Institute Report Compares Bitcoin to the 1850’s Gold Rush|By Bitcoin.com| - Dec 08, 2020
+12/14/2020, 12:59:39|5ff4b8d71d3bd3b71b92498481d7af69|Gold Holds Near Two-Week High on Stimulus Hopes, Vaccine News|By Bloomberg| - Dec 08, 2020
+12/14/2020, 12:59:39|56a5f385f418a7502eb231b662e053ae|‘Gold Is Rare but Not Too Rare’ – Bitcoin’s Supply Limit Hinders Usefulness, Says Steve Forbes|By Bitcoin.com| - Dec 08, 2020
+12/14/2020, 12:59:39|82b9801a6279ce4f12d484d6cdf2c4b7|Gold Hits 3-Week High; Covid Deal Key for $1,900|By Investing.com| - Dec 08, 2020
+12/14/2020, 12:59:39|749238d5771b759dadf8d1725ba8996f|Realtor.com: Shaun White took a rare loss on an $8 million sale of his Malibu beach house|By MarketWatch| - Dec 08, 2020
+12/14/2020, 12:59:39|32dac55c6db99041f3793b02763f3a88|Gold Price Prediction – Prices Rise on Declining Unit Labor Costs|By FXEmpire| - Dec 08, 2020
+12/14/2020, 12:59:39|f5fbb4081125a95c4025a750d5be0094|Not Gold, Not Silver: Copper Conquering the Investment World|By ETF Trends| - Dec 08, 2020
+12/14/2020, 12:59:39|cdcac5c44facfeb4bdc4e682610be441|deVere Bitcoin Survey: Two-Thirds Of Millennials Prefer Digital Gold|By Bitcoinist| - Dec 08, 2020
+12/14/2020, 12:59:39|7147e4db5f60e9e62046ea5e336fb256|Oil prices falls, gold showing volatility|By Marketpulse| - Dec 08, 2020
+12/14/2020, 12:59:47|093f3212292574dd83a8a33df0102c82|Brexit suspense, oil and gold steady|By Marketpulse| - Dec 08, 2020
+12/14/2020, 12:59:47|07ca60393dbeecd769a47e4624fb6c32|Gold Price Forecast – Gold Markets Continue to Look Very Healthy|By FXEmpire| - Dec 08, 2020
+12/14/2020, 12:59:47|2d923d3a4c1a5fe63100c6a381617ba1|Ripple Ink yet another partnership with Novatti to expand growth in Southeast Asia|By CryptoDaily| - Dec 08, 2020
+12/14/2020, 12:59:47|9e62b07caf978c363a5bed2f77804b17|2020 Recap: What Happened To Bitcoin And What 2021 Awaits？ |By CryptoDaily| - Dec 08, 2020
+12/14/2020, 12:59:47|399f11af52015e1524fe743d79a96e3e|New 3X Leveraged Gold Miners ETNs Begin Trading|By Benzinga| - Dec 08, 2020
+12/14/2020, 12:59:47|b4a3de3fb7ea5f8a486640e28a1acfc8|Gold: Bulls Back in CONTROL|By ETF Daily News| - Dec 08, 2020
+12/14/2020, 12:59:47|7a4147d20df8bff71343838c9e1ab7ef|Metals Stocks: Gold prices head for first back-to-back gain in December|By MarketWatch| - Dec 08, 2020
+12/14/2020, 12:59:47|8cbc24ab9ec272582f3284e7db1c6377|Price of Gold Fundamental Daily Forecast – Rally Appears to Be Stalling as Congress Nears Relief Package Deal|By FXEmpire| - Dec 08, 2020
+12/14/2020, 12:59:47|f8dfa1140a2c98b2c8e14e847701ffb4|Daily Gold News: Consolidation Following Monday’s Rally|By FXEmpire| - Dec 08, 2020
+12/14/2020, 12:59:47|7f2da94c26ca4bd41bce73fa607c403b|U.S. Futures Down 150 Pts; Covid Cases and Lockdowns Increase|By Investing.com| - Dec 08, 2020
+12/14/2020, 12:59:57|f7aeca5142ea5966258ab2124fd563b8|Oil dips on cautious markets, gold higher|By Marketpulse| - Dec 08, 2020
+12/14/2020, 12:59:57|83c2dc6d3d86573649f7fa88361a1a62|Bitcoin’s Market Cap Will Surpass Gold – Winklevoss Twins|By CryptoVibes| - Dec 08, 2020
+12/14/2020, 12:59:57|b85bed795f7ab53caaa8d4eee6d54315|European Stocks Edge Lower; Brexit Concerns Weigh|By Investing.com| - Dec 08, 2020
+12/14/2020, 12:59:57|56468b777a6ebd515bfca1e2e651d5c9|Bitcoin And Ethereum Will Explode In 2021 – Gold Bug Frank Holmes|By CryptoVibes| - Dec 08, 2020
+12/14/2020, 12:59:57|c1ecacf63225252cf0feee02eb801346|European Stocks Mixed; Brexit Concerns Compete with Vaccine Rollout|By Investing.com| - Dec 08, 2020
+12/14/2020, 12:59:57|57b1bc24ea45dbb39f54db71526cc079|Asian stocks dip as pandemic concerns overshadow U.S. stimulus hopes|By Reuters| - Dec 08, 2020
+12/14/2020, 12:59:57|ef1eedd0e42ad3d7ce85ce667b5a20f1|Price of Gold Fundamental Daily Forecast – Shorts Still Covering as Congress Moves Closer to COVID-Relief Bill|By FXEmpire| - Dec 08, 2020
+12/14/2020, 12:59:57|2322d9a92393ec6ebea41047c5261e58|Gold Rises in Asia, Continues March to $1,900|By Investing.com| - Dec 07, 2020
+12/14/2020, 12:59:57|bc9daf87769d0a3853c082ea097b31e9|How to Invest in Gold|By The Wall Street Journal| - Dec 07, 2020
+12/14/2020, 12:59:57|6adbc1a4ef0c1bc52924fe0e1ed46fc6|Gold up Again on U.S. Stimulus Chase, Could Hit $1,900|By Investing.com| - Dec 07, 2020
+12/14/2020, 13:00:11|2b22e49d349a2aec7495d263ea6183db|Gold Price Prediction – Gold Rebounds as Trump Team Renews Campaign Against China|By FXEmpire| - Dec 07, 2020
+12/14/2020, 13:00:11|5fdd914f64e11de1e763876b86207d8b|Gold futures end higher on U.S. fiscal stimulus talks|By MarketWatch| - Dec 07, 2020
+12/14/2020, 13:00:11|0f5ecf4cdbf72df011961dfdd85cce45|Gold shines on stimulus hopes and Brexit worries, Oil shrugs off virus concerns|By Marketpulse| - Dec 07, 2020
+12/14/2020, 13:00:11|25f8e199fc52fa110d2a5f42f4be10de|Gold Price Forecast – Gold Markets Continue to Show Resiliency|By FXEmpire| - Dec 07, 2020
+12/14/2020, 13:00:11|e632009890b6a369db14ab3e7c38f429|“Token locking” feature to be prominent on the Goguen upgrade for Cardano|By CryptoDaily| - Dec 07, 2020
+12/14/2020, 13:00:11|fc21f924ed1919e8b2ed1e3ce5ca6868|Bitcoin Absorbing Gold’s Market Cap Leads To Record One-Week Fund Outflows|By Bitcoinist| - Dec 07, 2020
+12/14/2020, 13:00:11|35830f2f37908cc9648b1917e78f67e4|Paul Tudor Jones expresses his bullish side on BTC, comparing the market to that of the Internet in the 90s|By CryptoDaily| - Dec 07, 2020
+12/14/2020, 13:00:11|e90a8fddde5a767847d8bd0cfccb6645|Goguen upgrade set to go full steam ahead in December for Cardano|By CryptoDaily| - Dec 07, 2020
+12/14/2020, 13:00:11|1f49155311a6c03b3b18ac418b81d83c|Gold Price Forecast – Final Buying Opportunity Expected in December|By FXEmpire| - Dec 07, 2020
+12/14/2020, 13:00:11|664eb2e16884e1a54e0481c25529345b|Daily Gold News: Monday, Dec. 7 – Gold Bouncing Off $1,850|By FXEmpire| - Dec 07, 2020
+12/14/2020, 13:00:29|f25b9f1d2031f4c44ff311b82fddcbfe|Metals Stocks: Gold prices skid toward back-to-back loss as dollar bounces back|By MarketWatch| - Dec 07, 2020
+12/14/2020, 13:00:29|71a96d74f92b6e5db90434fae27949d1|Georgia - a case study of crypto adoption|By CryptoDaily| - Dec 07, 2020
+12/14/2020, 13:00:29|8d64e9f3a2e29692272ba0c71fb53160|Need to Know: ‘We are only in the middle of the bull market’ and a buying opportunity could come soon, JPMorgan says|By MarketWatch| - Dec 07, 2020
+12/14/2020, 13:00:29|675947f676813c9f129bba84e0a12016|Shapeshift CEO: every asset manager should get to grips with BTC sooner rather than later|By CryptoDaily| - Dec 07, 2020
+12/14/2020, 13:00:29|db077f9deec2a5351e54cb1c66d13e7e|Dow Futures Drop 101 Pts; Covid Surge Prompts More Shutdowns|By Investing.com| - Dec 07, 2020
+12/14/2020, 13:00:29|55d3baeee51ec3ee9347cdd513b830b8|Gold Price May Face Major Hurdle At $1,850 Before Moving Higher|By CryptoVibes| - Dec 07, 2020
+12/14/2020, 13:00:29|9ac96ec946205c5e1e073161ab9f3bf3|Price of Gold Fundamental Weekly Forecast – ‘Small’ Stimulus Package Just Enough to Boost Prices|By FXEmpire| - Dec 07, 2020
+12/14/2020, 13:00:29|82b9f203f852426659702c428dce26d4|Gold shows rally, eyes USD1850|By Marketpulse| - Dec 07, 2020
+12/14/2020, 13:00:29|795189fd21728a8258e09b9c2ff584fe|European Stocks Weaken on Increased Brexit Worries|By Investing.com| - Dec 07, 2020
+12/14/2020, 13:00:29|544b990405c62ca3bfb63437266713b0|European Stock Futures Mixed; Shutdowns and Brexit Talks in Focus|By Investing.com| - Dec 07, 2020
+12/14/2020, 13:00:47|75d66ad9f57c838381b0248eabc409fb|Gold Up Over Hopes for U.S. Stimulus Measures|By Investing.com| - Dec 06, 2020
+12/14/2020, 13:00:47|8ba487fddbccc93bb4ae7e622cb36a2e|Bitcoin Is ‘Best Investment Opportunity’, Says Financial Historian Niall Ferguson|By CryptoGlobe| - Dec 06, 2020
+12/14/2020, 13:00:47|1a9f9585b2c078a33637e49359f0ca8e|Is Gold Poised To Reach $3750 Or Higher?|By CryptoVibes| - Dec 06, 2020
+12/14/2020, 13:00:47|40f83d8fdf2afad31ca3ee7450b4f976|Energy & Precious Metals - Weekly Review and Calendar Ahead|By Investing.com| - Dec 06, 2020
+12/14/2020, 13:00:47|f385f206c53f86c968ce5869b0b76c3f|Is Gold Bullish Again?|By FXEmpire| - Dec 06, 2020
+12/14/2020, 13:00:47|3b3944621dc6898aea96eaedf8a2b296|2 In 3 Of Millennials Prefer Bitcoin To Gold As Haven Asset, deVere Group Reveals|By CryptoVibes| - Dec 05, 2020
+12/14/2020, 13:00:47|bcbd62c22d41a07e2e086101607aa08f|Gold (XAUUSD) Reverses at Support Level of $1,778, Targeting $1,901|By CryptoVibes| - Dec 05, 2020
+12/14/2020, 13:00:47|e3bc615ace89c35d524cfc16de764e3c|The new crypto tax regime in South Korea delayed until 2022|By CryptoDaily| - Dec 05, 2020
+12/14/2020, 13:00:47|24fc770d0f601752e86a25a69b655fb5|Grayscale bring back “drop gold“ ad in an attempt to bring more people to bitcoin|By CryptoDaily| - Dec 05, 2020
+12/14/2020, 13:00:47|d767ae617a4013157cb3cd25af08bc49|Gold Price Prediction – Prices Consolidate as Yields Rise Despite Weak Payroll Report|By FXEmpire| - Dec 04, 2020
+12/14/2020, 13:00:57|39591f77b786ea3ac973f53ca9fa3272|Gold To Rise To $2,300, Silver To Surge Over $30 In 2021, Metals Focus Says|By CryptoVibes| - Dec 04, 2020
+12/14/2020, 13:00:57|c77379aec67fd62f95e8394131bf306f|Gold Cools after 3-Day Run-up; Seals Best Week in Four|By Investing.com| - Dec 04, 2020
+12/14/2020, 13:00:57|4d3c0f9d4e5ec56a6059643385690d03|Gold Weekly Price Forecast – Gold Markets Bounce From 50 Week EMA|By FXEmpire| - Dec 04, 2020
+12/14/2020, 13:00:57|36b5f0615565b63443ed4c1f612691ff|Gold futures finish lower for the session, gain for the week|By MarketWatch| - Dec 04, 2020
+12/14/2020, 13:00:57|54dddb70d55b956e937194b8ccaa4c8f|Money Reimagined: Bitcoin vs. Gold Is a Battle of Narratives|By Coindesk| - Dec 04, 2020
+12/14/2020, 13:00:57|bb03d69b5d2d549ccc13554ec8e8e479|Commodities Corner: Gold eyes a more than 20% gain for the year, with more to come in 2021|By MarketWatch| - Dec 04, 2020
+12/14/2020, 13:00:57|e1277dd7440e7b51ee4e03f246cd19ce|Commodities & Crypto Update: Oil pares OPEC+ deal rally, Gold down on profit-taking, Bitcoin consolidates|By Marketpulse| - Dec 04, 2020
+12/14/2020, 13:00:57|9c1e3dfb8863ab313df341940004b98d|Gold Price Forecast – Gold Markets Sees Profit-Taking|By FXEmpire| - Dec 04, 2020
+12/14/2020, 13:00:57|fab6591e00e6dd1ef7c3259fda7de5dc|MarketWatch Premium: Gold has fallen, and it can’t get up|By MarketWatch| - Dec 04, 2020
+12/14/2020, 13:00:57|e26296f3bd2573f812fbf1637df9b49d|Bloomberg Research: Bitcoin’s Market Cap Could Reach $1 Trillion in 2022|By CryptoGlobe| - Dec 04, 2020
+12/14/2020, 13:01:10|1e40b2c36df43174db6c5ef4e5e879dd|Metals Stocks: Gold prices head for longest win streak in nearly 4 months|By MarketWatch| - Dec 04, 2020
+12/14/2020, 13:01:10|2ffad5cc78c8dccb1f1800ac5846c602|Oil up on OPEC+, gold remains steady|By Marketpulse| - Dec 04, 2020
+12/14/2020, 13:01:10|82b3ee7bdda80311b6d89ab10f9a5c50|Daily Gold News: Friday, Dec. 4 – Gold Going Sideways Ahead of NFP|By FXEmpire| - Dec 04, 2020
+12/14/2020, 13:01:10|c8f3f838705d873991b406a1ebfe98e6|Price of Gold Fundamental Daily Forecast – Stimulus Optimism, Weak NFP Report Should Be Supportive|By FXEmpire| - Dec 04, 2020
+12/14/2020, 13:01:10|05c9ef3e7f52320f5d64cb6c8e2551d8|Dow Futures Rise 110 Pts Ahead of Jobs Report|By Investing.com| - Dec 04, 2020
+12/14/2020, 13:01:10|e305026ed0fe01eee0db5760f4c4923e|European Stocks Mostly Higher; BioNTech Weakens on Vaccine Supply Concerns|By Investing.com| - Dec 04, 2020
+12/14/2020, 13:01:10|b0e551d4e41ed37cc0e37253e550b461|European Stock Futures Largely Higher; U.S. Stimulus Gains Traction|By Investing.com| - Dec 04, 2020
+12/14/2020, 13:01:10|9f7fce74467bb61a2a62f2904de2850f|Gold Up Over Cautious U.S. Stimulus Hopes, Vaccine Hiccups|By Investing.com| - Dec 03, 2020
+12/14/2020, 13:01:10|bfb7c55db227fdc977fcd205fa43426a|MicroSectors Gold Miners ETNs, GDXU & GDXD, Have Launched|By ETF Trends| - Dec 03, 2020
+12/14/2020, 13:01:10|240282325493013294d226de1a66480b|Your Digital Self: The pandemic showed there’s a need for digital currencies, especially bitcoin|By MarketWatch| - Dec 03, 2020
+12/14/2020, 13:01:20|3d8d0ffa1aca751a316d7c63c76c6e6f|Billionaire Paul Tudor Jones: Bitcoin Is Undervalued Relative to Stocks and Gold|By CryptoGlobe| - Dec 03, 2020
+12/14/2020, 13:01:20|1de958010b6463a507ffe237f7d6af7e|Gold Price Prediction – Prices Rise as the Dollar Continues to Drop|By FXEmpire| - Dec 03, 2020
+12/14/2020, 13:01:20|0df49a750547acbc5ddbf2f42d0bb390|OPEC+ settles on a small hike, gold pares gains on stimulus uncertainty|By Marketpulse| - Dec 03, 2020
+12/14/2020, 13:01:20|ebf46e7ad34ccc2b6254eec97b4de64c|Gold Price Forecast – Global Great Depression by 2022?|By FXEmpire| - Dec 03, 2020
+12/14/2020, 13:01:20|43b432a9bb36718f24e2ceeb7950306f|Bitcoin Undervalued Relative to Gold, Equities, Tudor Jones Says|By Coindesk| - Dec 03, 2020
+12/14/2020, 13:01:20|c178d1ad6c6f9e68b815e2892b58c9b8|Gold futures settle higher for a third straight session|By MarketWatch| - Dec 03, 2020
+12/14/2020, 13:01:20|728097f10b3242c67e552c9de22f552d|Gold Price Forecast – Gold Markets Rally But Gives Back Early Gains|By FXEmpire| - Dec 03, 2020
+12/14/2020, 13:01:20|56b9de14ed3b2543597e4ce7b0e73a91|Gold Returns Above $1,800. Has It Bottomed Out?|By FXEmpire| - Dec 03, 2020
+12/14/2020, 13:01:20|d33d117b0bffcc2611a64aa97dffb4b6|3x, -3x Gold Miner ETNs Debut|By etf.com| - Dec 03, 2020
+12/14/2020, 13:01:20|3cd13d88ccb186ca3388bd8d92f1891b|Platinum Begins A New Rally – Gold & Silver Will Follow|By FXEmpire| - Dec 03, 2020
+12/14/2020, 13:01:36|5699f68f8f5365bea15ba37d0cf1898a|New ETNs Bring Leverage, Spice To Gold Miners|By Benzinga| - Dec 03, 2020
+12/14/2020, 13:01:36|dceb47f520ec375da7c32d91bc0cb238|Metals Stocks: Gold prices head higher for 3rd day in a row|By MarketWatch| - Dec 03, 2020
+12/14/2020, 13:01:36|719c5d133fd2f63b8356724d2305a370|Spotlight on OPEC+, gold eyes USD1850|By Marketpulse| - Dec 03, 2020
+12/14/2020, 13:01:36|9323a35ee75c6b36c9d7fa93c3cf79d2|Daily Gold News: Thursday, Dec. 3 – Gold Extending Short-term Gains|By FXEmpire| - Dec 03, 2020
+12/14/2020, 13:01:36|c58960ba53131cada3757744f1b24805|U.S. Futures Mixed; Initial Jobless Claims in Spotlight|By Investing.com| - Dec 03, 2020
+12/14/2020, 13:01:36|2c04af49f812b6c65ada9edee91ea351|Gold Bulls Roaring Loud, But Hurdles Remain|By FXEmpire| - Dec 03, 2020
+12/14/2020, 13:01:36|aaac86b96afa5ae9d62de4a848f3a978|Price of Gold Fundamental Daily Forecast – Falling Dollar Continues to Chase Out Weak Short-Sellers|By FXEmpire| - Dec 03, 2020
+12/14/2020, 13:01:36|88468248fc936fdda66ad8558d387a7c|European Stocks Stagnate; More Stimulus News Awaited|By Investing.com| - Dec 03, 2020
+12/14/2020, 13:01:36|d1444aa929fb955f24113360318c0f2d|Oil awaits OPEC+ decision, gold little changed|By Marketpulse| - Dec 03, 2020
+12/14/2020, 13:01:36|376a58535525062e4babcdd7e2053c0a|European Stock Futures Largely Flat; More Vaccine News Awaited|By Investing.com| - Dec 03, 2020
+12/14/2020, 13:01:48|10cc82064f5d67eed647ad6113b07905|Gold (XAU/USD) Rebounds As Dollar Slides On Vaccine Hopes|By CryptoVibes| - Dec 03, 2020
+12/14/2020, 13:01:48|9b9d6df188dacfcd518d1ec3636bf1ff|Tax Guy: How you can use your IRA to invest in gold and other precious metals — and the federal tax implications|By MarketWatch| - Dec 03, 2020
+12/14/2020, 13:01:48|d2e8ead62eb761b07385d5935ebc76ad|Gold Up, Regains Shine Despite Vaccine Approval Retreat|By Investing.com| - Dec 02, 2020
+12/14/2020, 13:01:48|8e727528d6162c48e3b07ac17b1da0d6|Gold Rises Again, Landing Above $1,830|By Investing.com| - Dec 02, 2020
+12/14/2020, 13:01:48|45e44e8c400fd84eac9522684c105c3b|The Bitcoin Magazine FOMOmeter|By Bitcoin Magazine| - Dec 02, 2020
+12/14/2020, 13:01:48|72b532262feafba0d592154d54247f65|The ‘Worst Year Ever’ For USD To Benefit Gold And Bitcoin, Peter Schiff Says|By CryptoVibes| - Dec 02, 2020
+12/14/2020, 13:01:48|13cdf6712d529c5d0cef91f3e3845cad|Oil up ahead of OPEC+, gold steady|By Marketpulse| - Dec 02, 2020
+12/14/2020, 13:01:48|f866e861c514f48d701ab65924c2e372|Gold Price Prediction – Prices Rise as the Dollar Continues to Slide|By FXEmpire| - Dec 02, 2020
+12/14/2020, 13:01:48|74d50ba33bf932402bbc6ee41748aa20|CityWatch: Pandemic spotlights: These N.Y. performers from various fields are making it work, despite shutdowns|By MarketWatch| - Dec 02, 2020
+12/14/2020, 13:01:48|3c031cf040ce882931ee875d334da4b1|Gold futures log a second straight climb|By MarketWatch| - Dec 02, 2020
+12/14/2020, 13:02:03|f586956539feaac94ed5ac07c8846749|Gold & the USDX: Correlations|By FXEmpire| - Dec 02, 2020
+12/14/2020, 13:02:03|cfdbb2458855ca67b9caaf8c0e0a222f|Gold Price Forecast – Gold Markets Sluggish But Still Look Bullish|By FXEmpire| - Dec 02, 2020
+12/14/2020, 13:02:03|716e7edcec1509e89fd6dd3957e04a4b|Facebook‘s Libra project re-brands to Diem as it plans to launch early 2021|By CryptoDaily| - Dec 02, 2020
+12/14/2020, 13:02:03|1f4f74b1d0edc1e707847942f76237b9|Oil softer on supply concerns, gold higher on stimulus hopes, bitcoin consolidates|By Marketpulse| - Dec 02, 2020
+12/14/2020, 13:02:03|c3622380a71882fb93d9d31a53422b66|Willy Woo: “I’ve never been so bullish for 2021“|By CryptoDaily| - Dec 02, 2020
+12/14/2020, 13:02:03|4075eacdf85687dff530795b79d44d74|Polkadot’s Next Parachain from MXC Will Power Smart Cities|By CryptoDaily| - Dec 02, 2020
+12/14/2020, 13:02:03|c4847898da6e3d7a0f20adf34843d879|Nursing homes create 'perfect storm' for Covid outbreaks as cases and deaths surge again|By CNBC| - Dec 02, 2020
+12/14/2020, 13:02:03|85b6d6c6fb6b05d6720ed640772dae16|Investors Keep Buying Out Bitcoin|By CryptoDaily| - Dec 02, 2020
+12/14/2020, 13:02:03|f6aca2951a5def0d9cc034329197fdb5|Metals Stocks: Gold prices rise, even as dollar rebounds, yields hold higher|By MarketWatch| - Dec 02, 2020
+12/14/2020, 13:02:03|8a16325be91c4c8eaee124f0e947a085|Daily Gold News: Wednesday, Dec. 2 – Gold Back Above $1,800|By FXEmpire| - Dec 02, 2020
+12/14/2020, 13:02:13|508c533e762a6c27ca25bd0f997bcf34|BofA Securities Stays Positive on Gold: 4 Top Pick Stocks to Buy After Recent Selling|By 247wallst| - Dec 02, 2020
+12/14/2020, 13:02:13|f16b6ea30780a9885c7db4cf8a72b02e|Saudi Arabia and the UAE agree to introduce CBDC: results of cross-border digital currency trial|By CryptoDaily| - Dec 02, 2020
+12/14/2020, 13:02:13|50f06b7f9c08d4aef069d61141fd5808|Dow Futures Down 105 Pts; Consolidating Despite Positive Vaccine News|By Investing.com| - Dec 02, 2020
+12/14/2020, 13:02:13|14ca1685668a0af5ac59bceab1a9b380|Correction on Gold and Oil Accelerates|By FXEmpire| - Dec 02, 2020
+12/14/2020, 13:02:13|674fd58ee37abb7af1a209b1e558d400|Price of Gold Fundamental Daily Forecast – Shorts Covering as Fiscal Stimulus Talk Resurfaces|By FXEmpire| - Dec 02, 2020
+12/14/2020, 13:02:13|3281d39511bb336901f3c8a0d2bed802|Top Korean Wallet Adds Electroneum As The Crypto Announces Major Global Expansion Of Cellular And Electric Top-Up Programs|By CryptoDaily| - Dec 02, 2020
+12/14/2020, 13:02:13|0560b5109fab30f8a9f747cd869f74dc|European Stocks Mainly Lower; FTSE 100 Outperforms After U.K. Vaccine News|By Investing.com| - Dec 02, 2020
+12/14/2020, 13:02:13|8f7b19b74492ef8a44cb1bdf2712c099|BlackRock CEO: ‘Bitcoin Has Caught the Attention and the Imagination of Many People’|By CryptoGlobe| - Dec 02, 2020
+12/14/2020, 13:02:13|b3d7b0a9cce725152ef1d7f2700d7dd0|Gold Market Brings Bad News for Bitcoin: A Potential Death Cross|By Bitcoinist| - Dec 02, 2020
+12/14/2020, 13:02:13|af779c7a440132b7db8d45a305ed384b|European Stock Futures Lower; Consolidating After Strong Gains|By Investing.com| - Dec 02, 2020
+12/14/2020, 13:02:26|10ea611c2d2a4f48c90ac15922b97d60|Gold Down Over Rising Hopes for U.S. Stimulus Talks|By Investing.com| - Dec 01, 2020
+12/14/2020, 13:02:26|f306157bc5fc41c6d6d228a030a51bc2|Oil softer on OPEC+ uncertainty, gold bulls are back|By Marketpulse| - Dec 01, 2020
+12/14/2020, 13:02:26|99904ac9300056ed6a179bf75a22f600|Silver ETFs Surge as Industrial Metal Outperforms|By ETF Trends| - Dec 01, 2020
+12/14/2020, 13:02:26|ec1f3ccb08d735ca91cd0a39c4a27b4a|Gold Price Prediction – Prices Rise Recapturing the 200-day Moving Average|By FXEmpire| - Dec 01, 2020
+12/14/2020, 13:02:26|af142b228f9428e5f7ca4668e3168dad|Gold Is Back Above $1,800 After Multiple Beatings|By Investing.com| - Dec 01, 2020
+12/14/2020, 13:02:26|7d52abded63f6656ee64c0cb3d249066|Gold prices bounce back from a 5-month low to finish higher|By MarketWatch| - Dec 01, 2020
+12/14/2020, 13:02:26|cc999d5c40c8e07513a57d4a588b15a0|Market Extra: A death cross is slowly forming in gold prices, even as futures rise Tuesday|By MarketWatch| - Dec 01, 2020
+12/14/2020, 13:02:26|9e9056e27c9e7e378cc638ed93f86258|Gold Price Forecast – Gold Markets Recapture 200 Day EMA|By FXEmpire| - Dec 01, 2020
+12/14/2020, 13:02:26|59242c706252b0169388e62ff1d55663|How has the DeFi market changed in 2020?|By CryptoDaily| - Dec 01, 2020
+12/14/2020, 13:02:26|706aa3b70c28c570637ae0ca1d745a2e|Zoom Pounded Despite Strong Quarterly Results While Salesforce Is Set To Report Later Today|By Benzinga| - Dec 01, 2020
+12/14/2020, 13:02:46|803d49e86ee24f5e68c4039242487101|Adam back: Bitcoins bullish trajectory isn’t over yet|By CryptoDaily| - Dec 01, 2020
+12/14/2020, 13:02:46|fe4b7eded9bf930e16566fd330032b7b|Gold steadies, bitcoin eyes USD20,000|By Marketpulse| - Dec 01, 2020
+12/14/2020, 13:02:46|23117e4abacdb6422b4bdde450b27b3d|The biggest bank in Russia is getting ready to launch its own blockchain platform|By CryptoDaily| - Dec 01, 2020
+12/14/2020, 13:02:46|a559a8f553743f0e98f8197cc889a46c|Gold Begins Breakdown Against Bitcoin, Triggering 90% Decline On Per Oz Basis|By Bitcoinist| - Dec 01, 2020
+12/14/2020, 13:02:46|c1e8dfdf97542d609d529996a309f808|Should the US follow in China's footsteps when it comes to CBDCs & online remittance services?|By CryptoDaily| - Dec 01, 2020
+12/14/2020, 13:02:46|a1c00f6762fed05dc95ba97e4faefc3e|CoinMarketCap Removes All Banner Ads|By CryptoDaily| - Dec 01, 2020
+12/14/2020, 13:02:46|194bf1da41aa10275974a2b304a28b48|Bitcoin off record highs, slumps 7% in volatile trade|By Reuters| - Dec 01, 2020
+12/14/2020, 13:02:46|7afe565c13570894819f8c5b7636370d|Metals Stocks: Gold prices see biggest daily jump in 3 weeks to start December|By MarketWatch| - Dec 01, 2020
+12/14/2020, 13:02:46|500d3ac06e13e68add1b0130b45bc41d|Daily Gold News: Gold’s Upward Correction, Back Above $1,800|By FXEmpire| - Dec 01, 2020
+12/14/2020, 13:02:46|b90950810cb4f19bbc0ca44cf5dbeb8c|Raoul Pal expresses his bullish stance on bitcoin as he moves in on the industry|By CryptoDaily| - Dec 01, 2020
+12/14/2020, 13:03:01|73f7cd1e7675ef517620a1bfd6be4870|Dow Futures Soar 330 Pts; Vaccines Hope Extends Rally|By Investing.com| - Dec 01, 2020
+12/14/2020, 13:03:01|233788d5cdbe7b8b137ebfc3738a23c3|OPEC+ drama sinks oil, gold steadies and bitcoin eases off fresh record|By Marketpulse| - Dec 01, 2020
+12/14/2020, 13:03:01|440dfed7505e8884e8923b73aab3dcb3|Gold Rebounds From 5-Month Lows As COVID Fears Dampen Vaccine Cheer|By CryptoVibes| - Dec 01, 2020
+12/14/2020, 13:03:01|d4eda32392ba212ae9b85f641a9c5bfa|European Stocks Higher on Moderna Vaccine, Chinese Data; UniCredit Slumps|By Investing.com| - Dec 01, 2020
+12/14/2020, 13:03:01|9444797c71e9d88891c6ac52853d073b|Gold Undergoes $2tn Market Wipe-off against Booming Bitcoin; Coincident?|By Bitcoinist| - Dec 01, 2020
+12/14/2020, 13:03:01|cb1f2e33602dec319c9717662fdcca9a|European Stock Futures Higher; Vaccine News and Chinese Data Help|By Investing.com| - Dec 01, 2020
+12/14/2020, 13:03:01|b774f24969e2aa72e845fc9555b3b717|Gold Starts December on Up Note after Worst Month in Years|By Investing.com| - Nov 30, 2020
+12/14/2020, 13:03:01|afaaa68315cb757f849b011206975258|Gold Sees Largest Weekly Outflow Ever, Metal Prices Spiral Lower, Analysts Expect Flows Into Bitcoin|By Bitcoin.com| - Nov 30, 2020
+12/14/2020, 13:03:01|ef8076fd985f4beb5b35b217835524b1|Gold Set For Its Worst Month In 4 Years|By Oilprice.com| - Nov 30, 2020
+12/14/2020, 13:03:01|3158c758d00ddc4301535d5756dabe90|Gemini Exchange CEO: ‘Cash Is Trash’, Bitcoin Will Be at Least $500,000 by 2030|By CryptoGlobe| - Nov 30, 2020
+12/14/2020, 13:03:17|0083d4f9d119c9d6adeb1f34199119ea|Gold Price Prediction – Gold Trends Lower Breaking Through 200-day Moving Average|By FXEmpire| - Nov 30, 2020
+12/14/2020, 13:03:17|c6be5d962404577df78c1b045880030c|Gold Sinks 6% in Worst Month Since 2016|By Investing.com| - Nov 30, 2020
+12/14/2020, 13:03:17|75a382547b4f3893e76ab1de874f6d40|Bitcoin Will Do 25X In The Next Decade, Winklevoss Twins Say|By CryptoPotato| - Nov 30, 2020
+12/14/2020, 13:03:17|8e131319275895006d27e854d08b02eb|Gold marks lowest finish since early July, suffers a monthly loss of 5.6%|By MarketWatch| - Nov 30, 2020
+12/14/2020, 13:03:17|1f6b081a234db29664773ecd6477dde2|Gold futures end lower for the session, down a 4th straight month|By MarketWatch| - Nov 30, 2020
+12/14/2020, 13:03:17|22864d2019303f7db001dea16c8ad7da|Oil struggles over OPEC+, gold slides|By Marketpulse| - Nov 30, 2020
+12/14/2020, 13:03:17|9d14607a4478c9dcdcb89f79f7778092|Probing Gold’s Bottom|By FXEmpire| - Nov 30, 2020
+12/14/2020, 13:03:17|9adb5b57a0180bb4a74da8efebed5592|Can the Dominance of Gold ETFs Continue?|By ETF Trends| - Nov 30, 2020
+12/14/2020, 13:03:17|731119fcab2451f8c6b1cc005da6cb08|Actually, IMF, Bretton Woods 3.0 Is Already Here|By Benzinga| - Nov 30, 2020
+12/14/2020, 13:03:17|7a65605fb771fbdb549cc6bf36a0c28f|Gold Price Forecast – Gold Markets Continue Grind Lower|By FXEmpire| - Nov 30, 2020
+12/14/2020, 13:03:28|9301c32f92dff0ad4a57318a796e1e5f|Bitcoin is The New Gold. Here is Why!|By FXEmpire| - Nov 30, 2020
+12/14/2020, 13:03:28|a4cb63a80e539b8dc8b24122f80f4c41|Gold falls below USD1800, bitcoin higher|By Marketpulse| - Nov 30, 2020
+12/14/2020, 13:03:28|520940abb6074b06a7d0a49ca6f8cbbc|Winklevoss twins say bitcoin will be the decade's best performing asset, see '25x' gains from here|By CNBC| - Nov 30, 2020
+12/14/2020, 13:03:28|05d22414b8987350d7f14bdd353117c8|Metals Stocks: Gold prices skid, head for 5-month low as vaccine news hits metal in November|By MarketWatch| - Nov 30, 2020
+12/14/2020, 13:03:28|fbd7642822f2e4001a43dbb34d796950|Price of Gold Fundamental Weekly Forecast – Could Bottom Between $1780.50 – $1705.20 on Fed Stimulus News|By FXEmpire| - Nov 30, 2020
+12/14/2020, 13:03:28|9e4362178d11485123290fdfe181d958|Extreme Optimism Pushed Gold Prices Below 1800$. Is This a Buying Opportunity?|By FXEmpire| - Nov 30, 2020
+12/14/2020, 13:03:28|5ba83edb026e3eee670e88c5ae9cb14c|Daily Gold News: Gold Extending Sell-off Below $1,800|By FXEmpire| - Nov 30, 2020
+12/14/2020, 13:03:28|c2d2f57f26393c432bbcfce0cc90a6ce|FA Center: Most bond-fund managers do well when interest rates rise, but that’s no reason to invest with them|By MarketWatch| - Nov 30, 2020
+12/14/2020, 13:03:28|ec798508902b858f34994ac489fe74a9|Dow Futures Down 176 Pts; Moderna Files for Drug Approval|By Investing.com| - Nov 30, 2020
+12/14/2020, 13:03:28|d7581b1ba284f08793d2cbbc52c77b76|Next Avenue: How to shop for health insurance on the ACA marketplace|By MarketWatch| - Nov 30, 2020
+12/14/2020, 13:03:42|4844aa33bff28ce19e2721cc59c2f92b|Copper Shines, Gold Struggles as Investors Chase Riskier Assets|By Bloomberg| - Nov 30, 2020
+12/14/2020, 13:03:42|a667094775db1048d92733108886bbff|Former Goldman Sachs Exec Raoul Pal Now Has 98% of His Net Worth in Crypto|By CryptoGlobe| - Nov 30, 2020
+12/14/2020, 13:03:42|26628cd6eb17f21a8c188ccf16e4fa8b|Gold (XAU/USD) Appears On The Way To Record Its Worst Month In 4 Years|By CryptoVibes| - Nov 30, 2020
+12/14/2020, 13:03:42|4d86977a8e38da1990139292c3eda0ae|European Stocks Mixed; Virus and Brexit Talks in Focus|By Investing.com| - Nov 30, 2020
+12/14/2020, 13:03:42|0d8773f161865835cf306fae9c24a64f|Gold Prices Tumble; Traders Liquidate their Gold Holdings|By FXEmpire| - Nov 30, 2020
+12/14/2020, 13:03:42|d14e4db92d113b0f775cb80dcbd6ef22|Gold Price Forecast – Are Precious Metals Starting a 10-Year Bull Market?|By FXEmpire| - Nov 30, 2020
+12/14/2020, 13:03:42|0229c75efe04c8f355b668d542e6056b|European Stock Futures Lower; Pausing for Breath|By Investing.com| - Nov 30, 2020
+12/14/2020, 13:03:42|20401025d5c85d68f741cf970df2ddbc|Gold Down as Global Optimism Continues|By Investing.com| - Nov 29, 2020
+12/14/2020, 13:03:42|0739e8d1ab88020c391872f8307cffd1|Former Goldman Sachs VP Explains Why Bitcoin Price Could Reach $500,000 by 2030|By CryptoGlobe| - Nov 29, 2020
+12/14/2020, 13:03:42|17e9d391b7435197227194e3b47af7d1|Platinum Draws Investors as Gold Rally Stalls|By The Wall Street Journal| - Nov 29, 2020
+12/14/2020, 13:03:53|40f83d8fdf2afad31ca3ee7450b4f976|Energy & Precious Metals - Weekly Review and Calendar Ahead|By Investing.com| - Nov 29, 2020
+12/14/2020, 13:03:53|8d836ff6c700fba1ff9c8f9b984eb3b8|Bitcoin Could Be Mirroring This Extremely Bullish Gold Fractal from the 1970s|By Bitcoinist| - Nov 28, 2020
+12/14/2020, 13:03:53|9911d5d12276d7f452c659aeb0ef568e|Gold (XAUUSD) Breaks down Key Support Levels of $1,787, Further Price Reduction Envisaged|By CryptoVibes| - Nov 28, 2020
+12/14/2020, 13:03:53|38e2dcf2c94eef477f91ba2a7a0f7492|Why Gold Prices Could Be Set For Another Rally|By Oilprice.com| - Nov 28, 2020
+12/14/2020, 13:03:53|ac348bdafc343bccf14a54cfcae12b72|Gold Is Crashing Continuously, How Low Can It Go?|By CryptoVibes| - Nov 28, 2020
+12/14/2020, 13:03:53|06ad21ef8c4c00cfd6af08e4b02d7431|“Trying to Predict the Price of Bitcoin is a Loser’s Game,” Renowned Finance Expert Says|By CryptoPotato| - Nov 28, 2020
+12/14/2020, 13:03:53|2b6bbc996290eefe35f58da22d7e52e7|Precious Metal ETFs Fall Amid Risk-On Sentiment|By ETF Trends| - Nov 27, 2020
+12/14/2020, 13:03:53|39ab071ad0f37a69c3238108c943cbf3|3 Dividend Gold Stocks|By Benzinga| - Nov 27, 2020
+12/14/2020, 13:03:53|645940312c4e9e432fce2d0782956ebb|Gold Enters $1,700 Lows In 3rd Losing Week, Amid Risk-On Rampage|By Investing.com| - Nov 27, 2020
+12/14/2020, 13:03:53|04910115001b96a4986319cd4d953929|Gold Weekly Price Forecast – Gold Markets Have Tough Week|By FXEmpire| - Nov 27, 2020
+12/14/2020, 13:04:11|04a7c50ef79a62b2bed931cc36bab84c|Gold (XAU/USD) Crashed Below $1,800 Amid Optimism For Economic Rebound|By CryptoVibes| - Nov 27, 2020
+12/14/2020, 13:04:11|08fa1d3dbd6b85ab51d02de209cd4e01|Gold Forecast – Gold Indicator Triggers Buy Signal|By FXEmpire| - Nov 27, 2020
+12/14/2020, 13:04:11|7b54c3e03030ce6bb26758ef709b1509|Gold prices fall on Black Friday, log steepest weekly fall in 2 months|By MarketWatch| - Nov 27, 2020
+12/14/2020, 13:04:11|7c010df24f10de0c56547b199b3ab301|Gold Crashes Below $1,800|By Oilprice.com| - Nov 27, 2020
+12/14/2020, 13:04:11|8032c3fb7c254f8e7529e2f01df115b6|Gold Price Forecast – Gold Markets Break 200 Day EMA|By FXEmpire| - Nov 27, 2020
+12/14/2020, 13:04:11|964e3e0e0117641019e32ba552de3b17|Gold Price Prediction – Prices Drop Breaking Down Despite Decline in the Greenback|By FXEmpire| - Nov 27, 2020
+12/14/2020, 13:04:11|74d4c191cec971e45425f9aceda6cf8f|Gold’s Bullish Picture Remains Intact|By ETF Daily News| - Nov 27, 2020
+12/14/2020, 13:04:11|ea80de765a6f2f26f0fc7fab8be1ff83|Silver Price Daily Forecast – Silver Is Under Pressure As Gold Moves Below $1800|By FXEmpire| - Nov 27, 2020
+12/14/2020, 13:04:11|19f80282fceb65b4151456c5ad056966|Price of Gold Fundamental Daily Forecast – Crushed by Expectations of Quicker Economic Recovery|By FXEmpire| - Nov 27, 2020
+12/14/2020, 13:04:11|192acbd02d8c92db03f7fe0b7db05ce1|Wall Street Edges Higher in Holiday-Thinned Trade; Dow up 120 Pts|By Investing.com| - Nov 27, 2020
+12/14/2020, 13:04:24|089b099731898bf901890337cc33d50e|Metals Stocks: Gold prices slump below key level on Black Friday, set for sharpest weekly fall in 2 months|By MarketWatch| - Nov 27, 2020
+12/14/2020, 13:04:24|4b3e81961895f681afac1e181a504deb|Oil steadies, gold’s woes continues|By Marketpulse| - Nov 27, 2020
+12/14/2020, 13:04:24|ae5f0bbf76282ef4f891151ffdd64e7b|Daily Gold News: Gold’s Low Volatility Following Recent Declines|By FXEmpire| - Nov 27, 2020
+12/14/2020, 13:04:24|a25aef82527ec4c0d7842803a240a3b5|Major Australian Firm Pendal Group Trading Gold for Bitcoin|By CryptoGlobe| - Nov 27, 2020
+12/14/2020, 13:04:24|490f9867f3d2e12f692ee290dd25393f|Oil slips over holiday, gold vulnerable|By Marketpulse| - Nov 27, 2020
+12/14/2020, 13:04:24|8d76dbec2071fabc99afe656d35aaf42|European Stocks Mixed; BBVA Calls Off Spanish Merger|By Investing.com| - Nov 27, 2020
+12/14/2020, 13:04:24|0f9c9dc50b75958fe0939d0f2cddd957|European Stock Futures Edge Higher; Chinese Data Helps|By Investing.com| - Nov 27, 2020
+12/14/2020, 13:04:24|18bb8e9e79606402ff2ff19537198f59|Gold Steady on Mixed Vaccine News, Resumed Risk Appetite|By Investing.com| - Nov 26, 2020
+12/14/2020, 13:04:24|751254763d57d048a459392db9cf0c9e|Gold Price Forecast – Gold Markets Hanging Around 200 EMA|By FXEmpire| - Nov 26, 2020
+12/14/2020, 13:04:24|ad51930f23c18db60ce04e900232cb7b|‘Rich Dad Poor Dad Author’ Robert Kiyosaki Says Bitcoin Price ‘Going to the Moon’|By CryptoGlobe| - Nov 26, 2020
+12/14/2020, 13:04:47|0760d9b8250a6e3a559d2e414b0b165b|Biden and Yellen Pushed Gold to $1,800|By FXEmpire| - Nov 26, 2020
+12/14/2020, 13:04:47|15e2ec2de0179b19918d8fd6f2a6d61a|Gold sinks on vaccine success|By Marketpulse| - Nov 26, 2020
+12/14/2020, 13:04:47|7d91f87176836dd08ba7e0754746a0e8|Crude rallies, gold scrapes higher|By Marketpulse| - Nov 26, 2020
+12/14/2020, 13:04:47|d3488580107b6a4ca6d2691c11e9b6cf|Deep Blue Sea Scenario in Play for Gold Bugs|By FXEmpire| - Nov 26, 2020
+12/14/2020, 13:04:47|adfe6fd08e6d8089c0ee1c3a01fe0d99|Key Levels Beckon for Dollar Index, Gold, Pound|By FXEmpire| - Nov 26, 2020
+12/14/2020, 13:04:47|e8ba65dfda435556f863e619855f9166|European Stocks Largely Flat; New German Restrictions Eyed|By Investing.com| - Nov 26, 2020
+12/14/2020, 13:04:47|b69b38ed8561c9089052f0a50fd9b69d|Gold Supported at 1800 but Bears are Still in Charge|By FXEmpire| - Nov 26, 2020
+12/14/2020, 13:04:47|c0f8665ee500ffd7feebb1dc3b8657db|European Stock Futures Edge Higher as Germany Keeps Shops Open|By Investing.com| - Nov 26, 2020
+12/14/2020, 13:04:47|eacea3f2619870ddf039243a685cd7b7|Gold Rises on Poor U.S. Job Numbers, Rising COVID-19 Cases|By Investing.com| - Nov 26, 2020
+12/14/2020, 13:04:47|f0d8a3888aab1d7a6220c2caeee7c2d8|Gold Price Prediction – Dead Cat Bounce Fails to Lift Prices Following Fed Meeting Minutes|By FXEmpire| - Nov 25, 2020
+12/14/2020, 13:05:15|1aaac9603abfc538d41b0b54b3a9cb7f|Gold ends slightly higher day before Thanksgiving but on track for 4% weekly skid|By MarketWatch| - Nov 25, 2020
+12/14/2020, 13:05:15|0db5df265afaf43ec393b5da6581a7e6|Surprise draw from EIA, gold goes tubthumping|By Marketpulse| - Nov 25, 2020
+12/14/2020, 13:05:15|795e393f71807d6320af6a03f996d591|Bitcoin Price Could Reach $500,000, Says Veteran Macro Investor|By CryptoGlobe| - Nov 25, 2020
+12/14/2020, 13:05:15|7b55994d5d2482011d2ad6287c46882c|First Mover: Why Bitcoin Isn’t a Replacement for Gold Just Yet|By Coindesk| - Nov 25, 2020
+12/14/2020, 13:05:15|96dac6ff27f8e11eea11db4c9c5de27d|Gold Price Forecast – Gold Markets Sitting On Major Support|By FXEmpire| - Nov 25, 2020
+12/14/2020, 13:05:15|7253e1f6e034e348b93c16722976a5b2|Major Australian Investment Firm Moves From Negative-Yielding Assets Like Gold to Bitcoin|By Bitcoin.com| - Nov 25, 2020
+12/14/2020, 13:05:15|2bc49f2676caf3fc35bfe62a04b9b7cc|Wednesday's Market Minute: What Happens To Gold Doesn't Stay In Gold|By Benzinga| - Nov 25, 2020
+12/14/2020, 13:05:15|3e5e5570ddcdb58d8a39e4f53c58dcf9|Short Sellers Undecided on Gold-Mining Stocks|By 247wallst| - Nov 25, 2020
+12/14/2020, 13:05:15|c3cf7e9a173aed21eff8ee425860ff0a|Further Clues Reveal Gold’s Weakness|By FXEmpire| - Nov 25, 2020
+12/14/2020, 13:05:15|424342855b4a3c455eeadf92733b4cfd|CNBC’s Mad Money Host Jim Cramer Sees Bitcoin As a Great Alternative To Gold|By CryptoPotato| - Nov 25, 2020
+12/14/2020, 13:05:28|b1266bafbbfd7505504f4f46b825592e|Metals Stocks: Gold prices try to rebound after lowest settlement since mid July|By MarketWatch| - Nov 25, 2020
+12/14/2020, 13:05:28|093ea8cdb073151e820ff9010b78b6eb|Oil rally continues, gold consolidates|By Marketpulse| - Nov 25, 2020
+12/14/2020, 13:05:28|ca1a51e02fbef39b56e1d8fe35ffca07|Daily Gold News: Volatility Dropping Ahead of Thanksgiving Holiday|By FXEmpire| - Nov 25, 2020
+12/14/2020, 13:05:28|aa17a3bb07e6831ef71448e8c22efd5f|Altcoins are catching up with Bitcoin, which is very close to testing its all-time high|By CryptoDaily| - Nov 25, 2020
+12/14/2020, 13:05:28|7dccaa33a59af392c897b165588fa738|Need to Know: The Dow just hit 30,000. Keep betting on stocks, one strategist says|By MarketWatch| - Nov 25, 2020
+12/14/2020, 13:05:28|93593dd167dd44c44162c443a09c899e|U.S. Futures Mixed; Consolidation Ahead of Data Deluge, Holiday|By Investing.com| - Nov 25, 2020
+12/14/2020, 13:05:28|f5b0d4856d8aa73f23d63e0bdf117c80|Oil soars, gold continues to drop|By Marketpulse| - Nov 25, 2020
+12/14/2020, 13:05:28|f1da5d69ba95c0e74c6eb2bdcc476873|European Stocks Rise on Continuing Vaccine Enthusiasm|By Investing.com| - Nov 25, 2020
+12/14/2020, 13:05:28|59238ac134134ac4d0d5460b02b323ce|Bitcoin’s Lagging Correlation with Gold Could Push Price to $25K: Analyst|By Bitcoinist| - Nov 25, 2020
+12/14/2020, 13:05:28|ec2a40160cfe946c8a924235e540b452|Biden-Inspired Risk Appetite Suppresses Gold Around 4-Month Lows|By CryptoVibes| - Nov 25, 2020
+12/14/2020, 13:05:39|e991d58db6f2a9454a7f0b799ac9184f|European Stock Futures Mostly Higher on Wall Street Lead|By Investing.com| - Nov 25, 2020
+12/14/2020, 13:05:39|235b899bfa7afb37f4d7ee7d897819ca|Gold Moves Down as Risk Gains Traction|By Investing.com| - Nov 24, 2020
+12/14/2020, 13:05:39|7d9803bfe945e7a49fc5e31784f12022|Bitcoin Soars Above $19,000 As Gold Sinks|By Oilprice.com| - Nov 24, 2020
+12/14/2020, 13:05:39|2d08c23614435b79891cdcc889d5d68d|Gold Under $1800, Overrun By Risk-on Train|By Investing.com| - Nov 24, 2020
+12/14/2020, 13:05:39|132df3ce23618a5210753324945797ec|Gold Price Prediction – Prices Drop Accelerating Downtrend as Yields Rise|By FXEmpire| - Nov 24, 2020
+12/14/2020, 13:05:39|101e7d68721224856b3f30686866df8d|Gold prices tumble nearly 2% Tuesday to lowest level since mid July as Dow surges to milestone above 30,000|By MarketWatch| - Nov 24, 2020
+12/14/2020, 13:05:39|d6128c810f806ff62bc85e98d5217307|As $BTC Price Approaches All-Time High, CNBC’s Jim Cramer Endorses Bitcoin|By CryptoGlobe| - Nov 24, 2020
+12/14/2020, 13:05:39|7e9203c1e7c69909f5c4242460848491|Oil pops, gold plops, bitcoin eyes record|By Marketpulse| - Nov 24, 2020
+12/14/2020, 13:05:39|4d23cec949f8e7b5580658f09d06fd6b|Gold Price Forecast – Gold Markets Testing 200 Day EMA|By FXEmpire| - Nov 24, 2020
+12/14/2020, 13:05:39|e0d28d3fa0c9deaf9cba4001cf530534|BTC Market Cap Records New ATH With $20K Beckoning, Gold Dumping Steeply|By CryptoVibes| - Nov 24, 2020
+12/14/2020, 13:05:55|8b71c8b12120d0e853f0c61995e9ac23|Gold prices briefly slip below 200-day moving average as bullion prices stage major retreat|By MarketWatch| - Nov 24, 2020
+12/14/2020, 13:05:55|980197787b8731193519e620d77972eb|Oil steady, gold drops close to USD1800|By Marketpulse| - Nov 24, 2020
+12/14/2020, 13:05:55|7ecac7987b2dcbf4fbe50d38affb9a8e|Gold Crashes Crucial Support|By FXEmpire| - Nov 24, 2020
+12/14/2020, 13:05:55|6cc70ee170d0eae1074ade979cb5c7bf|Herd Immunity or Herd Insolvency: Which Will Affect Gold More?|By FXEmpire| - Nov 24, 2020
+12/14/2020, 13:05:55|64fd75b3d05479ebab78fb850a9b4ac3|Metals Stocks: Gold prices tumble further, on the verge of breaking below 200-day moving average|By MarketWatch| - Nov 24, 2020
+12/14/2020, 13:05:55|2f55bc278f8ba3aee39bc03f720a76d1|Gold Forecast – Gold Following Bearish Scenario|By FXEmpire| - Nov 24, 2020
+12/14/2020, 13:05:55|86943fb78993b2a30108511e97780fad|Brett Arends's ROI: Arguing Trump, Biden & your 401(k) with Uncle Alfred: A Thanksgiving Tale|By MarketWatch| - Nov 24, 2020
+12/14/2020, 13:05:55|a466d9ae28a9522aea5e26d8f5c67a95|Daily Gold News: Selling Pressure as Gold Gets Closer to $1,800|By FXEmpire| - Nov 24, 2020
+12/14/2020, 13:05:55|f8cdc1dd455400a7d907cd9ae3ddd9e7|Dow Futures Rise 284 Pts; Yellen Nomination Prompts Cheers|By Investing.com| - Nov 24, 2020
+12/14/2020, 13:05:55|8bc48489fed69f1a9e42439a27c967a4|Stocks and oil ride high on Biden transition and vaccine hopes|By Reuters| - Nov 24, 2020
+12/14/2020, 13:06:11|6a086e0ccd062575b5a2af6ecb42410f|Oil rally continues, gold slips|By Marketpulse| - Nov 24, 2020
+12/14/2020, 13:06:11|78446e70c470bf01dc835322e165c6c1|Next Avenue: Why it’s totally OK to simplify the holidays this year|By MarketWatch| - Nov 24, 2020
+12/14/2020, 13:06:11|e25d3b97ae4cce1bc3230b0f87f897c7|Gold Bearish ABC Pattern Aiming at $1,700 Support|By FXEmpire| - Nov 24, 2020
+12/14/2020, 13:06:11|9c8d2f4a4fbefef1f432dec985e96e4d|European Stocks Higher; German GDP Rebounded Strongly|By Investing.com| - Nov 24, 2020
+12/14/2020, 13:06:11|946da25c5a5886695e01411cbe61dbad|Technical Outlook: Gold Tumbles to 4-Month Low|By FXEmpire| - Nov 24, 2020
+12/14/2020, 13:06:11|c21cfefd128db338e9da14515718f96f|European Stock Futures Higher as Trump Clears Way for Transition|By Investing.com| - Nov 24, 2020
+12/14/2020, 13:06:11|11f696975874084f54bb1466a9a0990b|Gold Down on Vaccine Anticipation|By Investing.com| - Nov 23, 2020
+12/14/2020, 13:06:11|7c00ac29ba663d7c5a7d35ab07801cc9|Gold Drops to Four-Month Low on Vaccine News, Biden Transition|By Bloomberg| - Nov 23, 2020
+12/14/2020, 13:06:11|1f12efea5d86620e5391f745e924864a|Dave Nadig On Gold And Citigroup’s $2,500 Target|By ETF Trends| - Nov 23, 2020
+12/14/2020, 13:06:11|71ef9da9d074e40b2b89bb231f57388c|The COVID Vaccine Could Kill The Gold Rally|By Oilprice.com| - Nov 23, 2020
+12/14/2020, 13:06:38|71ef9da9d074e40b2b89bb231f57388c|The COVID Vaccine Could Kill The Gold Rally|By Oilprice.com| - Nov 23, 2020
+12/14/2020, 13:06:38|652e829806d7e2d47928e1c3993a8c63|Gold Price Prediction – Prices Drop Slicing Through Support Following Strong PMI Data|By FXEmpire| - Nov 23, 2020
+12/14/2020, 13:06:38|325f690a7019faea2241b5aec40c9e94|Gold (XAU/USD) Plunges To 4-Month Lows Below $1,840|By CryptoVibes| - Nov 23, 2020
+12/14/2020, 13:06:38|8f635d89f991c657907646b2aea22bba|To Gold Bulls, Halloween Hasn’t Ended Despite Thanksgiving in the Air|By Investing.com| - Nov 23, 2020
+12/14/2020, 13:06:38|8a803bfdd1d574fa3c069d3dcefbd8ba|Gold prices end 1.8% lower Monday as vaccine progress slams precious metals|By MarketWatch| - Nov 23, 2020
+12/14/2020, 13:06:38|1411adc8809f0e97038437cf9028f190|Gold Price Forecast – Gold Markets Break Crucial Level|By FXEmpire| - Nov 23, 2020
+12/14/2020, 13:06:38|25b4f1e2c44bc36a91e60b63e9e6d761|Jonathan Burton's Life Savings: There will be a ‘huge boom’ in the second quarter of 2021 if vaccines are effective, says investment strategist David Rosenberg|By MarketWatch| - Nov 23, 2020
+12/14/2020, 13:06:38|51743c61edfecec90aec44d203fcedb6|Bloomberg: Futures and Fund Flows Show Bitcoin Is Replacing Gold|By Bitcoinist| - Nov 23, 2020
+12/14/2020, 13:06:38|b6cacae3e379b55265d6e38617300167|Metals Stocks: Gold prices tumble over 2% as vaccine progress slams precious metals|By MarketWatch| - Nov 23, 2020
+12/14/2020, 13:06:38|fa46dafd32c6c36f420556ce8b19833d|Vaccine news boosts oil, weighs on gold|By Marketpulse| - Nov 23, 2020
+12/14/2020, 13:07:10|0d4684a02e8e2b5127692ddf349b9846|Howard Gold's No-Nonsense Investing: People who pay more for Medicare Advantage plans live longer|By MarketWatch| - Nov 23, 2020
+12/14/2020, 13:07:10|5f7461b0737ad5ca5d148a73be0c8d54|Metals Stocks: Gold prices retreat as vaccine progress hurts metal’s appeal|By MarketWatch| - Nov 23, 2020
+12/14/2020, 13:07:10|809cae06bcd2396c86075da82d964fd5|Daily Gold News: Monday, Nov. 23 – Gold’s Weakness Despite Falling USD|By FXEmpire| - Nov 23, 2020
+12/14/2020, 13:07:10|d33ae7f3c61f5ab9f1c18827e68dd1b2|Dow Futures Rise 208 Pts; More Positive Vaccine News Noted|By Investing.com| - Nov 23, 2020
+12/14/2020, 13:07:10|c22958839c274c5023c6b98c139dcb13|Oil rises on vaccines, gold consolidates|By Marketpulse| - Nov 23, 2020
+12/14/2020, 13:07:10|507b59f8900a64ad01be82943ea8426c|Vaccine progress lift stocks, dollar still sickly|By Reuters| - Nov 23, 2020
+12/14/2020, 13:07:10|ef47e0bc15f2d1a773fc6d7743871b1f|Gold Traders’ Morale Drops on Prevailing Mixed Signals|By FXEmpire| - Nov 23, 2020
+12/14/2020, 13:07:10|0a8d54a8f5925f9635cb699bb5402810|European Stocks Higher as AstraZeneca News Lifts Cyclicals|By Investing.com| - Nov 23, 2020
+12/14/2020, 13:07:10|362b947c5932bdda30378cc9cb7426a3|Gold And Silver Heading High Into The European Session|By CryptoVibes| - Nov 23, 2020
+12/14/2020, 13:07:10|731e91e94a56514d969dc5e755255bb8|European Stock Futures Higher; Vaccine Confidence Rises|By Investing.com| - Nov 23, 2020
+12/14/2020, 13:08:05|29be1f095d37e4af4448beba04dfa8a5|Gold Down on U.S. Stimulus Uncertainty|By Investing.com| - Nov 22, 2020
+12/14/2020, 13:08:05|6e4be082c66c35cb251494833f3e5e61|Jeff Reeves's Strength in Numbers: These 5 stocks will profit from the dollar’s continuing decline|By MarketWatch| - Nov 22, 2020
+12/14/2020, 13:08:05|3622f29b9ca2324aa671d82718de672c|Why Gold Could Be Heading To $5000|By Oilprice.com| - Nov 22, 2020
+12/14/2020, 13:08:05|23b2d7c114e7f8972f1f9a6d64655bfc|Gold Forecast – Gold Must Hold Critical Support Near $1850|By FXEmpire| - Nov 22, 2020
+12/14/2020, 13:08:05|bc16b0d0a5d47ce9247877747a22cd08|Pfizer and Moderna Give Investors a Shot of Hope|By ETF Trends| - Nov 22, 2020
+12/14/2020, 13:08:05|40f83d8fdf2afad31ca3ee7450b4f976|Energy & Precious Metals - Weekly Review and Calendar Ahead|By Investing.com| - Nov 22, 2020
+12/14/2020, 13:08:05|39a72e5a7662aae51ec538091df1cc0a|Blackrock CIO: Cryptocurrency Is Here to Stay, Bitcoin Could Replace Gold|By Bitcoin.com| - Nov 21, 2020
+12/14/2020, 13:08:05|f5061a1e13e9c61777ea4723569b6e62|BlackRock CIO: Bitcoin Is Here To Stay And Replace Gold|By CryptoPotato| - Nov 21, 2020
+12/14/2020, 13:08:05|3a9781bd4ad1d871930409df16d00d6b|Gold (XAUUSD) Price: Key Support Levels Threatens|By CryptoVibes| - Nov 21, 2020
+12/14/2020, 13:08:05|c64734066f27481ffbe067cf69821cd4|Point/Counterpoint: As Bitcoin Nears All-Time Highs, is it Really Different Now?|By Investing.com| - Nov 21, 2020
+12/14/2020, 13:09:21|7c1b1ba12ca28804043c6a6f1869bb55|Gold And Silver Markets Are Heating Up, Where Do They Go Next?|By CryptoVibes| - Nov 21, 2020
+12/14/2020, 13:09:21|3ae36a8800b41d8b825c1a02a0e1bc5f|Commodities Corner: Green hydrogen is opening doors for higher platinum demand|By MarketWatch| - Nov 20, 2020
+12/14/2020, 13:09:21|ef164f03176363785ae6bf65d571915b|Gold Price Prediction – Prices Rise Slightly on JP Morgan Growth Forecast|By FXEmpire| - Nov 20, 2020
+12/14/2020, 13:09:21|2bdd7181d5d8e364e2fb9064e126ca51|US Close – Mnuchin goes Grinch, Fiscal Stimulus hopes, Pfizer submits EUA, Oil’s 3rd positive week, Gold surges, Bitcoin eyes $19K|By Marketpulse| - Nov 20, 2020
+12/14/2020, 13:09:21|685e73087759fdd49cc6d5c875490227|Gold Stable As Uncertainty Dominates The Global Economy|By CryptoVibes| - Nov 20, 2020
+12/14/2020, 13:09:21|d73d38c35f107acfe6fade635a51b113|Gold Weekly Price Forecast – Gold Markets Form a Hammer|By FXEmpire| - Nov 20, 2020
+12/14/2020, 13:09:21|d6ac4087c9e548ace8e24036ebc778a9|Will More Bearishness Cause Gold Prices to Crumble to DUST?|By ETF Trends| - Nov 20, 2020
+12/14/2020, 13:09:21|933258571d4f75fa962d2e404783a097|Key Words: Bitcoin stands less than 5% from a record high as CIO of world’s biggest asset manager says it ‘will take place of gold’|By MarketWatch| - Nov 20, 2020
+12/14/2020, 13:09:21|5f5f505f947fa22a6a33b8d42710b830|Gold Price Forecast – Gold Markets Continue to Find Buyers|By FXEmpire| - Nov 20, 2020
+12/14/2020, 13:09:21|096942bf8bff6e5d9211bcaa98493eeb|Bitcoin Will Replace Gold, BlackRock Executive Says|By CryptoVibes| - Nov 20, 2020
+12/14/2020, 13:09:42|bb2ae88e03cdf1f4b3bed58319f7580c|Metals Stocks: Gold prices aim to snap 3-session skid, but set for 2nd weekly slide in a row|By MarketWatch| - Nov 20, 2020
+12/14/2020, 13:09:42|4d49ef61e23421bc2193ef8c1455a64d|BlackRock Exec Says Bitcoin Could Replace Gold ‘to a Large Extent’|By Coindesk| - Nov 20, 2020
+12/14/2020, 13:09:42|f233ffeaf2f2a67f691f64ce86f88227|Top Analyst Upgrades and Downgrades: Barrick Gold, DraftKings, Hyatt, Nasdaq, Nikola, Occidental, Penn National, Shopify, Valero, Workday and More|By 247wallst| - Nov 20, 2020
+12/14/2020, 13:09:42|a907d1dac8da1e8b6aad858d67ee4a29|Daily Gold News: Gold Remains Close to $1,850 Price Level|By FXEmpire| - Nov 20, 2020
+12/14/2020, 13:09:42|98b9771f622bcebf03964ce4670e82c4|Price of Gold Fundamental Daily Forecast – Mnuchin May Have Weakened Longer-Term Support|By FXEmpire| - Nov 20, 2020
+12/14/2020, 13:09:42|06da852bb777ecf30c209edfecaa13bb|U.S. Futures Mixed; Vaccine News Helps Balance Treasury/Fed Spat|By Investing.com| - Nov 20, 2020
+12/14/2020, 13:09:42|cce035164817e425815e3641b4f05270|European Stocks Edge Higher; Stimulus Still on Agenda|By Investing.com| - Nov 20, 2020
+12/14/2020, 13:09:42|b2da977f4b776fb78d56134fa224ec7b|Oil edges higher on stimulus hopes, gold dips|By Marketpulse| - Nov 20, 2020
+12/14/2020, 13:09:42|9fda64023965ea695430de3595b34f45|European Stock Futures Mixed; Caution Over Stimulus Messages|By Investing.com| - Nov 20, 2020
+12/14/2020, 13:09:42|3881be6de721d4e35a597a11279d3ff3|Deutsche Bank: Investors Increasingly Choose Bitcoin Over Gold to Hedge Dollar Risk, Inflation|By Bitcoin.com| - Nov 20, 2020
+12/14/2020, 13:09:56|c6360cbb1276c8127bc86ddd17f2afa8|Gold Up on Mixed U.S. Stimulus News|By Investing.com| - Nov 19, 2020
+12/14/2020, 13:09:56|3aef7621cbf6a4e1c65c1ae353acda8f|US Close – Stimulus talks to resume, Risk roars back, Oil turns positive, Gold off lows, Bitcoin back at $18K|By Marketpulse| - Nov 19, 2020
+12/14/2020, 13:09:56|b5ba7e3b6e074b7087123a350cbb0475|Gold Price Prediction – Prices Consolidate Following Strong Housing Data|By FXEmpire| - Nov 19, 2020
+12/14/2020, 13:09:56|fff8a0b33369a67d3a9375d9beef2a1d|Goldman Sets $2,300 Price Target For Gold In 2021|By Oilprice.com| - Nov 19, 2020
+12/14/2020, 13:09:56|edbaaf365494691101a1719e0beaee56|Gold futures down a third straight session|By MarketWatch| - Nov 19, 2020
+12/14/2020, 13:09:56|94d0fe470988ae92df0dc8c20bcca687|Oil and gold weighed down by dollar|By Marketpulse| - Nov 19, 2020
+12/14/2020, 13:09:56|5a1bff42fef78b99c4186b4c7a589f20|Gold Price Forecast – Gold Markets Testing Support Again|By FXEmpire| - Nov 19, 2020
+12/14/2020, 13:09:56|1da2b73ad48c34d246e5071f069132d7|Price of Gold Fundamental Daily Forecast – Weak as Fiscal Stimulus Off the Table Until Trump Concedes Election|By FXEmpire| - Nov 19, 2020
+12/14/2020, 13:09:56|49f4e5883114cf140594ccbca98f4d7f|Metals Stocks: Gold prices fall over 1% as appetite for havens dull despite rise in COVID cases|By MarketWatch| - Nov 19, 2020
+12/14/2020, 13:09:56|d5a5962b6a96cc4ca5a855325c3c61e9|Oil dips lower, gold under pressure|By Marketpulse| - Nov 19, 2020
+12/14/2020, 13:10:15|2c931fe34509ee056de9bae69fcce506|Daily Gold News: Thursday, Nov. 19 – Gold Bouncing Off $1,850|By FXEmpire| - Nov 19, 2020
+12/14/2020, 13:10:15|2b179a19f5846073cca9813206eaa994|U.S. Futures Lower; Rising Virus Cases Weigh on Sentiment|By Investing.com| - Nov 19, 2020
+12/14/2020, 13:10:15|06ada074a5b09bd62e5d92dbc95d0e71|JPMorgan Chase CEO: If Bitcoin Goes Much Higher, ‘It Will Be Regulated’|By CryptoGlobe| - Nov 19, 2020
+12/14/2020, 13:10:15|48681b8018e88c46cdf68a50b8b87454|Oil edges higher, gold range trading|By Marketpulse| - Nov 19, 2020
+12/14/2020, 13:10:15|7559a4e7ff690c9595db5580881717e2|Howard Gold's No-Nonsense Investing: The best money advice from these investment pros has nothing to do with stocks|By MarketWatch| - Nov 19, 2020
+12/14/2020, 13:10:15|f59708eb1453ed36174738e5b7fa283b|Deutsche Bank Says Investors Increasingly Prefer Bitcoin Over Gold as Inflation Hedge|By Coindesk| - Nov 19, 2020
+12/14/2020, 13:10:15|1114f1eb64f93e894f14380ffea08f2e|Bitcoin, Haven or Tulip Mania?|By Marketpulse| - Nov 19, 2020
+12/14/2020, 13:10:15|284f00bd063b4174552f06d4769843d2|European Stocks Slide on Virus Fears; Thyssenkrupp Slumps|By Investing.com| - Nov 19, 2020
+12/14/2020, 13:10:15|09312712388e4dad9c5b7df030935712|European Stock Futures Largely Lower; Vaccine Optimism Wanes|By Investing.com| - Nov 19, 2020
+12/14/2020, 13:10:15|d20dddd6c2bd158bf74e9bf33457e456|Gold Down on Vaccine Progress, Stronger Dollar|By Investing.com| - Nov 18, 2020
+12/14/2020, 13:10:32|d20dddd6c2bd158bf74e9bf33457e456|Gold Down on Vaccine Progress, Stronger Dollar|By Investing.com| - Nov 18, 2020
+12/14/2020, 13:10:32|31c7574c04d3ea7bbac986763dcab660|Michael Gayed Launches RORO, A Tactical Rotation ETF “Worth Its Weight In Gold”|By ETF Trends| - Nov 18, 2020
+12/14/2020, 13:10:32|9a7a11368e8ffbf8bf11e7e56649aaab|Market Extra: 6 reasons bitcoin is trading at its highest level since 2017 — and 1 warning|By MarketWatch| - Nov 18, 2020
+12/14/2020, 13:10:32|ef3e1832e21a64cb74ebf47fdff86e32|Gold Price Prediction – Prices Consolidate in Tight Range|By FXEmpire| - Nov 18, 2020
+12/14/2020, 13:10:32|0d1bbc39a8b79b1244ced001a0a59321|US Close – NYC Public Schools to Close, Pfizer, Boeing, FX/Treasuries, Oil, Gold, Bitcoin|By Marketpulse| - Nov 18, 2020
+12/14/2020, 13:10:32|d08699795992a5dd9e5fe192634777e2|Gold futures suffer back-to-back losses|By MarketWatch| - Nov 18, 2020
+12/14/2020, 13:10:32|f898682fed8909a40797a9ff0583ddd7|What Ray Dalio Is Missing About Bitcoin|By Bitcoin Magazine| - Nov 18, 2020
+12/14/2020, 13:10:32|1b077cf16deb0ff364ff82ccec3ce559|New Zealand’s Past, Pūtea and Future: CBDC Vs. Bitcoin|By Bitcoin Magazine| - Nov 18, 2020
+12/14/2020, 13:10:32|366b30369ec714efcd8a4f79ee6e4ca9|Liquid Alts ETF Takes Cues From Lumber, Gold|By etf.com| - Nov 18, 2020
+12/14/2020, 13:10:32|50b14c03783cf159540b8409d457a88f|Gold Price Forecast – Gold Markets Continue to Grind Overall|By FXEmpire| - Nov 18, 2020
+12/14/2020, 13:10:43|bbd19a0215814c5dfd1ee6ac093282cf|Metals Stocks: Gold prices head for first back-to-back loss in 3 weeks|By MarketWatch| - Nov 18, 2020
+12/14/2020, 13:10:43|766e05c57a5e499f52292f07bba559d0|Daily Gold News: Wednesday, Nov. 18 – Gold Closer to $1,850 Again|By FXEmpire| - Nov 18, 2020
+12/14/2020, 13:10:43|1e3a7b41e35afbf88fa6599b5a5352b7|Gold Declines as Pfizer Plans to File for U.S. Vaccine Approval|By Bloomberg| - Nov 18, 2020
+12/14/2020, 13:10:43|bb1e24ee2be9e13093524c9298003198|6 Reasons Why This Bitcoin Bull Run Could Have Real Staying Power|By CryptoGlobe| - Nov 18, 2020
+12/14/2020, 13:10:43|9d20ab429ee40622e93385fc0b724f8d|Bitcoin Tops Record Levels and Gets Ready to Test Its All-Time High|By CryptoDaily| - Nov 18, 2020
+12/14/2020, 13:10:43|41413b4d8f16bd448bd3f166968f8709|Price of Gold Fundamental Daily Forecast – Buyers Sitting on Sidelines as Stimulus Hopes Fade|By FXEmpire| - Nov 18, 2020
+12/14/2020, 13:10:43|f4c40697fab9ec885dfb802bfaf47272|Dow Futures Up 126 Pts; Pfizer Vaccine Candidate 95% Effective|By Investing.com| - Nov 18, 2020
+12/14/2020, 13:10:43|fd75e1c4970703d7c806583b7e4e5b87|Oil and gold both lose ground|By Marketpulse| - Nov 18, 2020
+12/14/2020, 13:10:43|a6e35bf4569e104d0f5aea3d30b321c8|European Stocks Edge Lower; ECB Still Sees Sharp Output Drop|By Investing.com| - Nov 18, 2020
+12/14/2020, 13:10:43|2a8ac491d91b8af1658531aa0e8ac0ad|European Stock Futures Lower; Virus Continues to Weigh|By Investing.com| - Nov 18, 2020
+12/14/2020, 13:10:54|698b19667118142c3886432d5cabb790|US Close: Stocks slump on COVID concerns, soft retail sales, and no stimulus hints from Powell, Oil pops on Middle East instability, Gold little changed|By Marketpulse| - Nov 17, 2020
+12/14/2020, 13:10:54|4dd382f1eb2925d99a72174fd42d3271|Gold Price Prediction – Prices Edge Lower Despite Falling Greenback|By FXEmpire| - Nov 17, 2020
+12/14/2020, 13:10:54|730ec85bff0deb6aaab4a9042fa91686|Gold futures log first loss in 4 sessions|By MarketWatch| - Nov 17, 2020
+12/14/2020, 13:10:54|44f9de9daab3af681548f7de41011031|Gold Spiked To Daily Highs As US Retail Sales Disappoint|By CryptoVibes| - Nov 17, 2020
+12/14/2020, 13:10:54|85ec77755237954c953070760961f283|Howard Gold's No-Nonsense Investing: Are you enrolled in Medicare? It’s time to pick a plan|By MarketWatch| - Nov 17, 2020
+12/14/2020, 13:10:54|b85ce2f67787fd221eca3de5b009160c|Gold Price Forecast – Gold Markets Stagnant|By FXEmpire| - Nov 17, 2020
+12/14/2020, 13:10:54|f7be0fce3bd27aa847818571b6a59b23|How the 70s gold market is being shown in bitcoin today|By CryptoDaily| - Nov 17, 2020
+12/14/2020, 13:10:54|79a5f053dad4e4cd22713d6ca89626d8|Metals Stocks: Gold prices aim for fourth straight gain|By MarketWatch| - Nov 17, 2020
+12/14/2020, 13:10:54|7212b55830f87a5584649f3a899d5828|Digital Gold: A Staggering New Bitcoin Forecast Emerges|By ETF Trends| - Nov 17, 2020
+12/14/2020, 13:10:54|5ca2e77b62ef0e637eb60fab881ecdce|Daily Gold News: Tuesday, Nov. 17 – Gold Going Sideways|By FXEmpire| - Nov 17, 2020
+12/14/2020, 13:11:14|75905183fedc859af2fcc75f6143ccac|Gold Lags Far Behind Bitcoin as Vaccine Optimism Buoys Markets|By Coindesk| - Nov 17, 2020
+12/14/2020, 13:11:14|56583db4b31cec8a8acff6c537bf447c|U.S. Futures Mixed; Nasdaq to Outperform on Tesla Gains|By Investing.com| - Nov 17, 2020
+12/14/2020, 13:11:14|b343185acb6b578bc2858f77335551a8|Oil higher on Moderna, gold unsteady|By Marketpulse| - Nov 17, 2020
+12/14/2020, 13:11:14|200a28ad2e04bfe15761da2dff88d35d|Price of Gold Fundamental Daily Forecast – Short-Term Bulls Screaming for Fiscal Stimulus Package|By FXEmpire| - Nov 17, 2020
+12/14/2020, 13:11:14|a53c51abf96a22f674b2866946bb0884|European Stocks Weaken; Virus Causes Uncertain Outlook|By Investing.com| - Nov 17, 2020
+12/14/2020, 13:11:14|efac16317b3535e703760d47c99918e9|European Stock Futures Lower; Vaccine Optimism Wanes|By Investing.com| - Nov 17, 2020
+12/14/2020, 13:11:14|f5d95cf2b0f4297e0cc9d2c0fd428bd6|Gold Down on COVID-19 Worries, Weaker Dollar|By Investing.com| - Nov 16, 2020
+12/14/2020, 13:11:14|e21e1023e3775ebc54a8157ca9a8beef|Gold futures settle with a modest gain|By MarketWatch| - Nov 16, 2020
+12/14/2020, 13:11:14|2df3283190657aee86b8df99a2052f0f|Gold Price Prediction – Prices Rise on Strong Asian Data|By FXEmpire| - Nov 16, 2020
+12/14/2020, 13:11:14|26b4f24fdbcc74175a7391d09949c10c|Gold dips on Moderna, Bitcoin higher|By Marketpulse| - Nov 16, 2020
+12/14/2020, 13:11:42|550991410cd72551b2d5ad7db5f64157|Soothe the Sensation of Inflation: The Gold OUNZ ETF|By ETF Trends| - Nov 16, 2020
+12/14/2020, 13:11:42|d23fce0852e2a97f9bf9d312d557fa09|Gold Price Forecast – Gold Markets Very Noisy|By FXEmpire| - Nov 16, 2020
+12/14/2020, 13:11:42|cf54c558548acf8f02f206ac12b61849|Gold Price Forecast – Surging Hospitalization Rates Will Trigger More Lockdowns|By FXEmpire| - Nov 16, 2020
+12/14/2020, 13:11:42|2a60c1606958f53636683bb7d1408625|Yamana Gold upgraded to outperform from market perform at BMO Capital|By MarketWatch| - Nov 16, 2020
+12/14/2020, 13:11:42|6edc7184a73b898c590abf6050acee3c|Bitcoin’s Price Could Surpass $300,000 by December 2021, Says Citibank Exec|By CryptoGlobe| - Nov 16, 2020
+12/14/2020, 13:11:42|546ef4dec1811a6ffc6ae7dc60a57ecf|Gold slips as rising vaccine hope weighs on safe-haven investments|By MarketWatch| - Nov 16, 2020
+12/14/2020, 13:11:42|a164003a1a537447157b2a34e8e24e33|Metals Stocks: Gold prices slip as Moderna vaccine progress weighs on haven metals|By MarketWatch| - Nov 16, 2020
+12/14/2020, 13:11:42|a5cefed6c5016625b65b92399ebd44c6|Price of Gold Fundamental Daily Forecast – Renewed Vaccine Hopes, Demand for Risk Weighing on Prices|By FXEmpire| - Nov 16, 2020
+12/14/2020, 13:11:42|68c13cb9b82835b1db1a17530a7c525b|Daily Gold News: Gold Lower After Another Vaccine News|By FXEmpire| - Nov 16, 2020
+12/14/2020, 13:11:42|94616f45a7374035bfdef27cd31a8b5c|Bitcoin Price to Reach $318K by December 2021 as the New Gold, Citibank Director Says|By CryptoPotato| - Nov 16, 2020
+12/14/2020, 13:11:57|c3591feddb5e0cd8576f733bdec4846e|Gold Stronger On Weaker Dollar And Surging Coronavirus Cases|By CryptoVibes| - Nov 16, 2020
+12/14/2020, 13:11:57|acebbfa27370fc5085fb87a66c188d80|Oil up on RCEP, gold stays steady|By Marketpulse| - Nov 16, 2020
+12/14/2020, 13:11:57|08d7689f4687149919d6dd91aeda400d|European Stocks Higher on Strong Economic Data; BBVA Surges|By Investing.com| - Nov 16, 2020
+12/14/2020, 13:11:57|7c2efe99f974a1cd9a7e7198489edcd3|European Stock Futures Higher Amid Signs of Global Recovery|By Investing.com| - Nov 16, 2020
+12/14/2020, 13:11:57|301c74b79b5075b6503f71f083eed59d|Gold Rises on Weakening Greenback|By Investing.com| - Nov 15, 2020
+12/14/2020, 13:11:57|40f83d8fdf2afad31ca3ee7450b4f976|Energy & Precious Metals - Weekly Review and Calendar Ahead|By Investing.com| - Nov 15, 2020
+12/14/2020, 13:11:57|74967b8d19f156934143c997fc91dda4|Price of Gold Fundamental Weekly Forecast – Underpinned by Fading Vaccine Optimism, Monetary Stimulus|By FXEmpire| - Nov 15, 2020
+12/14/2020, 13:11:57|9aafa73c17302b5b039910ecbe0fdecd|US Senator Cynthia Lummis: Bitcoin is Going to be an Important Player for a Long Time To Come|By CryptoPotato| - Nov 15, 2020
+12/14/2020, 13:11:57|290ecaac39d4803fa881f46e07c38b45|Gold (XAUUSD) Price: Double Bottom Chart pattern at $1,850, Price Increase Envisaged|By CryptoVibes| - Nov 14, 2020
+12/14/2020, 13:11:57|11c46d23f191617cf0a002d28e5a677e|The Market Predicted President-Elect Joe Biden|By ETF Trends| - Nov 14, 2020
+12/14/2020, 13:12:16|4c070279d8954605c1806bb2420d93a0|These Are My 10 Favorite Junior Mining Companies|By ETF Trends| - Nov 14, 2020
+12/14/2020, 13:12:16|ce472f8e7872554438f8aee5b5aca020|Fixing Fixed Income Through Gold|By ETF Trends| - Nov 14, 2020
+12/14/2020, 13:12:16|93722c99f1caa0361d4dfb1cfe93e7bb|Goldman Sachs Says Gold Will Gain 20% In 2021, Here Are Their Reasons|By CryptoVibes| - Nov 14, 2020
+12/14/2020, 13:12:16|cd6c07292d297444e967e8c6d3a54bd2|Gold Rising Amid Pandemic And Vaccine Worries|By CryptoVibes| - Nov 14, 2020
+12/14/2020, 13:12:16|f88a66452c38b4bf3472d6cb6a7538ba|Gold Pares Some Losses in Covid Vaccine-Hyped Week|By Investing.com| - Nov 13, 2020
+12/14/2020, 13:12:16|b38403d7a9c0126fd74c904b528bc138|Week Ahead – Focus stays on COVID|By Marketpulse| - Nov 13, 2020
+12/14/2020, 13:12:16|5291caf46c79b18fecbd750393fbe76d|Gold Price Prediction – Prices Rise as the Dollar Falls Following US PPI Report|By FXEmpire| - Nov 13, 2020
+12/14/2020, 13:12:16|7349f755481f540f512aff72826d0cc4|Gold futures end higher for the session, down for the week|By MarketWatch| - Nov 13, 2020
+12/14/2020, 13:12:16|f96f0dd3c927b01c050ef1574f1d0897|Commodities Corner: Here’s how veteran commodities trader Larry Williams finds opportunities|By MarketWatch| - Nov 13, 2020
+12/14/2020, 13:12:16|b754817d8b5fc6bb9070ddbb523e4ab6|Gold Weekly Price Forecast – Gold Markets Have Rough Week|By FXEmpire| - Nov 13, 2020
+12/14/2020, 13:12:33|d7656271358142b9dc0cc581dfb905d4|Gold Price Forecast – Gold Starting to Show Signs of Support Again|By FXEmpire| - Nov 13, 2020
+12/14/2020, 13:12:33|cce892e1b41b7a32a5fce0e58512fbd6|US Open – US stocks rally on vaccine hopes and 2021 bets, PPI decelerates, Brexit, Oil slides, Gold surges|By Marketpulse| - Nov 13, 2020
+12/14/2020, 13:12:33|f8324cf15e9a040cd30fa8c581adc929|Price of Gold Fundamental Daily Forecast – Underpinned as Vaccine Hopes Fade, Yields Fall|By FXEmpire| - Nov 13, 2020
+12/14/2020, 13:12:33|61e79b01ed68b253837994f2c2a36314|Metals Stocks: Gold prices climb as U.S. dollar and yields slide, but bullion set for big weekly loss|By MarketWatch| - Nov 13, 2020
+12/14/2020, 13:12:33|890deabc6c08e3d30c1d30cc7fc331b4|Oil lower on inventories, gold rallies|By Marketpulse| - Nov 13, 2020
+12/14/2020, 13:12:33|f19882947127bd365a54d1809b2a173c|Daily Gold News: Friday, Nov. 13 – Gold Slightly Higher Again|By FXEmpire| - Nov 13, 2020
+12/14/2020, 13:12:33|47556a54a2158ccc08a6d3a49e829bbc|CNBC’s Brian Kelly on Bitcoin Price: ‘A Lot of Scope for Upside’|By CryptoGlobe| - Nov 13, 2020
+12/14/2020, 13:12:33|8564662df3bb5afb0cb3d93bcae93725|Oil dips on inventories, gold consolidates|By Marketpulse| - Nov 13, 2020
+12/14/2020, 13:12:33|eb6584669255d836798a4255efe67ca2|European Stocks Largely Lower; Euro-zone GDP Data Due|By Investing.com| - Nov 13, 2020
+12/14/2020, 13:12:33|462c4d3a679400b9090e59f2d1e91a68|Gold Trims Weekly Decline as Rising Virus Cases, Vaccine Weighed|By Bloomberg| - Nov 13, 2020
+12/14/2020, 13:13:09|ad19e29f2803050759ba567baafb5317|European Stock Futures Largely Lower; Virus Cases Continue to Mount|By Investing.com| - Nov 13, 2020
+12/14/2020, 13:13:09|cc7cc7bf6c352d92e563b2a4a8d325e4|Gold Up on COVID-19 Spike, Economic Woes|By Investing.com| - Nov 12, 2020
+12/14/2020, 13:13:09|ab86612f2ed74cce4f1c94f1a25d1ad1|US Close – Stocks slide on virus angst and no signs of fresh stimulus, Jobless Claims, Banxico surprise hold, Oil softer, Gold shines|By Marketpulse| - Nov 12, 2020
+12/14/2020, 13:13:09|1bea96c4d11133cdfd2f78c96f0c6ddc|: McConnell sets up vote on Fed board nominee Judy Shelton|By MarketWatch| - Nov 12, 2020
+12/14/2020, 13:13:09|ea47fcfd14243d609624da327c9f7e61|Gold up as Covid Explosion Restores Safe Haven Bids|By Investing.com| - Nov 12, 2020
+12/14/2020, 13:13:09|2ea6701c97b657475cfdeeb7ab891809|Gold Price Prediction – Prices Edge Higher on Flat CPI|By FXEmpire| - Nov 12, 2020
+12/14/2020, 13:13:09|3c236a8f8219d51691d9f8f2d21ee4bc|Gold futures finish higher amid stock market retreat, pullback in bond yields|By MarketWatch| - Nov 12, 2020
+12/14/2020, 13:13:09|18b3aa27c57f3414ce70244012fb5805|Gold’s Long-Term Picture Remains BULLISH|By ETF Daily News| - Nov 12, 2020
+12/14/2020, 13:13:09|9c2cb1cdc1d9a085302c8a50d86e0965|Gold Price Forecast – Gold Markets Continue to Attract Support|By FXEmpire| - Nov 12, 2020
+12/14/2020, 13:13:09|4ba8db2166838ce6db1925690783f598|Oil steady, gold under pressure|By Marketpulse| - Nov 12, 2020
+12/14/2020, 13:13:58|081d2b452b825688943cf15eff59e429|Metals Stocks: Gold prices rise Thursday ahead of inflation report, but sit on sharp weekly loss|By MarketWatch| - Nov 12, 2020
+12/14/2020, 13:13:58|a608102921105b1853c0463bf70bd35c|Daily Gold News: Thursday, Nov. 12 – Gold Continues Sideways|By FXEmpire| - Nov 12, 2020
+12/14/2020, 13:13:58|1b35f25ed43a82c247ab4868459b38fb|U.S. Futures Mixed; Nasdaq Outperforms as Covid Cases Rise|By Investing.com| - Nov 12, 2020
+12/14/2020, 13:13:58|155b2cc84f7334abb222e4d19b11f97b|Legendary Billionaire Hedge Fund Manager Ray Dalio on Bitcoin and CBDCs|By CryptoGlobe| - Nov 12, 2020
+12/14/2020, 13:13:58|6bbe2b3515c691a4a45812dc8db83534|Price of Gold Fundamental Daily Forecast – Underpinned as Pandemic’s Second Wave Intensifies|By FXEmpire| - Nov 12, 2020
+12/14/2020, 13:13:58|280705c2ed40b75600abdc2e96015eac|Global stocks bulls halt their charge|By Reuters| - Nov 12, 2020
+12/14/2020, 13:13:58|a2014b90519e52e98ffa264917d900a3|Oil solidifies gains, gold drifting |By Marketpulse| - Nov 12, 2020
+12/14/2020, 13:13:58|fbf32b4f6c283b364307ed6263c54c1e|Bitcoin Beats Stocks, Gold, Bonds in Risk-Adjusted Returns: Research|By Bitcoinist| - Nov 12, 2020
+12/14/2020, 13:13:58|ad7e6a89171dd21505e3f1b614f2db28|European Stocks Weaken; Investors Consolidate After Week's Gains|By Investing.com| - Nov 12, 2020
+12/14/2020, 13:13:58|0027f6a90873ae86b607feee51fda758|Pfizer’s COVD-19 Vaccine weighs on Gold prices|By FXEmpire| - Nov 12, 2020
+12/14/2020, 13:15:21|efac16317b3535e703760d47c99918e9|European Stock Futures Lower; Vaccine Optimism Wanes|By Investing.com| - Nov 12, 2020
+12/14/2020, 13:15:21|06552d6b5111398c4e1bae8e5f247f70|Gold Up, Regains Some Lost Ground as Uncertainty Continues|By Investing.com| - Nov 11, 2020
+12/14/2020, 13:15:21|35ecd3834fb646e35f53e83904fa8361|Gold ends lower as rise in the dollar and stock market dulls the metal's appeal|By MarketWatch| - Nov 11, 2020
+12/14/2020, 13:15:21|7e5a7585eada04a9f149bdf81b4424a4|Gold Retreats to Mid-$1,800s as Wall Street Again Recycles Risk|By Investing.com| - Nov 11, 2020
+12/14/2020, 13:15:21|9c4736ea9f9879f4cc1d52c7f9bfcb06|Gold Price Prediction – Prices Edge Lower and Consolidate as the Dollar Gains Traction|By FXEmpire| - Nov 11, 2020
+12/14/2020, 13:15:21|57076d64a9c4d650b749fb043c9864a6|Short Sellers Jostle for Position on Gold-Mining Stocks|By 247wallst| - Nov 11, 2020
+12/14/2020, 13:15:21|7812dcf307517a80d2077d2374fd33a1|Gold Price Forecast – Gold Markets Get Hit|By FXEmpire| - Nov 11, 2020
+12/14/2020, 13:15:21|f44047412ffbc239f4ad424a9b70fef5|Gold Forecast – Gold Prices Approaching Minimum Target|By FXEmpire| - Nov 11, 2020
+12/14/2020, 13:15:21|8827591e2f9b383a47d082b0727f457f|Former billionaire hedge fund manager, Stanley Druckenmiller changes his tune on BTC revealing that he has in fact invested in the asset|By CryptoDaily| - Nov 11, 2020
+12/14/2020, 13:15:21|591b5e96c69aa0d23e0cace24d9445c3|Daily Gold News: Gold Fluctuates Following Monday’s Sell-off|By FXEmpire| - Nov 11, 2020
+12/14/2020, 13:18:26|907d7216b86074a0e188d8831c5bb75c|Oil higher, gold under pressure|By Marketpulse| - Nov 11, 2020
+12/14/2020, 13:18:26|cd8d684b90737a0bc3d58b59ac343528|Price of Gold Fundamental Daily Forecast – Bulls Want More Stimulus, Bears Betting on Successful Vaccine|By FXEmpire| - Nov 11, 2020
+12/14/2020, 13:18:26|34a9b2833d37eb6712a63815e350fb08|Metals Stocks: Gold prices slip as stocks, U.S. dollar and yields rise|By MarketWatch| - Nov 11, 2020
+12/14/2020, 13:18:26|67e2c558b16b48ff23d011306bdcfba1|Dow Futures Up 200 Pts; Vaccine Optimism Persists|By Investing.com| - Nov 11, 2020
+12/14/2020, 13:18:26|cf80af0dd05edc6885aad8665cd95745|Oil rally continues, gold edges up|By Marketpulse| - Nov 11, 2020
+12/14/2020, 13:18:26|6198a4a723cf1361b9ba8881a1ab3974|Despite The Falls, Medium-Term Outlook Favors Gold Buyers|By CryptoVibes| - Nov 11, 2020
+12/14/2020, 13:18:26|c9aba8cbae7b6eaf6fa9af4b4377222c|European Stocks Edge Higher; Corporate News in Focus|By Investing.com| - Nov 11, 2020
+12/14/2020, 13:18:26|dd26d7b067e177f4d865b796aa8f0e9a|European Stock Futures Edge Higher; E.ON in Focus|By Investing.com| - Nov 11, 2020
+12/14/2020, 13:18:26|4fbb5c5fefc0fa5bfef9812248d6bde9|Gold Up on U.S. Stimulus Hopes and COVID-19 Fears|By Investing.com| - Nov 10, 2020
+12/14/2020, 14:09:51|d9f56954e23ab497dd48898dd559c973|Billionaire Stan Druckenmiller Owns Bitcoin, Calls It Attractive Store of Value That Could Be Better Than Gold|By Bitcoin.com| - Nov 10, 2020
+12/14/2020, 14:09:51|5671dc390c805b7ecde2ab3daf660dbe|A Day After Meltdown, Gold Finds Way Back to Under $1,900|By Investing.com| - Nov 10, 2020
+12/14/2020, 14:09:51|244dbd61ac719f10b2b70568ad47e024|When Bitcoin Melts The System, Prosperity Steps In|By Bitcoin Magazine| - Nov 10, 2020
+12/14/2020, 14:09:51|40befe226c2b579458c18e2ce6ad16a0|MicroStrategy CEO Explains Why Bitcoin Is ‘a Million Times Better’ Than ‘Antiquated’ Gold|By Coindesk| - Nov 10, 2020
+12/14/2020, 14:09:51|0f2ab81b3a09bc4d5315165c5e211ca2|Gold Price Prediction – Prices Rebound Near Support but Yields Continue to Rise|By FXEmpire| - Nov 10, 2020
+12/14/2020, 14:09:51|c21ff5588ca83b24662fa8430d47d30c|Bitcoin Demand Getting Stronger, Admits Ex-Australian Senator|By CryptoPotato| - Nov 10, 2020
+12/14/2020, 14:09:51|fa8a13da783dd7b68dff39b6a3de8f73|Oil up on vaccine hopes, gold rebounds|By Marketpulse| - Nov 10, 2020
+12/14/2020, 14:09:51|7c79230fc704250fa693a40b7be0c4a9|Gold Price Forecast – Gold Markets Trying to Find Footing|By FXEmpire| - Nov 10, 2020
+12/14/2020, 14:09:51|2c0e8ee70d4e74d83ee96e06dcf2f4fe|Bullion Traders Gain Newly-Launched Gold Contracts From SmartFX|By CryptoVibes| - Nov 10, 2020
+12/14/2020, 14:09:51|0aa97e74d4e65e4dddaa0e32cdf62d1b|How institutions are looking away from gold and more into BTC|By CryptoDaily| - Nov 10, 2020
+12/14/2020, 14:10:02|070eb3ab0135a7524e01e0e7f68eb43c|Price of Gold Fundamental Daily Forecast – Accommodative Central Bank Policies Providing Support|By FXEmpire| - Nov 10, 2020
+12/14/2020, 14:10:02|96671815f870c6c74c9a60ac764ba437|Metals Stocks: Gold prices pop higher a day after sharpest daily drop in 7 years|By MarketWatch| - Nov 10, 2020
+12/14/2020, 14:10:02|affae8e09064bc30247d6db468377373|Daily Gold News: Gold’s Indecision Following 5% Drop|By FXEmpire| - Nov 10, 2020
+12/14/2020, 14:10:02|cbf5a5607023fcb0ca4f839f2c6407a8|U.S. Futures Mixed; Nasdaq Drops 169 Pts with Tech Out of Favor|By Investing.com| - Nov 10, 2020
+12/14/2020, 14:10:02|798654570bd6adfeab8c97a5b20a5bde|Gold (XAUUSD) Surges As Focus Shifts Back To Loose Monetary Policy|By CryptoVibes| - Nov 10, 2020
+12/14/2020, 14:10:02|3443cc68fb1fa62d19e2ca94b9cd2157|Oil jumps on vaccine news, gold slides|By Marketpulse| - Nov 10, 2020
+12/14/2020, 14:10:02|0769f49f4d2c95ae7a565cf34690881e|Billionaire Investor Explains Why He Now Likes Bitcoin|By CryptoGlobe| - Nov 10, 2020
+12/14/2020, 14:10:02|71acab16a88c8f77edaaa9b1b33eebf8|Silver Plunges 7% On Pfizer Vaccine News, But It Is Different From Gold|By CryptoVibes| - Nov 10, 2020
+12/14/2020, 14:10:02|2e013cba3cd2f2b9bb61ea39d03411c9|European Stocks Mostly Higher; Vaccine Enthusiasm Continues|By Investing.com| - Nov 10, 2020
+12/14/2020, 14:10:02|2128d3b4a37d1822ec270bec2b52f25d|It’s just a jump to the left|By Marketpulse| - Nov 10, 2020
+12/14/2020, 14:10:14|8309fda1d8e13c517ed750a46b2e07d5|European Stock Futures Mostly Lower; Caution Over Vaccine News|By Investing.com| - Nov 10, 2020
+12/14/2020, 14:10:14|ab6fa5bd5540e647a2bf042b968ab6b4|Gold Up After Vaccine News Price Slump|By Investing.com| - Nov 09, 2020
+12/14/2020, 14:10:14|33dd31589a70d56561010e67036349e9|Vaccine progress injects optimism into global stocks|By Reuters| - Nov 09, 2020
+12/14/2020, 14:10:14|526307c158c210d59869784a62a4cd9d|Gold Has Worst Day Since Aug on Covid Vaccine Progress|By Investing.com| - Nov 09, 2020
+12/14/2020, 14:10:14|70dc94bb1f2996909265e5de0eaf5f58|US Close – Light at the end of COVID tunnel, Record highs, Oil’s demand outlook improves, Vaccine news KO’d gold|By Marketpulse| - Nov 09, 2020
+12/14/2020, 14:10:14|b472391e778dde2027f31f91cc955ecc|Bitcoin Has a Lot of Attraction as a Store of Value: Billionaire Investor Druckenmiller|By CryptoPotato| - Nov 09, 2020
+12/14/2020, 14:10:14|71eb3eb1be7e30567dacad086f9be741|Institutional Investors Eye Bitcoin as Gold Alternative, JPMorgan Analysts Say|By CryptoGlobe| - Nov 09, 2020
+12/14/2020, 14:10:14|394bc1dafb38128e920f84f0473409bd|Gold Price Prediction – Prices Tumble as Yields Soar Following Vaccine Announcment|By FXEmpire| - Nov 09, 2020
+12/14/2020, 14:10:14|2bb31c3b27faa8781174e9c067383f9f|Gold futures suffered their biggest daily loss in over 7 years on Monday|By MarketWatch| - Nov 09, 2020
+12/14/2020, 14:10:14|8031a4290265b932a3854becc471d6e3|Gold futures log biggest daily loss in over 7 years|By MarketWatch| - Nov 09, 2020
+12/14/2020, 14:10:24|9bb7ccac76fe2c55fea6daab7b50469e|December gold drops $97.30, or about 5%, to settle at $1,854.40/oz|By MarketWatch| - Nov 09, 2020
+12/14/2020, 14:10:24|83c90dc41a8c90e942a7fde657d882e5|Gold falls, oil rises on vaccine news|By Marketpulse| - Nov 09, 2020
+12/14/2020, 14:10:24|0826bb69cee552116d66e59991884a8f|Price of Gold Fundamental Daily Forecast – Sharp Rise in Risky Assets Shakes Up Gold Market|By FXEmpire| - Nov 09, 2020
+12/14/2020, 14:10:24|914c7acf8bccff58346a59ef39482fc0|A Golden Idea Among Gold ETFs|By Benzinga| - Nov 09, 2020
+12/14/2020, 14:10:24|a0fa86f3ca0cc77829e60594f7bb8d88|Gold Price Forecast – Gold Markets Get Hammered After Vaccine News|By FXEmpire| - Nov 09, 2020
+12/14/2020, 14:10:24|6858fe90af42d9c50d0f52d1d2bf6cb9|Why a gold-backed token is seemingly perfect for the goal of Paxos|By CryptoDaily| - Nov 09, 2020
+12/14/2020, 14:10:24|c9b542e301ad2fb07abeb9e765bea1d8|Gold Tumbles the Most Since August After Vaccine Breakthrough|By Bloomberg| - Nov 09, 2020
+12/14/2020, 14:10:24|c191fbad5c37dfde9f3b96d9489c6331|Gold Price Forecast: Gold Price Target’s $1750|By FXEmpire| - Nov 09, 2020
+12/14/2020, 14:10:24|365b3792b17194185c2690ab8f1678e5|Metals Stocks: Gold prices fall by the most in 3 months amid report of effective coronavirus vaccine candidate|By MarketWatch| - Nov 09, 2020
+12/14/2020, 14:10:24|36185cd7aeeae23546a002d88d7166a0|Daily Gold News: Gold Lower Following Covid-19 Vaccine News|By FXEmpire| - Nov 09, 2020
+12/14/2020, 14:10:36|4664a451bb98e8eb8dda95d8bd1b74af|Treasury yields jump, gold suffers, tech stocks lag after Pfizer COVID-19 trial news|By MarketWatch| - Nov 09, 2020
+12/14/2020, 14:10:36|8bcc7e2d4e13e5585169b1b6289a2c4a|Treasury yields jump and gold stumbles after Pfizer COVID-19 vaccine trial|By MarketWatch| - Nov 09, 2020
+12/14/2020, 14:10:36|e8a220871a99b57db2fd9b118d3d80b6|Dow Futures Soar; Pfizer Announces Positive Vaccine News|By Investing.com| - Nov 09, 2020
+12/14/2020, 14:10:36|18d4f3c7a71de2bc061f2ba5f262f66b|JP Morgan: Bitcoin Could Rise 10x as it Competes With Gold for Institutional Investors|By CryptoPotato| - Nov 09, 2020
+12/14/2020, 14:10:36|35565e87081b418f0e4d03b1e565f6d3|USI Recognized for Workplace Health Achievement by the American Heart Association Three Years in a Row|By Benzinga| - Nov 09, 2020
+12/14/2020, 14:10:36|8baed65bfd872427bffed09b5c9b0b44|Biden win boosts oil and gold prices|By Marketpulse| - Nov 09, 2020
+12/14/2020, 14:10:36|98797199a43c9aa22072976ce2a48863|Gold (XAUUSD) Bulls Must Beat $1973 To Confirm An Upside Momentum|By CryptoVibes| - Nov 09, 2020
+12/14/2020, 14:10:36|bbd144ab926efd3495419718bd4f3a56|European Stocks Higher on Biden Win; Infineon Shines|By Investing.com| - Nov 09, 2020
+12/14/2020, 14:10:36|86289b58a90a7d96dfcd32adeb2d3e1c|European Stock Futures Higher; Biden Win Boosts Risk Sentiment|By Investing.com| - Nov 09, 2020
+12/14/2020, 14:10:36|a74951517d0680bee96a45b0c09a2aab|Price of Gold Fundamental Weekly Forecast – More Accommodative Fed Key to Next Price Surge|By FXEmpire| - Nov 09, 2020
+12/14/2020, 14:10:48|9355e0a7152f0043e312da0f3497374b|Gold Up on U.S. Stimulus Hopes After Democrat Election Win|By Investing.com| - Nov 08, 2020
+12/14/2020, 14:10:48|6cee01ab264e4e2e4af0aaa9ffcfbd38|Oil Climbs Toward $38 After Biden Victory; Gold Gains Third Day|By Bloomberg| - Nov 08, 2020
+12/14/2020, 14:10:48|6856af0be3a28b3e87ac53b3340cc1e2|Family Offices May Now See Bitcoin as Alternative to Gold: JPMorgan Report|By Coindesk| - Nov 08, 2020
+12/14/2020, 14:10:48|39e2c84882fe681fcf27a60b183abb00|Is MicroStrategy’s $425 Million Investment in Bitcoin the Greatest Bet of All Time?|By CryptoGlobe| - Nov 08, 2020
+12/14/2020, 14:10:48|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Nov 08, 2020
+12/14/2020, 14:10:48|b784c897a19663fc8cea250033c9c5cd|Gold Consumption Recovers Majorly In China In Q3 2020|By CryptoVibes| - Nov 08, 2020
+12/14/2020, 14:10:48|1c1efb096f6bf20d6ded41dbcb6595c7|Gold (XAUUSD) Price Is Heading Towards Resistance Level at $1,976|By CryptoVibes| - Nov 07, 2020
+12/14/2020, 14:10:48|1b0e416ff273a78a8cdf75aea4f8c422|Legendary Value Investor: Bitcoin’s ‘Staying Power Gets Better Every Day’|By CryptoGlobe| - Nov 07, 2020
+12/14/2020, 14:10:48|3010c2ee63be8b05487056b04b5e5ad1|Election Day Jitters? Put Your Trust in Gold|By ETF Trends| - Nov 07, 2020
+12/14/2020, 14:10:48|03f35302b4010617c61d150d6f0927d4|Gold bulls cheer the prospect of a Biden presidency, igniting the biggest rally since July|By Fortune| - Nov 07, 2020
+12/14/2020, 14:11:05|28042b01f517e886dec3b5b338928db3|Gold Could “Absolutely” Hit $2,000 Again In 2020|By ETF Trends| - Nov 06, 2020
+12/14/2020, 14:11:05|d5a527868959fec4c951e700099f8790|Stocks Slow from Wild Week as World Awaits Biden Vs Trump|By Investing.com| - Nov 06, 2020
+12/14/2020, 14:11:05|ac40a69dd87057a6aa769744c53e62d8|Week Ahead – What next after election mayhem?|By Marketpulse| - Nov 06, 2020
+12/14/2020, 14:11:05|9739d207bb596096584977530d49ecbc|Gold Weekly Price Forecast – Gold Shows Bullish Candle for the Week|By FXEmpire| - Nov 06, 2020
+12/14/2020, 14:11:05|9e20f20aecaebc48574406de56521610|Gold up 4% on Week As Biden’s Election Lead Rekindles Stimulus Hope|By Investing.com| - Nov 06, 2020
+12/14/2020, 14:11:05|cd9e4ec2141db5cf8417c9dab7f6bf39|Gold Price Prediction – Prices Consolidate Following Strong Payroll Gains|By FXEmpire| - Nov 06, 2020
+12/14/2020, 14:11:05|f56354e7d617041a908e6aeffd3f42bb|Gold settles higher Friday and logs sharpest weekly rise in more than 3 months|By MarketWatch| - Nov 06, 2020
+12/14/2020, 14:11:05|4ec994cb068f5b31eeb8ca286af919bb|Dow Slips as U.S. Election Results Hang in the Balance|By Investing.com| - Nov 06, 2020
+12/14/2020, 14:11:05|8a1aaa7557a1e30354d0f1e470f998ae|Gold Price Forecast – Gold Markets Show Signs of Exhaustion|By FXEmpire| - Nov 06, 2020
+12/14/2020, 14:11:05|eb92d2b243813945cb2eee41838d2290|Gold Hasn't Behaved Like a Haven Recently|By The Wall Street Journal| - Nov 06, 2020
+12/14/2020, 14:11:29|a58a68ddbe927234e866b0c9968f18d0|Gold Forecast – Gold Starting Next Major Advance|By FXEmpire| - Nov 06, 2020
+12/14/2020, 14:11:29|30b84b3bc1cfc6bd23958ee825bbd0aa|FOMO and Fed Chair Powell’s Comments Push Bitcoin Price Closer to All-Time High|By CryptoGlobe| - Nov 06, 2020
+12/14/2020, 14:11:29|435fe8643250195f2b693c74ec4a043b|US Update: Biden victory imminent, Yields pop on strong NFP report, Dollar outlook, Oil lower on virus concerns, Gold’s bullish outlook is back, Bitcoin eyes record territory|By Marketpulse| - Nov 06, 2020
+12/14/2020, 14:11:29|cf96ef5afcd70ed503c447df5aa16120|Gold Hits $1960 As US Nonfarm Payrolls Come In Strong|By CryptoVibes| - Nov 06, 2020
+12/14/2020, 14:11:29|84f49d873133f73fbaac08147183f35a|Metals Stocks: Gold prices climb, aim for biggest weekly rise in 3 months as U.S. dollar sees sharpest slide since March|By MarketWatch| - Nov 06, 2020
+12/14/2020, 14:11:29|b8849d43409e55c374dff4b321bbb6bd|Price of Gold Fundamental Daily Forecast – Fed May Have to Fill Gap Left by Lower Fiscal Stimulus Hopes|By FXEmpire| - Nov 06, 2020
+12/14/2020, 14:11:29|92ecb8437756f526f25794c722e6bbf4|Daily Gold News: Gold’s Breakout Following U.S. Dollar’s Decline|By FXEmpire| - Nov 06, 2020
+12/14/2020, 14:11:29|c8f5730bb1c6756fb020530fb340b5b1|Gold surges higher, oil slides lower|By Marketpulse| - Nov 06, 2020
+12/14/2020, 14:11:29|84b324d6c87b1594dc2a926c2a4b1faf|Dow Futures Down 120 Pts; Election Still Uncertain, Payrolls Due|By Investing.com| - Nov 06, 2020
+12/14/2020, 14:11:29|5bd8d13d492a9a553051aed99d7d8531|Payrolls Due, Stocks Retrace; Biden leads in Georgia - What's up in Markets|By Investing.com| - Nov 06, 2020
+12/14/2020, 14:11:44|d09de885c9714596b7db956c68f690a6|Need to Know: Time to move on? Here’s one investor’s advice on what to do after the election|By MarketWatch| - Nov 06, 2020
+12/14/2020, 14:11:44|7e88caa6ef8efc2b3636f8c954f93e74|Oil slips, gold climbs on dollar doldrums|By Marketpulse| - Nov 06, 2020
+12/14/2020, 14:11:44|137cce251a5b4c9c4bdae5d32524535a|European Stocks Fall on Election Uncertainty and Virus Fears|By Investing.com| - Nov 06, 2020
+12/14/2020, 14:11:44|e9c67a4b68d14fc6653e02c642e9a468|European Stock Futures Lower; Consolidating After Recent Gains|By Investing.com| - Nov 06, 2020
+12/14/2020, 14:11:44|3da5dd0cd82f8dd672089d85f372ce16|Gold Down, Still No U.S. Election Results While Fed Keeps Policy Unchanged|By Investing.com| - Nov 05, 2020
+12/14/2020, 14:11:44|e4bb79c62922f7b5ae779dba432e041f|Gold Heads for Biggest Weekly Gain Since July on Stimulus Hopes|By Bloomberg| - Nov 05, 2020
+12/14/2020, 14:11:44|bddcea59081076e8b8b8099a8df409d9|Advisors Debate Short-Term Inflation Outlook, But Warn for Long-Term Impact|By ETF Trends| - Nov 05, 2020
+12/14/2020, 14:11:44|60932b60011d1791a6dec60277c176e1|Gold Price Prediction – Prices Surge as the Dollar Drops as the Yellow Metal Breaks Out|By FXEmpire| - Nov 05, 2020
+12/14/2020, 14:11:44|1451f31fdd443244ac23dc1c04fd3c76|Gold futures log highest finish in 7 weeks, then edge higher after FOMC statement|By MarketWatch| - Nov 05, 2020
+12/14/2020, 14:11:44|304959f5e4cae237b973b578582dec3f|Bitcoin explodes, gold higher, oil pauses|By Marketpulse| - Nov 05, 2020
+12/14/2020, 14:11:53|e35ce151bbffa53c3939879981f6fa56|Why Gold Miners Barrick and Kinross Could Raise Dividends Even Higher|By 247wallst| - Nov 05, 2020
+12/14/2020, 14:11:53|6d0a87c1affd3ae72060763f06879d68|Gold Ticks Higher Amid Election and Lagging Service Sector|By ETF Trends| - Nov 05, 2020
+12/14/2020, 14:11:53|407fb7fb0803d9d917a0fb725472724a|ETF Wrap: ETF Wrap: Dude, where’s my returns?|By MarketWatch| - Nov 05, 2020
+12/14/2020, 14:11:53|1ce8d889a1d4b05d14b130be475f3dd8|Gold Price Forecast – Gold Markets Rally On Weak US Dollar|By FXEmpire| - Nov 05, 2020
+12/14/2020, 14:11:53|6457d82beffcf639ca8304104079a6f5|Gold Tops Above $1,950 in Massive Break Out as Dollar Tumbles|By Investing.com| - Nov 05, 2020
+12/14/2020, 14:11:53|da79ed55f20b3fb15206b80751ceeae1|GC Rieber Shipping: Third quarter results 2020|By Hellenic Shipping News| - Nov 05, 2020
+12/14/2020, 14:11:53|9fd766b830257d6ea1f47f8e5cf1c496|Metals Stocks: Gold gains ground as U.S. dollar slumps|By MarketWatch| - Nov 05, 2020
+12/14/2020, 14:11:53|2aa4b370c3c5cc5302e357dec96db7fb|Is Gold the Only Winner?|By FXEmpire| - Nov 05, 2020
+12/14/2020, 14:11:53|8c89087cb89e1e75881d9873d76b5cf3|Daily Gold News: Gold Higher as Election Uncertainty Persists|By FXEmpire| - Nov 05, 2020
+12/14/2020, 14:11:53|7ffd8fc399c1644315e4cb5895ae46d7|Oil outlook softens, gold stays above 1900|By Marketpulse| - Nov 05, 2020
+12/14/2020, 14:12:09|e8ba2a1fc4a0cec318a30bebb0bdbfd6|Gold choppy on election mayhem|By Marketpulse| - Nov 05, 2020
+12/14/2020, 14:12:09|257604fdf81c30b579cb74d21a3866e1|Dow Futures Soar 383 Pts; Presidential Election Result Draws Nearer|By Investing.com| - Nov 05, 2020
+12/14/2020, 14:12:09|cb449f79aad265cd48fd476cda51646f|Price of Gold Fundamental Daily Forecast – Upside Bias Continues as Biden Moves Closer to Victory|By FXEmpire| - Nov 05, 2020
+12/14/2020, 14:12:09|958e40e9e56aa2ab634ec77c90e6ef00|Why an Upward Price Trajectory is in Play for Gold|By FXEmpire| - Nov 05, 2020
+12/14/2020, 14:12:09|7480d43e6a14cace70f28846acef9665|Gold Price Expected to Rally Despite Concerns About Lockdown 2.0|By Bitcoin.com| - Nov 05, 2020
+12/14/2020, 14:12:09|be01a83b0363878bf69f19a421fae8b6|Crude prices gain ground, gold drifting|By Marketpulse| - Nov 05, 2020
+12/14/2020, 14:12:09|c42920a57db4bbed2b732003b2e62c11|Gold Tumbles As US Vote Count Continues, Oil Recovers|By CryptoVibes| - Nov 05, 2020
+12/14/2020, 14:12:09|a8127b6a863d0f9aebe0c29a2492b78a|European Stocks Higher; U.S. Gridlock and BOE Stimulus Help|By Investing.com| - Nov 05, 2020
+12/14/2020, 14:12:09|c593e8f7ebdc9b1d203f4ee7a93ac840|European Stock Futures Higher; U.S. Gridlock Appeals|By Investing.com| - Nov 05, 2020
+12/14/2020, 14:12:09|23b7b5867f5c49b19b3a1aa04c8fba56|Gold Rises on Likely U.S. Election Outcome|By Investing.com| - Nov 04, 2020
+12/14/2020, 14:12:29|5fb90898d171a8eff970f18aad70ba4d|83 Tons of Fake Gold Bars in China: This Man Claims to Know the Truth|By Bitcoin.com| - Nov 04, 2020
+12/14/2020, 14:12:29|7650cc1e343eb5d9943cb13b1f954249|Election Update: Biden nears 270, UK Stimulus is coming, Oil follows broader risk rally, Gold likely to get boost from central banks|By Marketpulse| - Nov 04, 2020
+12/14/2020, 14:12:29|725d1f41123c1b2a418e2eaf0f305194|Gold futures settle back under the $1,900 mark|By MarketWatch| - Nov 04, 2020
+12/14/2020, 14:12:29|18c2aaed7c2fab61f5c86920511ac2ce|Is Gold the Real Winner of the 2020 Election?|By ETF Trends| - Nov 04, 2020
+12/14/2020, 14:12:29|aa0ae5477f3fa066d8174585ae277147|Gold Price Prediction – Prices Consolidate Following Unresolved Election Results|By FXEmpire| - Nov 04, 2020
+12/14/2020, 14:12:29|62572df4c1d9774a51eb4930e85b30ef|A truly historic day|By Marketpulse| - Nov 04, 2020
+12/14/2020, 14:12:29|70b76b503f1d30e389f8b5f6e206e1a8|Gold Price Forecast – Gold Markets Continue Range Bound Trading|By FXEmpire| - Nov 04, 2020
+12/14/2020, 14:12:29|3e0a9c234d3d83765ece60af60a467a2|US Open – Bye Bye Blue Wave, Dollar roars back, Oil’s choppy outlook, Gold steady|By Marketpulse| - Nov 04, 2020
+12/14/2020, 14:12:29|2d937adb4141ec92f60c7aaf3d0b792d|Should You Invest In Gold Right Now?|By Benzinga| - Nov 04, 2020
+12/14/2020, 14:12:29|e451aef660a8fc5b556ca9af23cf95ec|Metals Stocks: Gold prices fight for altitude as prospect for ‘blue wave’ fiscal-aid package in Congress seen dimming|By MarketWatch| - Nov 04, 2020
+12/14/2020, 14:12:57|9770ff93dd41138b7c8dbc8b8febbe61|Daily Gold News: Gold is Volatile, but Still at $1,900|By FXEmpire| - Nov 04, 2020
+12/14/2020, 14:12:57|7dad7ea35b05fdfa745ee80360c1393d|Gold Slides After Elections, but Before Results|By FXEmpire| - Nov 04, 2020
+12/14/2020, 14:12:57|a3647e0176e03cd43164afb0a28925c5|Price of Gold Fundamental Daily Forecast – Expect Two-Sided Trade as Election is Too Close to Call|By FXEmpire| - Nov 04, 2020
+12/14/2020, 14:12:57|a0c2d791a19c3e977e4b8f8f6b87c404|Nasdaq Futures Soar; Tech Gains as Election Hangs in the Balance|By Investing.com| - Nov 04, 2020
+12/14/2020, 14:12:57|d1c4f9414e19e2f8f8bc8796e01c38e1|OPEC+ boosts oil, gold gains ground|By Marketpulse| - Nov 04, 2020
+12/14/2020, 14:12:57|00ac4685bf37a1fba0290d6cd6d36cb4|European Stocks Lower as Hope for Clear Election Result Fades|By Investing.com| - Nov 04, 2020
+12/14/2020, 14:12:57|5c05c78b576ab60a074f92f9495d20cc|Gold Will Gain Massively After The US Presidential Election, Here Is Why|By CryptoVibes| - Nov 04, 2020
+12/14/2020, 14:12:57|1bce9692b1257e3e182395067fda7c5a|European Stock Futures Lower as Trump Takes Election to the Wire|By Investing.com| - Nov 04, 2020
+12/14/2020, 14:12:57|ecc66a88a42540573cd99a725ea0e753|Gold Falls as Greenback Strengthens on U.S. Election Outcomes|By Investing.com| - Nov 03, 2020
+12/14/2020, 14:12:57|d2751272ceb3d770a08269bc7c431b60|Jim Cramer: Gold is flashing signs 'you want to see in a chart'|By CNBC| - Nov 03, 2020
+12/14/2020, 14:13:11|07f6d046dce3a9f01f060f73311cc1d3|Oil and Gold Brace for Volatility as Voting Wraps Up Across U.S.|By Bloomberg| - Nov 03, 2020
+12/14/2020, 14:13:11|a150a91e77942f5e64804effc3648aac|Oversupply concerns likely to keep oil prices under pressure: Kotak Securities|By Hellenic Shipping News| - Nov 03, 2020
+12/14/2020, 14:13:11|c593625a1e405c1887bd33754d107c80|How Will Gold Prices React To The Elections?|By Oilprice.com| - Nov 03, 2020
+12/14/2020, 14:13:11|6efbdf1d256bec3c3eecf7dbaa2866b0|US Close – BlueWave remains the base case, FX ready to pounce on the dollar, Oil higher as OPEC+ considers more cuts, Gold ready for one more run, Ant IPO suspended|By Marketpulse| - Nov 03, 2020
+12/14/2020, 14:13:11|76763c2ebad77839370e2dada3055948|Gold Shoots Back Above $1,900 on U.S. Election Uncertainty, Covid|By Investing.com| - Nov 03, 2020
+12/14/2020, 14:13:11|98a2fbd33992c366554e3bcbf987db2f|Gold Price Prediction – Gold Hits 2-week High as Dollar Slides|By FXEmpire| - Nov 03, 2020
+12/14/2020, 14:13:11|ab387d6f84db7bb70b44bd770a32cac1|Gold futures settle at 1-week high on Election Day|By MarketWatch| - Nov 03, 2020
+12/14/2020, 14:13:11|8200037bcf6f197c40443e8e92187bc2|Commodities Corner: Why gold will be the ultimate winner of the U.S. presidential election|By MarketWatch| - Nov 03, 2020
+12/14/2020, 14:13:11|22698cac60ad0ff58b7df85d70011b0a|Gold Price Forecast – Gold Markets Continue to Grind Higher|By FXEmpire| - Nov 03, 2020
+12/14/2020, 14:13:11|7f02307d3ecd581280dff9748dd7feef|Oil rebounds, gold prices rally|By Marketpulse| - Nov 03, 2020
+12/14/2020, 14:13:47|32bb447ced55d6c85169394995e89448|Gold ETFs to Shine Regardless of the Election|By ETF Trends| - Nov 03, 2020
+12/14/2020, 14:13:47|ff35049cc2357de103ef78765630fa64|Metals Stocks: Gold prices rise as investors brace for U.S. Election Day|By MarketWatch| - Nov 03, 2020
+12/14/2020, 14:13:47|c866bbed349a4d3f310c7e69ee71d4a3|Daily Gold News: Gold Price vs. U.S. Presidential Election|By FXEmpire| - Nov 03, 2020
+12/14/2020, 14:13:47|d25218865b1bd3ca3e6cca43636ff01c|Price of Gold Fundamental Daily Forecast – Biden Win Means More Stimulus, Weaker Dollar, Higher Gold Demand|By FXEmpire| - Nov 03, 2020
+12/14/2020, 14:13:47|041ff3d416e3265618835f9a4cb068f9|Dow Futures Soar 442 Pts in Speculation on Clear Election Result|By Investing.com| - Nov 03, 2020
+12/14/2020, 14:13:47|b56699d3484deb9728142dccb9532b0a|Oil and gold head to higher ground|By Marketpulse| - Nov 03, 2020
+12/14/2020, 14:13:47|1e4023cab23a10cd73c43e77ffb42ef9|Gold Is Jittery Awaiting US Elections Outcome|By CryptoVibes| - Nov 03, 2020
+12/14/2020, 14:13:47|868f085cde9a6e743a9fdc614a63ea77|European Stocks Higher Ahead of U.S. Election; BNP Paribas Helps|By Investing.com| - Nov 03, 2020
+12/14/2020, 14:13:47|f096335ae7bb89f1d508127ff1cd45af|European Stocks Seen Higher; U.S. Election in Spotlight|By Investing.com| - Nov 03, 2020
+12/14/2020, 14:13:47|8594015614fd76c38641983dcd9a1135|Gold Down, as Focus Centers on U.S. Elections|By Investing.com| - Nov 02, 2020
+12/14/2020, 14:14:00|65da9ca811560cdcc737b7ce112e3c33|Election Day Eve, ISM impresses, Oil Rebounds, Gold higher on election risks and Fed action prospects, Commodity Currencies Rally|By Marketpulse| - Nov 02, 2020
+12/14/2020, 14:14:00|7bd244cf17f8c045fe61c379cc734389|Gold Edges Toward $1,900 on Covid, U.S. Election Uncertainty|By Investing.com| - Nov 02, 2020
+12/14/2020, 14:14:00|4e85679ab73ddd27296df5414e2b83ba|: Investors pine for a ‘clear victory’ — what’s at stake for markets in the Biden-Trump election showdown|By MarketWatch| - Nov 02, 2020
+12/14/2020, 14:14:00|46465a8ca7127b042e729f4523ce32ca|Gold Price Prediction – Prices Rise Ahead of US General Election|By FXEmpire| - Nov 02, 2020
+12/14/2020, 14:14:00|8469b94b9e0df7b6e042728f942e33de|Gold futures post a second straight gain|By MarketWatch| - Nov 02, 2020
+12/14/2020, 14:14:00|f3c43f622a9856aa84f4a7da82d31edf|Gold Investors Should Look at Past Elections|By FXEmpire| - Nov 02, 2020
+12/14/2020, 14:14:00|88e149bfd282cdc0243ebf79768dd1cb|Are Gold Prices Headed for a Roller Coaster Ride This Week?|By ETF Trends| - Nov 02, 2020
+12/14/2020, 14:14:00|56422c6c56e105e3ea7458b00af017e6|Gold Price Forecast – Gold Markets Grind Higher|By FXEmpire| - Nov 02, 2020
+12/14/2020, 14:14:00|6e73bc74e999f0cd59747f98edc2ddb1|Gold Forecast – Critical Post Election Price Levels|By FXEmpire| - Nov 02, 2020
+12/14/2020, 14:14:00|ed9929a1965608f6f2046464ac62ba75|Metals Stocks: Gold edges higher as COVID cases rise, U.S. election looms|By MarketWatch| - Nov 02, 2020
+12/14/2020, 14:14:14|97ca8535bdb7690865c415c6d2466db0|Oil slides, gold finds support|By Marketpulse| - Nov 02, 2020
+12/14/2020, 14:14:14|fed7291ad50db36f60866e107a86b9b1|Daily Gold News: Gold Gaining Ahead of U.S. Presidential Election|By FXEmpire| - Nov 02, 2020
+12/14/2020, 14:14:14|ce7bd9e0f0d81df7f6b2b11d93bb0de5|Price of Gold Fundamental Daily Forecast – Early Strength Suggests Bets are on Biden|By FXEmpire| - Nov 02, 2020
+12/14/2020, 14:14:14|d96d39a52308ab6c4d18e29cb216a169|Dow Futures Rise 440 Pts; Election Campaign Nears End|By Investing.com| - Nov 02, 2020
+12/14/2020, 14:14:14|0b820f719076144056fa09baa80920ff|Gold remains vulnerable, oil slides|By Marketpulse| - Nov 02, 2020
+12/14/2020, 14:14:14|1bb1623a2e5832fe945079eda459ee51|Gold Traders Holding on Amid COVID-19 Attacks|By FXEmpire| - Nov 02, 2020
+12/14/2020, 14:14:14|1511ab1b38973b25bf6bfcd873d4c947|Oil slides on Covid concerns, gold steady|By Marketpulse| - Nov 02, 2020
+12/14/2020, 14:14:14|904e9900ed3c5550b9462e76f9ca53d4|European Stocks Weaker; Lockdowns, U.S. Political Uncertainty Weigh|By Investing.com| - Nov 02, 2020
+12/14/2020, 14:14:14|64cfa2a28848ab5b7d843221401c337b|Gold Looks South As US Election Jitters And COVID-19 Affect Markets|By CryptoVibes| - Nov 02, 2020
+12/14/2020, 14:14:14|fbcfb5f77423f3cb5f94943b0040800d|European Stocks Seen Lower; More Lockdowns Weigh|By Investing.com| - Nov 02, 2020
+12/14/2020, 14:14:28|0f085566d76f50081310711c4e52e76a|Gold Rises as Investors Hedge|By Investing.com| - Nov 01, 2020
+12/14/2020, 14:14:28|c6ccdce545d80ec414dc2de3493bb2f5|Hong Kong biotech firm says its 30-minute coronavirus tests are 'comparable' to the 'gold standard'|By CNBC| - Nov 01, 2020
+12/14/2020, 14:14:28|c40c72411fac4325fbb10a8bc9b8f535|Gold Holds Advance Ahead of U.S. Election, Fed’s Policy Meeting|By Bloomberg| - Nov 01, 2020
+12/14/2020, 14:14:28|82b3593111563df6670e63e7e2315b6f|Opinion: After Massive Gold Selloff, Central Banks Should Buy Some Bitcoin Now|By CryptoPotato| - Nov 01, 2020
+12/14/2020, 14:14:28|4bc8cc95ab689c166071ef1e30f69d89|Price of Gold Fundamental Weekly Forecast – Short-Term Volatile; Long-Term Up Trend Supported by Central Banks|By FXEmpire| - Nov 01, 2020
+12/14/2020, 14:14:28|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Nov 01, 2020
+12/14/2020, 14:14:28|b94f6007089e47b2fcee03eed81c2c9d|How Will the Election Impact Your Portfolio?|By ETF Trends| - Nov 01, 2020
+12/14/2020, 14:14:28|89585769461fc265eb76e73a76dabd1c|Gold Up, Poised for $1,900, on US Election Jitters, New Stimulus Hope|By Investing.com| - Oct 30, 2020
+12/14/2020, 14:14:28|9e352eec132c19d5ee0fd724f4b34c66|Dow Futures Fall 233 Pts; Tech Giants Disappoint|By Investing.com| - Oct 30, 2020
+12/14/2020, 14:14:28|e0f6319fe542f8689660765281dffee1|European Stocks Lower; France Downgrades 2020 Growth Forecast|By Investing.com| - Oct 30, 2020
+12/14/2020, 14:14:37|e369161805f65fe7b9329788c70905c4|European Stocks Seen Sharply Lower; Eurozone Q3 GDP Due|By Investing.com| - Oct 30, 2020
+12/14/2020, 14:14:37|069d6711de0eaf8b4d1a1c4aedcbd276|Gold Up, Boosted by Weaker Dollar, U.S. Stimulus Disappointment|By Investing.com| - Oct 30, 2020
+12/14/2020, 14:14:37|e6ee7f301e0165edaecf1f74bce81dd7|Gold in Worst Monthly Run Since 2019 as Investors Await Election|By Bloomberg| - Oct 29, 2020
+12/14/2020, 14:14:37|fbc5e438c45629878b384408850a701a|Gold Dips on Worries of More Stimulus Delay After U.S. Election|By Investing.com| - Oct 29, 2020
+12/14/2020, 14:14:37|a2addf2bdb9c9ba97585e14a3c607601|Gold Extends Drop to One-Month Low Amid Dollar-Driven Slump|By Bloomberg| - Oct 29, 2020
+12/14/2020, 14:14:37|b04ae2fa2544bacc165dd7ebe65f7c38|U.S. Futures Mixed; Earnings and Q3 GDP in Focus|By Investing.com| - Oct 29, 2020
+12/14/2020, 14:14:37|e245dc55ab31737b678b5406f1894dad|European Stocks Edge Higher; Corporate News Helps Ahead of ECB|By Investing.com| - Oct 29, 2020
+12/14/2020, 14:14:37|bc6aae959ee843373cecf84c64d6e28f|European Stocks Seen Higher; Lockdowns Put Pressure on ECB|By Investing.com| - Oct 29, 2020
+12/14/2020, 14:14:37|f469524573ac0c781df26a74cea4fc67|Gold Up, Europe Lockdowns and U.S. Election Uncertainty Prompt Flight to Safety|By Investing.com| - Oct 29, 2020
+12/14/2020, 14:14:37|8fe7fc559e75521ce7a7ebe492afb5db|Dow Futures Down 485 Pts; Virus Surge Prompts Lockdown Fears|By Investing.com| - Oct 28, 2020
+12/14/2020, 14:14:48|1ae38e8b2986553917ee4258d646cfd5|European Stocks Slump on Virus Worries; Deutsche Bank Returns to Profit|By Investing.com| - Oct 28, 2020
+12/14/2020, 14:14:48|d0cd9025f90889a93c44004ee46abbe1|European Stocks Seen Lower; Virus Prompts Lockdown Fears|By Investing.com| - Oct 28, 2020
+12/14/2020, 14:14:48|fe060d0af7ede66df2b1323feece8266|JPMorgan Says Trump Win Could Spur U.S. Stocks, Dent Asia Assets|By Bloomberg| - Oct 28, 2020
+12/14/2020, 14:14:48|2413beefe6b7f1b038926c3afa972c6f|Gold Down Over Strong Dollar, Fading Hopes for U.S. Stimulus Measures|By Investing.com| - Oct 28, 2020
+12/14/2020, 14:14:48|8d1e5d8ced54dec5a9f71ef27a188a88|Gold up 3rd Day in Row as Covid Concerns Boost Havens|By Investing.com| - Oct 27, 2020
+12/14/2020, 14:14:48|2ec80edaeda7a5eedb30b4474da976da|Dow Futures Up 104 Pts; Earnings Deluge in Focus|By Investing.com| - Oct 27, 2020
+12/14/2020, 14:14:48|622ada2338c08d078c43858d7dfcf0f1|European Stocks Slip as Virus Weighs; HSBC Shines|By Investing.com| - Oct 27, 2020
+12/14/2020, 14:14:48|020800d9d349f4f7e033c51b89fe58f0|European Stocks Set to Rise at Open; HSBC Puts Banking Sector in Focus|By Investing.com| - Oct 27, 2020
+12/14/2020, 14:14:48|22de0616b6ebc570603180b1ffb46689|Asian shares slip as surging coronavirus cases weigh on global economy|By Reuters| - Oct 27, 2020
+12/14/2020, 14:14:48|61cdaf38347f0574a6550173903f2c24|Gold Up, Boosted By U.S. Jitters and Weak Dollar|By Investing.com| - Oct 27, 2020
+12/14/2020, 14:14:57|6ffa19313ed377ca1a063a49480adc2e|Gold Holds Its Ground as Traders Weigh Stimulus, Equity Selloff|By Bloomberg| - Oct 26, 2020
+12/14/2020, 14:14:57|cebd00aea86b6a0700259d7c80913eec|Gold Rock-Solid Just Above $1,900 as Dollar Holds, Dow Plunges|By Investing.com| - Oct 26, 2020
+12/14/2020, 14:14:57|64ed7fc2566e253faa46987fd1d17870|Dow Futures Down 284 Pts; Virus Resurgence Weighs|By Investing.com| - Oct 26, 2020
+12/14/2020, 14:14:57|441654f361002cfff86214a586b992c2|European Stocks Slump; Virus Surge and SAP Warning Weigh|By Investing.com| - Oct 26, 2020
+12/14/2020, 14:14:57|a6ced10488f65729442e9dcf3ee56d9a|European Stocks Seen Sharply Lower; Virus Surge Weighs|By Investing.com| - Oct 26, 2020
+12/14/2020, 14:14:57|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Oct 25, 2020
+12/14/2020, 14:14:57|d8ca6a196b18b40b2523f26598fa02a1|Gold Looks For Footing After Pause Button Hit on U.S. Stimulus|By Investing.com| - Oct 23, 2020
+12/14/2020, 14:14:57|044c4404a9d70e46b2a90ceb7197c6d0|U.S. Futures Just Higher; Stimulus, Gilead Drug in Focus|By Investing.com| - Oct 23, 2020
+12/14/2020, 14:14:57|b85d2de0b695be7f28474110e33a00b4|European Stocks Gain on Signs of Economic Recovery; Carmakers Shine|By Investing.com| - Oct 23, 2020
+12/14/2020, 14:14:57|483b36fa24f788cd47870deef85a96e1|European Stocks Mixed; Investors Digest U.S. Presidential Debate|By Investing.com| - Oct 23, 2020
+12/14/2020, 14:15:06|c9df8d1c1a8e55b79a6401d0470d9a01|Gold Up Over Strengthening Dollar, Trump and Biden Debate|By Investing.com| - Oct 23, 2020
+12/14/2020, 14:15:06|5a0fd063b2cb6c536d03f02fab62509d|Gold Snaps Three-Day Rally as Dollar Rebounds, US Stimulus Talks Drag|By Investing.com| - Oct 22, 2020
+12/14/2020, 14:15:06|ebb0eedb9eac681a0adf3b27c26be0cc|U.S. Futures Just Lower; Stimulus Talks and Jobless Claims in Focus|By Investing.com| - Oct 22, 2020
+12/14/2020, 14:15:06|7a16101d57676d355aec159f085f4e46|Global markets: Sentiment sapped by COVID surge, stimulus stalemate|By Reuters| - Oct 22, 2020
+12/14/2020, 14:15:06|d39eb2ac0ec59d121a04d98c0748c907|European Stocks Fall; German Sentiment Weakens as Virus Cases Mount|By Investing.com| - Oct 22, 2020
+12/14/2020, 14:15:06|eb78c4e7037fd8c73abba5920641d33d|Commodities headed for bull market in 2021 on inflation fears, stimulus: Goldman Sachs|By Reuters| - Oct 22, 2020
+12/14/2020, 14:15:06|8e65fb4fad3e75ec900b6f262efc2c2b|European Stocks Seen Lower; Uncertainty Over U.S. Stimulus Weighs|By Investing.com| - Oct 22, 2020
+12/14/2020, 14:15:06|c413907641684b2169cf8d5f25f11b97|Gold Down Over Strong Dollar, Investors Keep Eye on Stimulus Progress|By Investing.com| - Oct 22, 2020
+12/14/2020, 14:15:06|c93723ccb0efb0a523bee8426e4335db|Gold Rally Enters Third Day on Stimulus Chase as Dollar Wilts|By Investing.com| - Oct 21, 2020
+12/14/2020, 14:15:06|6f7c8618bdad9de49ed41654c4f7bda1|U.S. Futures Edge Higher; Stimulus Talks and Netflix in Focus|By Investing.com| - Oct 21, 2020
+12/14/2020, 14:15:20|ab94d3ec0587101e570d5ffbbafedf91|European Stocks Slip on Virus Concerns; Ericsson Shines|By Investing.com| - Oct 21, 2020
+12/14/2020, 14:15:20|551da007e7e6abd91e295813ec4afda0|European Stocks Seen Higher as U.S. Stimulus Hopes Grow|By Investing.com| - Oct 21, 2020
+12/14/2020, 14:15:20|7dacb05bb69b325ffd77710514dcaf36|Gold Up Over Soft Dollar and Rising Stimulus Hopes|By Investing.com| - Oct 21, 2020
+12/14/2020, 14:15:20|63f6471cec9f7c65321f7a5f16e2d45a|Gold Up Again, Could Dip as Stimulus Talks Head Nowhere|By Investing.com| - Oct 20, 2020
+12/14/2020, 14:15:20|c7fc99e5c8a14484779613665007a113|Dow Futures Rise 200 Pts; Procter & Gamble Q1 Impresses|By Investing.com| - Oct 20, 2020
+12/14/2020, 14:15:20|04d2aa52b86c6d974b8d361c487c47bc|European Stocks Mixed; UBS Helps Mitigate Early Losses|By Investing.com| - Oct 20, 2020
+12/14/2020, 14:15:20|4d6310a7a042f8e6f5f31e777637f92f|European Stocks Seen Lower; U.S. Stimulus Doubts Weigh|By Investing.com| - Oct 20, 2020
+12/14/2020, 14:15:20|aebd8969f66d014befe3491c5c335a21|Gold Down Over Stimulus Caution|By Investing.com| - Oct 20, 2020
+12/14/2020, 14:15:20|75db1003fc727f74d9067b7587b5c807|Gold Drops as Investors Look to Washington for Stimulus Deal|By Bloomberg| - Oct 20, 2020
+12/14/2020, 14:15:20|e072812102f2b919431a23d1548e1399|Gold Ends Up But Renewed Pressure Seen Without Stimulus Deal|By Investing.com| - Oct 19, 2020
+12/14/2020, 14:15:40|467348a49d1354a93fbe9b1400297496|Dow Futures Rise 221 Pts; Stimulus Talks Ongoing|By Investing.com| - Oct 19, 2020
+12/14/2020, 14:15:40|73df56323c3f524caf1c45fa6ab69a4b|Vaccine hopes drive stocks higher on 'Black Monday' anniversary|By Reuters| - Oct 19, 2020
+12/14/2020, 14:15:40|6ac3438d132405ce02a60590617a1cd4|European Stocks Boosted by Positive Corporate Earnings; Chinese Data Weighs|By Investing.com| - Oct 19, 2020
+12/14/2020, 14:15:40|476ff8d6b28be8563cef3a1936dce9a1|European Stocks Seen Higher; China GDP Growth Weighs|By Investing.com| - Oct 19, 2020
+12/14/2020, 14:15:40|f155a0e7751e680cbb71b847343c1774|Gold Down, Expectations for U.S. Stimulus Rises|By Investing.com| - Oct 19, 2020
+12/14/2020, 14:15:40|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Oct 18, 2020
+12/14/2020, 14:15:40|5a0c25daf04bec89851ffa6f11352d77|Gold Wraps With Weekly Loss After Sting From No Stimulus|By Investing.com| - Oct 16, 2020
+12/14/2020, 14:15:40|6a48abf09dfedd53eef9cce0480cef6d|Pfizer vaccine hopes help soothe shaky markets|By Reuters| - Oct 16, 2020
+12/14/2020, 14:15:40|5ed9d63ca28a73a35573033c224689e9|US Futures Edge Higher; Pfizer in Focus as Earnings Continue|By Investing.com| - Oct 16, 2020
+12/14/2020, 14:15:40|24b6d061b93b14ae818dfc8a71c5ef75|European Stocks Push Higher; Daimler and LVMH Shine|By Investing.com| - Oct 16, 2020
+12/14/2020, 14:15:52|df3437e6f58a88535cb0dd37343f50c1|European Stocks Seen Higher For Now; Sentiment Weak|By Investing.com| - Oct 16, 2020
+12/14/2020, 14:15:52|4e02256ad8e45d197c7c0593d223bf40|Gold Down, Even Amid Search for Safety Amid COVID-19 Uncertainty|By Investing.com| - Oct 16, 2020
+12/14/2020, 14:15:52|2a02004c7027a42d93bc00d1da65b9c4|Gold Heads for First Weekly Drop in Three as Stimulus in Focus|By Bloomberg| - Oct 15, 2020
+12/14/2020, 14:15:52|9c8cdb3fc8e4c4d65c4acba5f6407223|Gold Sits Above $1,900 Amid Brawl Over Stimulus|By Investing.com| - Oct 15, 2020
+12/14/2020, 14:15:52|b3215aee70a21679f3e5f64a4c1c62d4|Dow Futures Down 270 Pts; Stimulus and Virus Woes Weigh|By Investing.com| - Oct 15, 2020
+12/14/2020, 14:15:52|85ee364fc0d447aceb105469ea29244d|European Stocks Slump on Virus Resurgence|By Investing.com| - Oct 15, 2020
+12/14/2020, 14:15:52|09911d93f0cf6de6cd079de56bd09afd|European Stocks Seen Lower; Virus and Brexit Concerns Weigh|By Investing.com| - Oct 15, 2020
+12/14/2020, 14:15:52|5b5c4665771814dccbc97076bca054ce|Gold Down on Firm Dollar, U.S. Stimulus Deadlock|By Investing.com| - Oct 14, 2020
+12/14/2020, 14:15:52|6d4e9a2578b8b680cc76ef6aef401960|U.S. Futures Largely Flat; Banking Earnings in Focus|By Investing.com| - Oct 14, 2020
+12/14/2020, 14:15:52|52699719199a3b1b899adc21edbb6435|Shares steady with U.S. bank earnings in sight|By Reuters| - Oct 14, 2020
+12/14/2020, 14:16:06|f3fe052249f85283987878aa28badf26|European Stocks Edge Higher; TomTom Posts Strong Gains|By Investing.com| - Oct 14, 2020
+12/14/2020, 14:16:06|098c67e66e9720ea0fe174d54aad7b35|European Stocks Mixed; Central Bankers Take Spotlight|By Investing.com| - Oct 14, 2020
+12/14/2020, 14:16:06|0d7f49eae6bbdb1357475d24cad5ada5|Gold Up, Boosted by Halted COVID-19 Treatment, U.S. Stimulus Hopes|By Investing.com| - Oct 14, 2020
+12/14/2020, 14:16:06|8a7f22d6e105766de94d93a198171470|Gold Slides 2% as Bears Seize on U.S. Stimulus Snag|By Investing.com| - Oct 13, 2020
+12/14/2020, 14:16:06|8f49614f18c64d8bcba325fe182486df|U.S. Futures Mixed; Apple, Amazon & Big Banks in Focus|By Investing.com| - Oct 13, 2020
+12/14/2020, 14:16:06|9032e3fbf0a1966a3bef770f913f0426|European Stocks Slip on Unemployment Fears; Airbus Weighs|By Investing.com| - Oct 13, 2020
+12/14/2020, 14:16:06|a17b86874c9d0ac12b06cf75a27e71a7|European Stocks Seen Mixed; J&J Vaccine News in Focus|By Investing.com| - Oct 13, 2020
+12/14/2020, 14:16:06|0257e5fe818012df22e3a271376c15a2|Gold Down as Greenback, U.S. Tech Stocks Rise|By Investing.com| - Oct 13, 2020
+12/14/2020, 14:16:06|36840c4d5f254455fc4e9d8f4cf44fcf|U.S. Futures Edge Higher; Banks to Lead Earnings Season|By Investing.com| - Oct 12, 2020
+12/14/2020, 14:16:06|65c78b6fc19e8ebf9d7c385e16ece239|European Stocks Seen Higher; Stimulus Hopes Remain|By Investing.com| - Oct 12, 2020
+12/14/2020, 14:16:22|68f7d2175fc9f3b52fe08177ad77d45f|Gold Up Over Strengthening Dollar, Stall in Latest U.S. Stimulus Measures|By Investing.com| - Oct 12, 2020
+12/14/2020, 14:16:22|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Oct 11, 2020
+12/14/2020, 14:16:22|ca115fd852aff79f9b25be11993994a8|Gold Up Second Week in Row, Back Above $1,900 on U.S. Stimulus Wind|By Investing.com| - Oct 09, 2020
+12/14/2020, 14:16:22|6d6bc60003cc9744555d55efc429c347|Dow Futures Rise 107 Pts; Semiconductors in Focus|By Investing.com| - Oct 09, 2020
+12/14/2020, 14:16:22|5c731176573329ce1e5dfee7bb04a92a|European Stocks Edge Higher; Gains from Pandora, Zalando Help|By Investing.com| - Oct 09, 2020
+12/14/2020, 14:16:22|0e22963711fb3850794c90fd03a507b4|European Stocks Mixed; Virus Surge Competes with U.S. Stimulus Hopes|By Investing.com| - Oct 09, 2020
+12/14/2020, 14:16:22|7c2d27e4318fdc1db34d3e79aff2092a|Gold Jumps Over Weaker Dollar, Stimulus Hopes Revive|By Investing.com| - Oct 08, 2020
+12/14/2020, 14:16:22|338426fac980099b6e28b06d320251a3|U.S. Futures Higher; Airlines and Regeneron in Focus|By Investing.com| - Oct 08, 2020
+12/14/2020, 14:16:22|d6563d31455353b86d2b5621a2db8e11|World stocks head to one-month high on stimulus hopes|By Reuters| - Oct 08, 2020
+12/14/2020, 14:16:22|1220f569cf623619d50c6b5cd838086b|European Stocks Higher; Corporate M&A Deals Boost Sentiment|By Investing.com| - Oct 08, 2020
+12/14/2020, 14:16:41|bf3b5be3d4ceb9dd61eb96eb8090b7e5|European Stocks Seen Just Higher; ECB Minutes in Focus|By Investing.com| - Oct 08, 2020
+12/14/2020, 14:16:41|62324d6c6353e492f859349539b0cc9d|Gold Edges Down Over Renewed Stimulus Hopes|By Investing.com| - Oct 07, 2020
+12/14/2020, 14:16:41|a2d6a62916c9146bf15cab7f04efe129|Gold Mixed Despite Friendly Fed, Trump’s New Stimulus Tack|By Investing.com| - Oct 07, 2020
+12/14/2020, 14:16:41|e532887c907db9f624c960ce50efda3c|Dow Futures Rise 198 Pts; FOMC Minutes Due|By Investing.com| - Oct 07, 2020
+12/14/2020, 14:16:41|57f3998b40a2f7af5b8281f85cd436ed|European Stocks Edge Higher; Strong Tesco Online Sales Help|By Investing.com| - Oct 07, 2020
+12/14/2020, 14:16:41|bfd797cb4a564218651151fb372878e8|European Markets Seen Mixed; New U.S. Relief Package Just Delayed?|By Investing.com| - Oct 07, 2020
+12/14/2020, 14:16:41|6f7bdbfcbe81de59bf560867116fc792|Gold Down Over Trump Cancellation of Stimulus Talks|By Investing.com| - Oct 06, 2020
+12/14/2020, 14:16:41|1be3f535f1f0c9627cfee8d253856cc3|Global stocks shuffle to two-week highs after Trump leaves hospital|By Reuters| - Oct 06, 2020
+12/14/2020, 14:16:41|00cb80f5e4d6cb10989a3a96719d6b7c|U.S. Futures Slightly Lower; Powell and Jolts Data Due|By Investing.com| - Oct 06, 2020
+12/14/2020, 14:16:41|0f051b73b669fadd5be17fee6fa19d13|European Stocks Edge Lower; Coronavirus Concerns Weigh|By Investing.com| - Oct 06, 2020
+12/14/2020, 14:17:12|0992e9ff2cd582d557216ac3a3b26d30|European Stocks Seen Largely Flat; Central Bankers in Focus|By Investing.com| - Oct 06, 2020
+12/14/2020, 14:17:12|ef2ba79e59361afb41ac295fe4a931aa|Gold Down Over Trump's Hospital Discharge|By Investing.com| - Oct 06, 2020
+12/14/2020, 14:17:12|a1aea0550d1dbc15cfbd0f5846d03e3c|Northern Star Agrees to Acquire Saracen, Reviving Gold M&A Spree|By Bloomberg| - Oct 05, 2020
+12/14/2020, 14:17:12|700bbc9f51fe363ef338246bd5da99db|European Stocks Seen Higher; Trump's Recovery Boosts Sentiment|By Investing.com| - Oct 05, 2020
+12/14/2020, 14:17:12|27a236200d4c466fc37b5cae4b2aa330|Gold Down, With Hopes Up for Trump’s COVID-19 Recovery|By Investing.com| - Oct 05, 2020
+12/14/2020, 14:17:12|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Oct 04, 2020
+12/14/2020, 14:17:12|1acbe2f879e3e4a8350e85c765cce1a1|Gold Dips Despite Trump Being Covid Positive; Gains on Week|By Investing.com| - Oct 02, 2020
+12/14/2020, 14:17:12|f8f0c8e74787a7b32e34acf2692e3b2e|Dow Futures Slump 335 Pts; Trump Covid News Weighs|By Investing.com| - Oct 02, 2020
+12/14/2020, 14:17:12|30afe7ffa0ab119b4f92d7a41bb6e580|Trump Infected, Payrolls, Stimulus Deadlock - What's up in Markets on Friday|By Investing.com| - Oct 02, 2020
+12/14/2020, 14:17:12|fa908ab7e09725129f4a3c4d4cc9ad3a|European Stocks Slump; Trump Tests Covid Positive|By Investing.com| - Oct 02, 2020
+12/14/2020, 14:17:30|c128b2b5fca6c8e7a731f9b6c0e5a6fe|Gold Erases Loss as Investors Weigh Impact of Trump’s Covid-19|By Bloomberg| - Oct 02, 2020
+12/14/2020, 14:17:30|005657db405c33af344053a0def6a7b3|European Stocks Seen Sharply Lower; President Trump Tests Covid Positive|By Investing.com| - Oct 02, 2020
+12/14/2020, 14:17:30|854e0e0c79614488038e4dd01cce0a0b|Gold Back at $1,900, Extending Q3 Run, on U.S. Stimulus Hopes|By Investing.com| - Oct 01, 2020
+12/14/2020, 14:17:30|3bf32fb62a8847f5e0607f8c3cfe84ba|Dow Futures Rise 216 Pts; Stimulus Hopes Rise|By Investing.com| - Oct 01, 2020
+12/14/2020, 14:17:30|7238d2b7cea226482a70726312ee6f4c|European Stocks Higher; Stimulus Hopes and Corporate News Help|By Investing.com| - Oct 01, 2020
+12/14/2020, 14:17:30|d96d70cc0a1632f0551088eca8a7e026|European Stocks Seen Higher on New U.S. Stimulus Hopes|By Investing.com| - Oct 01, 2020
+12/14/2020, 14:17:30|f37e67e8be165ccc0b218ddf50cd285d|Gold up 4% for Q3 Despite Volatility Sparked by Dollar|By Investing.com| - Sep 30, 2020
+12/14/2020, 14:17:30|c62833ecb2051de89653812a86e34567|Dow Futures Down 170 Pts; Fiery Presidential Debate Weighs|By Investing.com| - Sep 30, 2020
+12/14/2020, 14:17:30|d394306805ce0d76ab6a3e29b3132fbe|European Stocks Lower; Heated Debate Weighs Despite Economic Data|By Investing.com| - Sep 30, 2020
+12/14/2020, 14:17:30|e25481f7cdaa22d3b61a5923793c9c58|European Stocks Seen Lower; Chaotic Presidential Debate Weighs|By Investing.com| - Sep 30, 2020
+12/14/2020, 14:18:39|2b286ef81d44e89facddebcaf160abb0|Gold Down Over Weak Dollar, U.S. Stimulus Optimism|By Investing.com| - Sep 30, 2020
+12/14/2020, 14:18:39|0d37bee9f7724af55205fbd8434a731c|Gold Back Above $1,900 as Dollar Skids Pre-Trump Debate|By Investing.com| - Sep 29, 2020
+12/14/2020, 14:18:39|c8e072c5e365d226f9cc7491d0a9157e|U.S. Futures Flat; Presidential Debate in Focus|By Investing.com| - Sep 29, 2020
+12/14/2020, 14:18:39|89c82915a32796726019a49e9b212c03|Global shares slip as U.S. presidential debate looms|By Reuters| - Sep 29, 2020
+12/14/2020, 14:18:39|d5a5ef46722706e469e551855c5e6778|European Stocks Weaken; Covid Deaths Top One Million Globally|By Investing.com| - Sep 29, 2020
+12/14/2020, 14:18:39|ace65fdf6da7ada110ce1582ffb1baa7|European Stocks Seen Flat; Stimulus Eyed Ahead of Presidential Debate|By Investing.com| - Sep 29, 2020
+12/14/2020, 14:18:39|79d24bfb42a52a7b664a82e8ada0898f|Gold Up Over Weak Dollar, Looks to U.S. Presidential Debate|By Investing.com| - Sep 29, 2020
+12/14/2020, 14:18:39|877d061083fa12148eb0e2ce9aa1e99f|Gold Pops As Dollar Dips From Highs, Near-Term Still Fragile|By Investing.com| - Sep 28, 2020
+12/14/2020, 14:18:39|a49fead75c68f3c412e4ccfb4a3c4cc3|Dow Futures Rise 336 Pts; Corporate Deals in Focus|By Investing.com| - Sep 28, 2020
+12/14/2020, 14:18:39|1850d011d7566b9ee338926e3b072d1a|European Stock Higher as M&A Deals Boost Confidence|By Investing.com| - Sep 28, 2020
+12/14/2020, 14:19:43|578ad7455673496b2ee227b7b13b53b4|European Stocks Seen Higher; Strong Chinese Data Helps|By Investing.com| - Sep 28, 2020
+12/14/2020, 14:19:43|7da95aa9f40010338b1407ffba18772b|Gold Down Over U.S. Political Uncertainty|By Investing.com| - Sep 28, 2020
+12/14/2020, 14:19:43|363e2df08ea94cdffbad6d1db638394e|Gold K.O.-ed by Dollar, Posts Worst Week in 6 Months|By Investing.com| - Sep 25, 2020
+12/14/2020, 14:19:43|cffcb91b99fb6d478e0c413fd3a039e7|Dow Futures Fall 223 Pts; Durable Goods Due|By Investing.com| - Sep 25, 2020
+12/14/2020, 14:19:43|4017b4ae4fa7a44fce68c5f987a99fbe|Global stocks set for dire week, best for dollar since April|By Reuters| - Sep 25, 2020
+12/14/2020, 14:19:43|9a33062b175e72bf37c76197a856b3f6|European Stocks Largely Weaken; Covid-19 Resurgence Weighs|By Investing.com| - Sep 25, 2020
+12/14/2020, 14:19:43|d0739e756f5d37c28d76889325b8f282|European Stocks Seen Higher; US Stimulus Talk Helps|By Investing.com| - Sep 25, 2020
+12/14/2020, 14:19:43|cefdbcbaacdf628046894b800c6fec39|Gold Down as Investors Turn to Stocks|By Investing.com| - Sep 25, 2020
+12/14/2020, 14:19:43|f08377c8f94c77336d9b544ab6a712b7|Gold Catches Break After 3 Days as Dollar Slips From Highs|By Investing.com| - Sep 24, 2020
+12/14/2020, 14:19:43|3120079b20d93a74cff121b7ca0ecb25|Can’t-Lose Trades Falter With Inflation Expectations Flagging|By Bloomberg| - Sep 24, 2020
+12/14/2020, 14:20:30|87c7fe1b81480acda2db9294501855d0|U.S. Futures Edge Lower; Powell in Spotlight|By Investing.com| - Sep 24, 2020
+12/14/2020, 14:20:30|9cf672bd00055d1496ef18f34e358083|Gold Slides to Two-Month Low as Dollar Gains Embolden Bears|By Bloomberg| - Sep 24, 2020
+12/14/2020, 14:20:30|3375a1ae4d08dbaced74c2d8dca431cf|U.S. Political Risk, Jobless Claims and Dollar Strength: What's up in Markets|By Investing.com| - Sep 24, 2020
+12/14/2020, 14:20:30|a9cc29af21b503c62e2d91318eaccfab|Global shares slide, dollar up as hopes of economic recovery fade|By Reuters| - Sep 24, 2020
+12/14/2020, 14:20:30|63a9cbcb1edff07b663f4796932cefa8|European Stocks Slump on Growth Worries; Airbus Weakens|By Investing.com| - Sep 24, 2020
+12/14/2020, 14:20:30|e9d97b45efd38258993249f911e1c918|European Stocks Seen Lower; Global Recovery Hopes Dim|By Investing.com| - Sep 24, 2020
+12/14/2020, 14:20:30|73c8510346569700482594413b4b1ca2|Gold Continues Slide on Strong Dollar, Low Rates and European COVID-19 Numbers|By Investing.com| - Sep 23, 2020
+12/14/2020, 14:20:30|90d1f67fce967d6dd15f40b9e9114889|Gold Plunges Again, Taking Silver With It, As Dollar Blazes|By Investing.com| - Sep 23, 2020
+12/14/2020, 14:20:30|5e12d95149498dfa265e913052ea58d3|Tech lifts stocks as poor data rekindles stimulus hopes|By Reuters| - Sep 23, 2020
+12/14/2020, 14:20:30|1cbf470a64dcbcae3cb78947bca88936|Dow Futures Rise 225 Pts; Nike Set to Shine|By Investing.com| - Sep 23, 2020
+12/14/2020, 14:20:40|731106d1f2f991c1c08184fb6870d5fa|Dollar Rises, PMI Woe & Tesla's Flat Battery - What's up in Markets on Wednesday|By Investing.com| - Sep 23, 2020
+12/14/2020, 14:20:40|7c9e70275b994e8767cd7ff6730f0777|European Stocks Rise; More Stimulus on Its Way?|By Investing.com| - Sep 23, 2020
+12/14/2020, 14:20:40|83e858ea7a86ad6be646ee6dbefaa26f|European Stocks Seen Higher Ahead of Key PMI Sentiment Data|By Investing.com| - Sep 23, 2020
+12/14/2020, 14:20:40|7b9aab34aa71eb76f04c2637d1c6e3bc|Gold Down on Stronger Dollar|By Investing.com| - Sep 23, 2020
+12/14/2020, 14:20:40|5d4be9896b951d3f713ae5dd64c91b53|Gold Consolidates Without Big Loss Despite Dollar Index Hitting 94|By Investing.com| - Sep 22, 2020
+12/14/2020, 14:20:40|c5835824258c8bbeea973b9735e15598|U.S. Futures Edge Higher Ahead of Powell Testimony|By Investing.com| - Sep 22, 2020
+12/14/2020, 14:20:40|bcb15dd86af49b5abcfc80ee347e409f|European Stocks Edge Higher; Airbus Issues Jobs Warning|By Investing.com| - Sep 22, 2020
+12/14/2020, 14:20:40|ebdf99eaeb66dfd83f09122282a80559|European Stocks Seen Largely Higher; Virus Outbreaks Still a Worry|By Investing.com| - Sep 22, 2020
+12/14/2020, 14:20:40|50ac69c4a25a7cb4b013f9c3e5b322ca|Gold Up Over COVID-19 Fears, Looks to Powell Testimony|By Investing.com| - Sep 22, 2020
+12/14/2020, 14:20:40|4afdccb918f69daa717c7b180d26db83|Gold slides 3% on strong dollar, stimulus concerns; silver tumbles|By Reuters| - Sep 21, 2020
+12/14/2020, 14:20:51|4621c6cfcf49acfeca61b3d69ab2bbaa|Ghana plans $500 million London listing of gold royalty fund: sources|By Reuters| - Sep 21, 2020
+12/14/2020, 14:20:51|98acec2639414e1edd460b1fc8d2c954|Dow Futures Slump 535 Pts; Bank Stocks Weaken|By Investing.com| - Sep 21, 2020
+12/14/2020, 14:20:51|776d65319c60fd26641672dc6b571eda|European Stocks Slump Amid Fresh Virus Fears; Banks Hit Hard|By Investing.com| - Sep 21, 2020
+12/14/2020, 14:20:51|2dfb10eea8e4cb0c1a067a240c70fb5b|Stocks - Europe Seen Lower; Virus Resurgence Weighs|By Investing.com| - Sep 21, 2020
+12/14/2020, 14:20:51|368b8da8534ae3effb3736900c0aefe4|'Free money' for banks as investors pile into fractured gold market|By Reuters| - Sep 21, 2020
+12/14/2020, 14:20:51|57420bb2fed6fe791c3df08856333919|Gold Down Ahead of Fed Speeches, But Losses Capped by Weak Dollar|By Investing.com| - Sep 21, 2020
+12/14/2020, 14:20:51|d89d742365392a1adb0cf89b8c1adabd|Gold up 2nd Week in Row Despite Bedeviling by Dollar|By Investing.com| - Sep 18, 2020
+12/14/2020, 14:20:51|d279d4564590bd4dbdf48eac5ae50aa0|Nasdaq Futures Rise 50 Pts; Tik Tok Saga Continues|By Investing.com| - Sep 18, 2020
+12/14/2020, 14:20:51|83aafd3fe92e548209323f46fdc1c337|Top 5 Things to Know in the Market on Friday, September 18th|By Investing.com| - Sep 18, 2020
+12/14/2020, 14:20:51|8d77e4c8d9151d2954ec46bec0fcd28e|European Stocks Edge Lower; M&A Deals Temper Losses|By Investing.com| - Sep 18, 2020
+12/14/2020, 14:21:00|eda75a8862b1d8b7c9aa77260af939d8|European Stocks Seen Largely Lower; Virus Worries Remain|By Investing.com| - Sep 18, 2020
+12/14/2020, 14:21:00|71260c37c9fd69a3f190b8360643e88b|Gold Up Over Weak Dollar and Disappointing U.S. Jobless Claims Data|By Investing.com| - Sep 18, 2020
+12/14/2020, 14:21:00|d83389942fd9b9a608097d4e713f4d88|Kinross Gold Pays First Dividend in 7 Years With Metal Rallying|By Bloomberg| - Sep 17, 2020
+12/14/2020, 14:21:00|6757dea182234ba6c6f97d3ca52253bc|Gold Dips, Lost For Direction as Dollar Stubbornly Strong Post-Fed|By Investing.com| - Sep 17, 2020
+12/14/2020, 14:21:00|97dbded2432625156c1ab40a1cbd90e4|Flood of gold from Switzerland to U.S. stopped in August|By Reuters| - Sep 17, 2020
+12/14/2020, 14:21:00|f4f1e33bfb27f1833922cb107459a0fd|Dow Futures Fall 250 Pts After Fed Underwhelms; Claims Data Due|By Investing.com| - Sep 17, 2020
+12/14/2020, 14:21:00|4a8b52934ec4c9bc28708dc088f4947c|European Stocks Weaken Post Fed; BOE in Focus|By Investing.com| - Sep 17, 2020
+12/14/2020, 14:21:00|50a1125ccf702c246dc54d93f221b19d|European Stocks Seen Lower on Fed Disappointment|By Investing.com| - Sep 17, 2020
+12/14/2020, 14:21:00|1789adecca82694157e642554a7f2575|Gold Down as Dollar Strengthens|By Investing.com| - Sep 17, 2020
+12/14/2020, 14:21:00|b5b45a92efb4ae9dd2560e92a51f9d33|Gold Pops Pre-Fed, Awaits Powell Remarks|By Investing.com| - Sep 16, 2020
+12/14/2020, 14:21:10|2eb59dcd4b93c9779e6f595ab3eabeb7|Dow Futures Rise 116 Pts Ahead of Fed, Retail Sales|By Investing.com| - Sep 16, 2020
+12/14/2020, 14:21:10|5a5a3fbd07bbee507547bf2ec9119bda|Yen benefits from caution before Fed meeting; European shares edge higher|By Reuters| - Sep 16, 2020
+12/14/2020, 14:21:10|937f43193a7e4ef031fb515da906b82c|European Stocks Edge Higher; Inditex Helps Retailers|By Investing.com| - Sep 16, 2020
+12/14/2020, 14:21:10|1d1b67777a092883fd7de9ea48e36d19|European Stocks Seen Lower Ahead of Federal Reserve Meeting|By Investing.com| - Sep 16, 2020
+12/14/2020, 14:21:10|2fa601da6d097ddef02f7815172d6d26|Gold Up Ahead of Fed Policy Decision|By Investing.com| - Sep 16, 2020
+12/14/2020, 14:21:10|948040ad0c387a82f2baf0f3284cc6ff|Gold Tripped up by WTO China Ruling That Boosts Dollar|By Investing.com| - Sep 15, 2020
+12/14/2020, 14:21:10|820db3f7add3f9bb9fed8e2797270085|Dow Futures Rise 180 Pts; Fed Meeting in Focus|By Investing.com| - Sep 15, 2020
+12/14/2020, 14:21:10|5be51e10d0eff715b78f3c7dc2cb5af0|European Stocks Mixed; U.K. Outperforms After Economic Data|By Investing.com| - Sep 15, 2020
+12/14/2020, 14:21:10|468a0440e9f6f83edf411515da5dd13e|European Stocks Mixed Ahead of Central Bank Meetings|By Investing.com| - Sep 15, 2020
+12/14/2020, 14:21:10|2c0f2f86251bb8ca10d35736377fffd8|Gold On The Rise As Dollar Heads Down|By Investing.com| - Sep 15, 2020
+12/14/2020, 14:21:33|4601515a43c61edb23b0f10d38a56be9|Gold Gets Early Ride up Ahead of Fed as Dollar Slides|By Investing.com| - Sep 14, 2020
+12/14/2020, 14:21:33|71b16d51e541e7580db2d35fda3c7717|Nasdaq Futures Rise 173 Pts; Nvidia Deal Helps|By Investing.com| - Sep 14, 2020
+12/14/2020, 14:21:33|35305a8428bfc61359db62f514bbf4d0|European Stocks Gain; Vaccine News Helps|By Investing.com| - Sep 14, 2020
+12/14/2020, 14:21:33|ea7c85aa52266f6502dda52ba18e5130|European Stocks Seen Higher Amid Fresh Vaccine Hopes|By Investing.com| - Sep 14, 2020
+12/14/2020, 14:21:33|2ea7e899bf14e4e6181d10f40911be31|Gold Up Over Weaker Dollar, COVID-19 Vaccine Hopes|By Investing.com| - Sep 14, 2020
+12/14/2020, 14:21:33|40f83d8fdf2afad31ca3ee7450b4f976|Energy & Precious Metals - Weekly Review and Calendar Ahead|By Investing.com| - Sep 13, 2020
+12/14/2020, 14:21:33|6b3235a69afcbd1e9552974ab69c10de|Gold Up on Week but Snaps 3-Day “Mini Rally”|By Investing.com| - Sep 11, 2020
+12/14/2020, 14:21:33|01ac89478117925fbc0fad11f628fbc7|Stocks Edge Highee as Goldman Turns Optimistic; Dow Futures up 200 Pts|By Investing.com| - Sep 11, 2020
+12/14/2020, 14:21:33|3eda6df965d54b630df8c29d088f09c2|European Stocks Edge Lower; ECB's Lane Cautions on Recovery|By Investing.com| - Sep 11, 2020
+12/14/2020, 14:21:33|6ac706a12e0885338c623d9322381276|European Stocks Mixed; ECB Offers Optimistic Outlook|By Investing.com| - Sep 11, 2020
+12/14/2020, 14:22:15|76fdd03b97aa044362fab01ed1d9ad2d|Gold Falls Along With Stocks and the Dollar|By Investing.com| - Sep 11, 2020
+12/14/2020, 14:22:15|4bcf3a2c6c9e7382a6ba117a59cf263d|Gold Notches 3rd Day of Gains Amid Dollar Swings|By Investing.com| - Sep 10, 2020
+12/14/2020, 14:22:15|d0e0619aa524ad16875cfc20b2517e50|Stock Futures Seen Lower Ahead of Initial Claims Data|By Investing.com| - Sep 10, 2020
+12/14/2020, 14:22:15|9a5a6c8b4a466a7541b36f0042bce4c2|European Stocks Lower Ahead of ECB Meeting|By Investing.com| - Sep 10, 2020
+12/14/2020, 14:22:15|937bfda771d5c5fd6d1c95177c9400fa|European Stocks Mostly Higher; ECB Looms Into View|By Investing.com| - Sep 10, 2020
+12/14/2020, 14:22:15|5424edd6d5f3d488cc5a3fd7f03e48ac|Gold Steady After Overnight Boost as Dollar Falls|By Investing.com| - Sep 10, 2020
+12/14/2020, 14:22:15|dd69ced7c4f2cdfa5d4a329d470b126c|Gold Extends Gains In Slow, Deliberate Rise|By Investing.com| - Sep 09, 2020
+12/14/2020, 14:22:15|aa844480d70ef9b7ffb2856b59e4a107|Nasdaq Futures Up 160 Pts; Tech Sector Rebounds|By Investing.com| - Sep 09, 2020
+12/14/2020, 14:22:15|4c4c7d4f9f9888980d4d8f1bb98261a9|European Stocks Higher; Investors Look to The ECB|By Investing.com| - Sep 09, 2020
+12/14/2020, 14:22:15|30fd284b0352e22f6cad9c3d030ac3ec|European Stocks Seen Lower; U.S. Tech Rout Weighs|By Investing.com| - Sep 09, 2020
+12/14/2020, 14:22:41|5d5f7f5cb500b705cddbad8eb94fdb47|Gold Steadies After Overnight Drop and Bounce|By Investing.com| - Sep 09, 2020
+12/14/2020, 14:22:41|710b1dc8fcd2b494780aaf804c948b2c|Gold Closes up 1st Time in 5 Days Despite Dollar Power|By Investing.com| - Sep 08, 2020
+12/14/2020, 14:22:41|3b8e74626402dc789aef985f9c96fe6e|Dollar’s Waning Influence Evident as Gold Breaks Up With EM Debt|By Bloomberg| - Sep 08, 2020
+12/14/2020, 14:22:41|8e270deac63612c3b4306e201ef91f3b|Global stocks struggle to stabilise as tech remains fragile|By Reuters| - Sep 08, 2020
+12/14/2020, 14:22:41|0a988f350756065e7a820cfb07f5132f|Nasdaq Futures Slump 230 Pts; Tech Rout Continues|By Investing.com| - Sep 08, 2020
+12/14/2020, 14:22:41|4782afa45f79a9c78d5319845b0bbba7|European Stocks Lower; Potential U.S. Tech Selloff Weighs|By Investing.com| - Sep 08, 2020
+12/14/2020, 14:22:41|40850dade87e626f25dc5a7fc937668c|European Stocks Seen Higher; ECB Meeting Looms Large|By Investing.com| - Sep 08, 2020
+12/14/2020, 14:22:41|0674b89b7065f51fca917e4f41b5c364|Gold Down on the Back of Stronger Dollar|By Investing.com| - Sep 08, 2020
+12/14/2020, 14:22:41|d2c5bb763ad6e60a7c69059bd073f399|European Stocks Gain; ECB Meeting in Focus|By Investing.com| - Sep 07, 2020
+12/14/2020, 14:22:41|3e1a19d5050720ab7fe84dd921f1d9fb|European Stocks Seen Higher; DAX Weak After Industrial Production Data|By Investing.com| - Sep 07, 2020
+12/14/2020, 14:22:53|2f9b52d447fc7397f99742ab3a47ae39|Gold Up Over Weak U.S. Jobs Data, Mixed Chinese Trade Data|By Investing.com| - Sep 07, 2020
+12/14/2020, 14:22:53|40f83d8fdf2afad31ca3ee7450b4f976|Energy & Precious Metals - Weekly Review and Calendar Ahead|By Investing.com| - Sep 06, 2020
+12/14/2020, 14:22:53|ece3ab57ab0b2721877520011db96ad9|U.S. Crude Plunges 7% on Week on Demand Anxiety|By Investing.com| - Sep 04, 2020
+12/14/2020, 14:22:53|69255622e7b7579d6238a78be8a493fc|Gold Down 2% on Week; No End in Sight to Volatility |By Investing.com| - Sep 04, 2020
+12/14/2020, 14:22:53|6f0b101e53aae8f371678e632e762f12|Dow Futures Up 83 Pts Ahead of Payrolls; Tech Stocks Weak|By Investing.com| - Sep 04, 2020
+12/14/2020, 14:22:53|b5d6f6052eddfb9cf77e3d68b7dfb1ae|Top 5 Things to Know in the Market on Friday, September 4th|By Investing.com| - Sep 04, 2020
+12/14/2020, 14:22:53|a9e8f5b723faca27e4ebfb85f6892dad|European Stocks Edge Higher; Bank Consolidation Talk Helps|By Investing.com| - Sep 04, 2020
+12/14/2020, 14:22:53|d982e5f65b70190ce48add3bbc3504d5|European Stocks Seen Mostly Lower; U.S. Payrolls Eyed|By Investing.com| - Sep 04, 2020
+12/14/2020, 14:22:53|47783aa1cfffe62d7c678838ac2aee22|Gold Up as Stock Markets Tumble|By Investing.com| - Sep 04, 2020
+12/14/2020, 14:22:53|626e27ca06bdc87332de181d8c80956b|Gold Dips Again as Dollar Surprisingly Becomes 'Haven of Choice'|By Investing.com| - Sep 03, 2020
+12/14/2020, 14:23:01|b6a355f1a2864fc5c8da2b81558a0d97|Stock Futures Lower, Consolidating Ahead of Claims Data|By Investing.com| - Sep 03, 2020
+12/14/2020, 14:23:01|76baa37b6594b967da8137723a009726|European Stocks Up on French Stimulus Plans; Capgemini Gains|By Investing.com| - Sep 03, 2020
+12/14/2020, 14:23:01|8c09d943688900c10239103129f3865e|Asian shares reverse early gains, euro falls to one-week lows|By Reuters| - Sep 03, 2020
+12/14/2020, 14:23:01|2c5f8158913039a9c3f9ea43ffadbb12|European Stocks Mixed Despite French Stimulus Plans|By Investing.com| - Sep 03, 2020
+12/14/2020, 14:23:01|4ac13555f4018336d0e7109c0e36dcd3|Gold Holds Steady as Dollar Stalls and Economic Worries Remain|By Investing.com| - Sep 03, 2020
+12/14/2020, 14:23:01|cd246d7302d766ad6743270a9d60dfaa|Day Ahead: 3 Things to Watch for September 3|By Investing.com| - Sep 02, 2020
+12/14/2020, 14:23:01|336ef5db74084da6f64e000599b4bb1e|Gold Tumbles as Dollar Gets A Rally That Makes Little Sense |By Investing.com| - Sep 02, 2020
+12/14/2020, 14:23:01|136f65470c74367ed5f0fcc3940068c6|Dow Futures Rise 190 Pts Ahead of ADP Jobs Data|By Investing.com| - Sep 02, 2020
+12/14/2020, 14:23:01|053497ba6988f307e62456036429a0be|European Stocks Gain; Pernod Helped by Index Rebalancing|By Investing.com| - Sep 02, 2020
+12/14/2020, 14:23:01|dc0e83f072911e24165e9a2d56be9c79|European Stocks Seen Higher Amid Global Recovery Hopes|By Investing.com| - Sep 02, 2020
+12/14/2020, 14:23:11|6455e79b2cd469319add9880f4d50d6c|Gold Down as Rosy Economic Data Supports Dollar|By Investing.com| - Sep 02, 2020
+12/14/2020, 14:23:11|46eba830f7dabc5f1266fad60cd49ce3|Gold Hits $2,000 Then Backtracks As Gyration Continues|By Investing.com| - Sep 01, 2020
+12/14/2020, 14:23:11|638543eadcecc0d3e07ee9d9500c21d0|Watch Now: Here's What's Moving Markets - September 1 (Video)|By Investing.com| - Sep 01, 2020
+12/14/2020, 14:23:11|9799107b1767e901c31292b9f91975b6|Stock Futures Higher; Zoom Soars After Blowout Quarter|By Investing.com| - Sep 01, 2020
+12/14/2020, 14:23:11|7ed030277a9f58e28e80d1d10506b2b4|European Stocks Higher, Ahead of Key Economic Data|By Investing.com| - Sep 01, 2020
+12/14/2020, 14:23:11|32855a270b24a67f2b24f61bd08170d1|European Stocks Seen Largely Higher, Helped by Chinese Recovery|By Investing.com| - Sep 01, 2020
+12/14/2020, 14:23:11|d900637d0dd5b0b61019c381f9435110|Gold Up, Benefitting From Dollar’s Decline to Multiyear Lows|By Investing.com| - Sep 01, 2020
+12/14/2020, 14:23:11|945f98bfb1686d2b2c33f10af5034f12|Price analysis 8/31: BTC, ETH, XRP, LINK, BCH, LTC, BSV, CRO, BNB, EOS|By Cointelegraph| - Aug 31, 2020
+12/14/2020, 14:23:11|32a9ae458ff6ebc414a2c9b0671289de|Gold Eyes $2,000 Despite Swings Bringing 1st Monthly Loss in Six|By Investing.com| - Aug 31, 2020
+12/14/2020, 14:23:11|de4bb59ae416791a4a4be4f8825a21ca|Wall Street Opens Mixed as Apple, Tesla Trade Post-Split; Dow Down 180 Pts|By Investing.com| - Aug 31, 2020
+12/14/2020, 14:23:24|6593c7ff6e34db95121ae55a59e24b20|Dow Futures Rise as August Draws to Close|By Investing.com| - Aug 31, 2020
+12/14/2020, 14:23:24|27e58f33242c20e2f9c8680bc43fb8ea|Gold Up Over Weak Dollar, Mixed Chinese and Japanese Data|By Investing.com| - Aug 31, 2020
+12/14/2020, 14:23:24|8fbb7826fcaf047d625196d4b54fb7ce|Pure Gold, Miner ETFs Add Luster to Portfolios in Uncertain Times|By Investing.com| - Aug 30, 2020
+12/14/2020, 14:23:24|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Aug 30, 2020
+12/14/2020, 14:23:24|e51f9c1344b10046fdccd6e2df949531|Gold’s Yo-Yo Continues, Recouping Post-Powell Losses|By Investing.com| - Aug 28, 2020
+12/14/2020, 14:23:24|4d5bff5b3e788afb040a385941445871|Yen surges as Japan's Abe quits, stocks mixed after Fed shift|By Reuters| - Aug 28, 2020
+12/14/2020, 14:23:24|14ebd1d17ddd54626d3a6ccfae1e21cb|Dow Jones Futures Rise 123 Pts; Powell Helps Optimism|By Investing.com| - Aug 28, 2020
+12/14/2020, 14:23:24|028fc0aff1fccbe7c40c6746a94f7b92|Top 5 Things to Know in the Market on Friday, August 28th|By Investing.com| - Aug 28, 2020
+12/14/2020, 14:23:24|6035df6c4bb409140c10ab9ba9d6db1c|European Stocks Slip as Weak Economic Data Hit Recovery Hopes|By Investing.com| - Aug 28, 2020
+12/14/2020, 14:23:24|7fa53a144f9c322635dce631bdff4db0|European Stocks Seen Higher, Helped by New Fed Inflation Stance|By Investing.com| - Aug 28, 2020
+12/14/2020, 14:23:35|cf5ee107ea4e4c284fee637dc856f5f2|Gold Up, But Gains From Powell Speech Capped by COVID-19 Worries|By Investing.com| - Aug 28, 2020
+12/14/2020, 14:23:35|f84a650370b5a08f2684461992618789|Gold Heads for Third Weekly Decline as Powell’s Speech Assessed|By Bloomberg| - Aug 27, 2020
+12/14/2020, 14:23:35|ad814fa95438cd22eec5346b05a342d5|Gold Swings as Fed Pitches Inflation Overshoot Without Asset Buy Promise|By Investing.com| - Aug 27, 2020
+12/14/2020, 14:23:35|ec32fe12c28052ad30ce41f63da291d4|Dow Futures Fall 80 Points Ahead of Powell Speech|By Investing.com| - Aug 27, 2020
+12/14/2020, 14:23:35|e5236782401e00fdab570fecc72d6695|European Stocks Drift Ahead of Powell Speech; Rolls-Royce Slumps|By Investing.com| - Aug 27, 2020
+12/14/2020, 14:23:35|5e814c4526946b6acaf72810d4acd345|European Stocks Seen Lower Ahead of Key Powell Speech|By Investing.com| - Aug 27, 2020
+12/14/2020, 14:23:35|5ba39dce208bd600f8aa0a268203a395|Gold Down Over Signs of Some Economic Recovery|By Investing.com| - Aug 27, 2020
+12/14/2020, 14:23:35|486cd69a0d7216e796444e50e44d1f9c|Gold Has 1st Big Bounce in Week, Awaits Fed Chair’s Speech|By Investing.com| - Aug 26, 2020
+12/14/2020, 14:23:35|327fd5d9cbfa5945cf85c0014902fa1a|Stock Futures Largely Unchanged; Powell Speech Key|By Investing.com| - Aug 26, 2020
+12/14/2020, 14:23:35|20c6c2348e660c6d2eebd6b4f676ee68|European Stocks Mixed Amid Caution Over Covid-19 2nd Wave|By Investing.com| - Aug 26, 2020
+12/14/2020, 14:23:52|3be514cac15b4790d65613aa3eeaa449|European Stocks Mixed; Investors Wait for Powell Speech|By Investing.com| - Aug 26, 2020
+12/14/2020, 14:23:52|1f4c786152e35395e466fb488d5d2b98|Gold Up Over Gloomy U.S. Data|By Investing.com| - Aug 26, 2020
+12/14/2020, 14:23:52|32463697569f1833757690864a82b328|Gold Falls Again but Eases Losses After Hours on Fed Hopes|By Investing.com| - Aug 25, 2020
+12/14/2020, 14:23:52|a711ee73dfa8bdc88e2496a861bc12cc|Dow Futures Rise 185 Pts Following Sino-U.S. Trade Talks|By Investing.com| - Aug 25, 2020
+12/14/2020, 14:23:52|589aaa5aa8dee7b5813d79ea105ac2e2|European Stocks Gain on U.S.-China Trade Talks; DAX Helped by GDP Revision|By Investing.com| - Aug 25, 2020
+12/14/2020, 14:23:52|f99212bcb57fc2678ffcc473b63d7929|DAX Futures Climb, Helped by GDP Revision, China/U.S. Trade Talks|By Investing.com| - Aug 25, 2020
+12/14/2020, 14:23:52|88d3a122fc2e0beb44a6b4bbbb5f211f|Gold Up Over Weak Dollar and Increasing COVID-19 Worries|By Investing.com| - Aug 25, 2020
+12/14/2020, 14:23:52|cfd88a8135621b092f8b4f537194250e|Gold Dips on Covid Treatments as Traders Look to Fed’s Big Thursday |By Investing.com| - Aug 24, 2020
+12/14/2020, 14:23:52|e9acbbfc2d95e423f96626ce3a94b708|Stocks - Dow Futures Up 269 Pts Amid Virus Treatment Optimism|By Investing.com| - Aug 24, 2020
+12/14/2020, 14:23:52|405ae9c07eb9dc1a7470c1e8d21698d3|Top 5 Things to Know in the Market on Monday, August 24th|By Investing.com| - Aug 24, 2020
+12/14/2020, 14:24:04|3c525636e4c1c8561852d931829c5e2f|Stocks - Europe Higher on Virus Treatment Optimism; BT Group Soars|By Investing.com| - Aug 24, 2020
+12/14/2020, 14:24:04|42d63cd9ae719131f4e6d850b6c8d175|Stocks - Europe Seen Higher Amid Virus Treatment Optimism|By Investing.com| - Aug 24, 2020
+12/14/2020, 14:24:04|7410d09d42a57cdce5ec6dadc83a13b4|Gold Down, Investors Retreat After FDA Approves Potential COVID-19 Treatment|By Investing.com| - Aug 24, 2020
+12/14/2020, 14:24:04|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Aug 23, 2020
+12/14/2020, 14:24:04|25cfccec77b289a86609aa856e672908|Gold Has Another Stormy Session Before Closing Higher|By Investing.com| - Aug 21, 2020
+12/14/2020, 14:24:04|0fe6fb2dc4d42fc8f6341c8dc75e3c1b|US Futures Drift Lower; Dow Futures Drop 37 Pts|By Investing.com| - Aug 21, 2020
+12/14/2020, 14:24:04|e150c7de0d4a648f128b3bbe56946166|Stocks - Europe Mixed; DAX Outperforms on Manufacturing Recovery|By Investing.com| - Aug 21, 2020
+12/14/2020, 14:24:04|6d7f5a415bd344a0e48acb00c15c8452|Stocks - Europe Seen Mixed; PMI Releases Due|By Investing.com| - Aug 21, 2020
+12/14/2020, 14:24:04|2a6a9a7309891118f7f6a2f19e83b1e6|Gold Up Over Unexpected Rise in U.S. Initial Jobless Claims|By Investing.com| - Aug 21, 2020
+12/14/2020, 14:24:04|76c9fd957ea5741ac0d79044d5134dde|Gold Tumbles Again, Folding In Wednesday’s After-Hours Slide|By Investing.com| - Aug 20, 2020
+12/14/2020, 14:24:41|f731179be57b0a76350431075083b3e4|Stocks - Wall Street Opens Lower on Jobless Rise; Dow Down 75 Pts|By Investing.com| - Aug 20, 2020
+12/14/2020, 14:24:41|e8b4fa5131370262246cbccd13028b99|Stocks - U.S. Futures Lower Ahead of Jobless Claims; Dow Futures Down 85 Pts|By Investing.com| - Aug 20, 2020
+12/14/2020, 14:24:41|656878da85e041fab9f47497870d7009|Top 5 Things to Know in the Market on Thursday, August 20th|By Investing.com| - Aug 20, 2020
+12/14/2020, 14:24:41|f1ca152099a5e0999ebbeca68fc2efd5|Stocks - Europe Lower Amid Fed Concerns; Accor in Spotlight|By Investing.com| - Aug 20, 2020
+12/14/2020, 14:24:41|cb07cc12374d2170228573ef3d315ea9|Asian stocks slump, gold jumps after dovish Fed|By Reuters| - Aug 20, 2020
+12/14/2020, 14:24:41|3891d2095b72c96574d82796e124230b|Stocks - Europe Seen Lower; U.S. Growth Concerns Weigh|By Investing.com| - Aug 20, 2020
+12/14/2020, 14:24:41|8797ac9d7c80411d8b595e1b0af544fc|Gold Down as Dollar Slowly Strengthens|By Investing.com| - Aug 20, 2020
+12/14/2020, 14:24:41|7cd4e5c1a737f507ba3d7cac7a4f0fd8|Gold Will Gain on ‘Massive Currency Debasement,’ SkyBridge Says|By Bloomberg| - Aug 19, 2020
+12/14/2020, 14:24:41|00cfbc19f981fb8f67a85c6d0b000519|Day Ahead: 3 Things to Watch for August 20|By Investing.com| - Aug 19, 2020
+12/14/2020, 14:24:41|9932d71d2c12846e35ac37ddf8f3df57|Gold Crashes in ‘Deja Vu’ Selloff, As Dollar Defies Fed|By Investing.com| - Aug 19, 2020
+12/14/2020, 14:24:57|b179d2460f683e05abcf5f8da0ee69d5|Stocks - U.S. Futures Higher Ahead of Fed Minutes; Dow Futures Up 56 Pts|By Investing.com| - Aug 19, 2020
+12/14/2020, 14:24:57|107bbac8c4c7f99f4c7ffc98925bafe0|Stocks - Europe Edges Higher After Trump's China Blast; Maersk Surges|By Investing.com| - Aug 19, 2020
+12/14/2020, 14:24:57|3d733d3ac9a0feaf81e3ea88a7ecb2a6|Asian stocks pause for breath after Wall Street's record run|By Reuters| - Aug 19, 2020
+12/14/2020, 14:24:57|de5d799e7654b8ceaa7b8bdfe188a5b8|Stocks - Europe Seen Just Higher Ahead of Inflation Data, Fed Minutes|By Investing.com| - Aug 19, 2020
+12/14/2020, 14:24:57|994aaebb62f034d26dce0936ade998f0|Gold Down as Dollar Inches Upwards|By Investing.com| - Aug 19, 2020
+12/14/2020, 14:24:57|f090c43f4a3468d4ae05595079aed41d|Dollar under pressure as economic uncertainties linger|By Reuters| - Aug 18, 2020
+12/14/2020, 14:24:57|1b5bf6d36b785b5665a9d88add8949a7|Day Ahead: 3 Things to Watch for August 19|By Investing.com| - Aug 18, 2020
+12/14/2020, 14:24:57|6efce0bfbe0176dcd1aa336bba1d419d|S&P Finally Reaches New Record, Erasing Covid-era Losses, as Dow Falls|By Investing.com| - Aug 18, 2020
+12/14/2020, 14:24:57|db86df8c4b9e497d82b3cc22f8f62af7|'Golden Touch' Continues For Gold as Treasuries, Dollar Slump|By Investing.com| - Aug 18, 2020
+12/14/2020, 14:24:57|dd00e55446bb2da07f7000a093ec695a|Europe stocks get travel boost, dollar slides on stimulus concern|By Reuters| - Aug 18, 2020
+12/14/2020, 14:25:08|c58b60d540fa9a3b58b0e8d4a67a69fa|Stocks - U.S. Futures Higher; Retail Giants Boost Confidence|By Investing.com| - Aug 18, 2020
+12/14/2020, 14:25:08|e4cc118b284e1b574c9301faaf8036c9|Top 5 Things to Know in the Market on Tuesday, August 18th|By Investing.com| - Aug 18, 2020
+12/14/2020, 14:25:08|986023be06ac0a4c699488430d88cb99|Gold Rebounds Above $2,000 Amid Escalating U.S.-China Tensions|By Bloomberg| - Aug 18, 2020
+12/14/2020, 14:25:08|13c3c5b99639af96719521535057c9f0|Stocks - Europe Lower Amid U.S./China Tensions and Virus Surge|By Investing.com| - Aug 18, 2020
+12/14/2020, 14:25:08|91121e6e3914d99b95bb220dad9b68ac|Stocks - Europe Seen Lower; BHP in Focus|By Investing.com| - Aug 18, 2020
+12/14/2020, 14:25:08|3e5943065967d7e90b59935f9a8a9452|Gold Up Over Weaker Dollar, But Gains Capped By Signs of Global Economic Recovery|By Investing.com| - Aug 18, 2020
+12/14/2020, 14:25:08|5d04180d53481f4689b36312f53c0935|Gold Again Hits $2,000 as U.S. Yields Tumble |By Investing.com| - Aug 17, 2020
+12/14/2020, 14:25:08|a4c0114858e1cccdb2410278aae1b839|Gold Miners Jump With Berkshire’s Barrick Bet Fueling Demand|By Bloomberg| - Aug 17, 2020
+12/14/2020, 14:25:08|332c33a3f76c78c402d52d448830d302|Stocks - Wall Street Opens Higher on House Price Surge; Dow up 36 Pts|By Investing.com| - Aug 17, 2020
+12/14/2020, 14:25:08|469816a7d2f44a63783ec90950d61045|Stocks - U.S. Futures Higher Ahead of Retail Week; Dow Futures Up 70 Pts|By Investing.com| - Aug 17, 2020
+12/14/2020, 14:25:17|6d0bc75dd6a3bad674fc72721f6e0cd3|Stocks - Europe Edge Higher; Miners Benefit From China's Move|By Investing.com| - Aug 17, 2020
+12/14/2020, 14:25:17|f2c0e5763816ed362be8cc81a3063f35|Stocks - Europe Mixed; Asian Data and Sanofi in Spotlight|By Investing.com| - Aug 17, 2020
+12/14/2020, 14:25:17|d6e41a79ea83ae95aaf68a383ec47647|Gold Up Over Sluggish Economic Outlook, Lingering Risk Appetite Caps Gains|By Investing.com| - Aug 16, 2020
+12/14/2020, 14:25:17|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Aug 16, 2020
+12/14/2020, 14:25:17|396e5f1b7e2b45f04a960ad81bdbd445|Point/Counterpoint: The Case for Low Interest Rates|By Investing.com| - Aug 15, 2020
+12/14/2020, 14:25:17|fa4b7efaf3ebd8bb4b1154b113f4a498|Gold Does The “Yo-Yo," Holds Mid-$1,900 Support|By Investing.com| - Aug 14, 2020
+12/14/2020, 14:25:17|2bb77bdf9d89f3f070fcd3e1f7499c6d|Stocks - US Futures Largely Lower; Dow Futures Down 122 Pts|By Investing.com| - Aug 14, 2020
+12/14/2020, 14:25:17|a2fe4ea3c644554cef0d779226c0444e|World shares sink after China data misses forecasts|By Reuters| - Aug 14, 2020
+12/14/2020, 14:25:17|4c2f4e74776509d9cbcb1194b0ad6e7a|Stocks - Europe Lower; Travel Stocks Weigh After Quarantine List Extension|By Investing.com| - Aug 14, 2020
+12/14/2020, 14:25:17|faed70f37ce86f982c29c03db28cb8e9|Stocks - Europe Seen Just Higher; Eurozone Q2 GDP Data Due|By Investing.com| - Aug 14, 2020
+12/14/2020, 14:25:29|7db1e1ab7e3a976312b4339ad1c06fa1|Gold Down Amid Signs of Economic and Dollar Recovery|By Investing.com| - Aug 13, 2020
+12/14/2020, 14:25:29|294a0ec6a0d1ce002d00fac0e106e0ff|Gold up 1%, First Major Gain in A Week as Dollar Drops|By Investing.com| - Aug 13, 2020
+12/14/2020, 14:25:29|b805ddef01d10551ed076cd2ed7ee691|Stocks - Wall Street Opens Mixed As Jobless Claims Hit 5-Mo Low; Dow Down 21 Pts|By Investing.com| - Aug 13, 2020
+12/14/2020, 14:25:29|5a975f5ed54097160b18cc460341ebca|Stocks - U.S. Futures Lower Ahead of Jobless Claims; Dow Futures Down 14 Pts|By Investing.com| - Aug 13, 2020
+12/14/2020, 14:25:29|b29cecbfb3801dce98a5712fc747f92c|Stocks - Europe Drifts Lower; Airbus Falls on Tariff Blow|By Investing.com| - Aug 13, 2020
+12/14/2020, 14:25:29|504e4ab191a4a04a95736a35b8242015|Stocks - Europe Seen Lower; Thyssenkrupp in Focus|By Investing.com| - Aug 13, 2020
+12/14/2020, 14:25:29|ace39363a6f3978c015d2b37415a81ce|Gold Down, With Investors Weighing Movements in Bond Yields and Greenback|By Investing.com| - Aug 12, 2020
+12/14/2020, 14:25:29|60d127677a36484c5c2de40c882dbeb4|Stocks - Wall Street Opens Higher as CPI Points to Rebound; Dow up 260 Points|By Investing.com| - Aug 12, 2020
+12/14/2020, 14:25:29|2a6d65eb5e7bad371c0ed0bae05b882e|Stocks - U.S. Futures Higher on Stimulus Hopes; Dow Futures Up 250 Pts|By Investing.com| - Aug 12, 2020
+12/14/2020, 14:25:29|48b18e9addc1979faf43a72912fc9445|Top 5 Things to Know in the Market on Wednesday, August 12th|By Investing.com| - Aug 12, 2020
+12/14/2020, 14:25:49|ca159a29da6ab65796b8c5148a5c3af1|Stocks - Europe Mixed; FTSE Outperforms Despite GDP Blow|By Investing.com| - Aug 12, 2020
+12/14/2020, 14:25:49|4cc6064b48f510837f9f237aa0ab0efc|Stocks - Europe Seen Mixed; U.K. Officially Enters Recession|By Investing.com| - Aug 12, 2020
+12/14/2020, 14:25:49|af4fc4970c41dc453d05f218fd4401d9|Gold Price Crashes as Dollar Pulls Up from Record Lows|By Investing.com| - Aug 12, 2020
+12/14/2020, 14:25:49|709d838f18c5399f28517f5981b15246|Gold Collapses Below $1,900 as Rout Extends Into the Second Day|By Bloomberg| - Aug 11, 2020
+12/14/2020, 14:25:49|53218e90bc5778f67d5875890341b060|Gold Down in Asia as Dollar Rises|By Investing.com| - Aug 11, 2020
+12/14/2020, 14:25:49|b2bd31556c0db6f249e6d060aab2b656|Gold Springs Back From Friday Lows, With Some Volatility|By Investing.com| - Aug 10, 2020
+12/14/2020, 14:25:49|c0a537d3203adefa22361dbeea7c7ea0|Stocks - Wall Street Opens Higher on Stimulus Hopes; Dow Rises|By Investing.com| - Aug 10, 2020
+12/14/2020, 14:25:49|0977f1dae3de44333bc9a8283a520c1f|Barrick Boosts Dividends by 14% With Windfall From Gold’s Rally|By Bloomberg| - Aug 10, 2020
+12/14/2020, 14:25:49|e85ecf9b8caaccd02fa8e26fffb7bbb5|Stocks - U.S. Futures Higher on Trump Moves; Dow Futures Up 80 Pts|By Investing.com| - Aug 10, 2020
+12/14/2020, 14:25:49|a44eb06c7aae8dbf6f79954fd4103b93|Piyasalar – Avrupa Çoğunlukla Yüksek; Capita, Sözleşmenin Uzatılması ile Yükseldi|By Investing.com| - Aug 10, 2020
+12/14/2020, 14:26:24|16d710191b03ac3ed1b598bf66dfa90a|Stocks - Europe Seen Higher on Signs of Global Economic Recovery|By Investing.com| - Aug 10, 2020
+12/14/2020, 14:26:24|57966139a37969e2fba129ec164f3c6d|Gold Up, but Rise Slows Down|By Investing.com| - Aug 09, 2020
+12/14/2020, 14:26:24|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Aug 09, 2020
+12/14/2020, 14:26:24|d80946f0140622c9f232c1b4262229ee|Weekly Comic: Gold, Bitcoin Charge To New Highs As Dollar Tumbles|By Investing.com| - Aug 08, 2020
+12/14/2020, 14:26:24|3e3140e6ce77313e5fe08f768845e8e7|Gold Down 2% as Dollar Jumps on U.S. Jobs; Retreat Seen Temporary|By Investing.com| - Aug 07, 2020
+12/14/2020, 14:26:24|1b960a751521fee66f42159dd82cf00a|Stocks - U.S. Futures Lower Ahead of Jobs Report; Dow Futures Down 105 Pts|By Investing.com| - Aug 07, 2020
+12/14/2020, 14:26:24|8a557a5a09e18276356e837a586efb66|Record bullion prices give South African gold miners a lifeline, risks remain|By Reuters| - Aug 07, 2020
+12/14/2020, 14:26:24|c98a0222439f5a75f0e49a07064a7b46|Stocks - Europe Mixed; FTSE Outperforms on Brexit Hopes|By Investing.com| - Aug 07, 2020
+12/14/2020, 14:26:24|48d97f2527d949e58b83af335e2fdfba|Stocks - Europe Seen Lower on U.S./China Tensions; German Data Helps|By Investing.com| - Aug 07, 2020
+12/14/2020, 14:26:24|537d2b82ed37ae0774986b8505d4f848|Gold Set for Best Weekly Run Since 2006 After Rally to Record|By Bloomberg| - Aug 06, 2020
+12/14/2020, 14:27:21|9e619ffd68b40b7f68392dd41074918c|Gold Continues to Rise, Reaches New Record High|By Investing.com| - Aug 06, 2020
+12/14/2020, 14:27:21|6082c0dccc592e998946526932655035|Gold Hits Record Above $2,080; Pauses for July U.S. Jobs |By Investing.com| - Aug 06, 2020
+12/14/2020, 14:27:21|6a45449574c47d6387a6c11a3d186625|Gold accelerates higher on fragile economic recovery hopes|By Reuters| - Aug 06, 2020
+12/14/2020, 14:27:21|632a07f23f49aaa020d618bbdda1eca8|Stocks - U.S. Futures Lower Ahead of Claims; Dow Futures Down 70 Pts|By Investing.com| - Aug 06, 2020
+12/14/2020, 14:27:21|6e62b2395eeb761fd932598e00d3d1e3|Top 5 Things to Know in the Market on Thursday, August 6th|By Investing.com| - Aug 06, 2020
+12/14/2020, 14:27:21|e63a71464b9775c19180218ef670a6ae|Stocks - Europe Mixed; DAX Ouperforms While Glencore Weighs on FTSE|By Investing.com| - Aug 06, 2020
+12/14/2020, 14:27:21|9326fd6f1fa211af044eb1e119ed41a6|Stocks - Europe Seen Mixed; Germany Boosted by Factory Data|By Investing.com| - Aug 06, 2020
+12/14/2020, 14:27:21|45f4ca893cc96927e929dc70f6da1246|Gold Continues Rising After Topping $2,000 Mark|By Investing.com| - Aug 05, 2020
+12/14/2020, 14:27:21|39955881a976cd3a02d70cd0bb96c397|Like Gold, Oil Rallies Too, But It’s a Different Story Altogether |By Investing.com| - Aug 05, 2020
+12/14/2020, 14:27:21|5ef5611472e3480f630c4484002a167b|Gold Hits $2,070, Silver $27 as Precious Rally Goes Ga-Ga|By Investing.com| - Aug 05, 2020
+12/14/2020, 14:29:21|4b06f52bd1c50cedbb6c6766c500c9d6|Top 5 Things to Know in the Market on Wednesday, August 5th|By Investing.com| - Aug 05, 2020
+12/14/2020, 14:29:21|e31fdfc433571b7db24c4d24582562d2|Gold shines on falling dollar, yields; global stimulus supports shares|By Reuters| - Aug 05, 2020
+12/14/2020, 14:29:21|cc674bd9afd232aba195c32a1d7365e6|Stocks - Europe Seen Just Higher; BMW in Focus|By Investing.com| - Aug 05, 2020
+12/14/2020, 14:29:21|0333d380f9c116f928296a1e955f93ee|Gold Up, Soars Past $2,000 In Historic First|By Investing.com| - Aug 04, 2020
+12/14/2020, 14:29:21|6755aa12fb85ae56d8e74ffbe9ee15e5|Oil Rises for Third Day as Dollar Sweeps Commodities Higher|By Investing.com| - Aug 04, 2020
+12/14/2020, 14:29:21|64b2ad7c3a96402b1cddc16fc90ad215|Gold Futures’ Front-Month Breaks Beyond $2,000|By Investing.com| - Aug 04, 2020
+12/14/2020, 14:29:21|50e76ddd2a17dd7066f256d456600023|Gold Surges to Record on Signs of Progress for New U.S. Stimulus|By Bloomberg| - Aug 04, 2020
+12/14/2020, 14:29:21|868e7c5b1df17af4c2520f0e86d67d62|Stocks - U.S. Futures Point to Slightly Lower Open; Dow Futures Dip 47 Points|By Investing.com| - Aug 04, 2020
+12/14/2020, 14:29:21|8fd0ac102eca4bf3e73ffe5c1b4d6922|World shares hit five-month high; European shares, dollar falter|By Reuters| - Aug 04, 2020
+12/14/2020, 14:29:21|ceac9a3fcdfd01d3af9ac9050f1ca5ae|Stocks - Europe Seen Higher; BP Weighs After Dividend Cut|By Investing.com| - Aug 04, 2020
+12/14/2020, 14:29:59|675a02e8e512cab9db95f0b780ad77c3|Gold ETF Holdings Are Booming and Only the U.S. Government Holds More|By Bloomberg| - Aug 04, 2020
+12/14/2020, 14:29:59|72a50658a9eec367e1381203940b9819|Gold Hits Another New High on Weak Dollar, Congress Aid Stalemate|By Investing.com| - Aug 03, 2020
+12/14/2020, 14:29:59|e2b1c88f7891441af109812648b271ed|Gold Climbs Even as Dollar Springs Back; New Run Over $2,000 Seen|By Investing.com| - Aug 03, 2020
+12/14/2020, 14:29:59|6b2cc5f9ba324bca45b7a308e0268458|Watch Now: Here's What's Moving Markets - August 3 (Video)|By Investing.com| - Aug 03, 2020
+12/14/2020, 14:29:59|c1ea8b14ad4e687031485581c954a953|Stocks - Dow Futures 0.3% Higher Amid Stimulus Uncertainty|By Investing.com| - Aug 03, 2020
+12/14/2020, 14:29:59|9ba661118968af32458f610f2e8ac408|Top 5 Things to Know in the Market on Monday, August 3rd|By Investing.com| - Aug 03, 2020
+12/14/2020, 14:29:59|37fa2e35b5b522ebdcfab443994bdaf4|Stocks - Europe Seen Higher; HSBC in Focus|By Investing.com| - Aug 03, 2020
+12/14/2020, 14:29:59|eb0b6c063391440ba08fd957e0a90c0c|Gold Opens Week At Record High|By Investing.com| - Aug 02, 2020
+12/14/2020, 14:29:59|78b3120547e67f484b5839059b1b5f1e|Gold Surges to Record as Week Opens With Spot Price Near $2,000|By Bloomberg| - Aug 02, 2020
+12/14/2020, 14:29:59|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Aug 02, 2020
+12/14/2020, 14:30:43|2bd16086dc3e30db463ab040d439c13a|Gold Bulls Back in Control as Race for $2,000 Continues|By Investing.com| - Jul 31, 2020
+12/14/2020, 14:30:43|1ea4d4342e32222b583849da1846df0b|Stocks - Wall Street Opens Higher on Big Tech Q2 Surge; Dow up|By Investing.com| - Jul 31, 2020
+12/14/2020, 14:30:43|cb060346d7b4d6a83b65c5b7c3fc9fcc|European shares rebound from lows, euro set for best month in a decade|By Reuters| - Jul 31, 2020
+12/14/2020, 14:30:43|d5a508ae1d3cbac3160dad250c6899c7|Stocks - U.S. Futures Higher on Big Tech Gains; Dow Futures Up 50 Pts|By Investing.com| - Jul 31, 2020
+12/14/2020, 14:30:43|f1e27622b67da14370895c3a3ccac5a0|Gold Traders Issue Largest Delivery Notice on Record at Comex|By Bloomberg| - Jul 31, 2020
+12/14/2020, 14:30:43|0aec9c299bdfa8f4df4ab9aba9f7cd44|Stocks - Europe Higher; BNP Paribas and Nokia Help|By Investing.com| - Jul 31, 2020
+12/14/2020, 14:30:43|068b025742c6782954aa59ac49c1551f|Stocks - Europe Seen Mixed; French GDP Weighs|By Investing.com| - Jul 31, 2020
+12/14/2020, 14:30:43|bc8c998e6b039ed70128ca0b5411e862|Gold Set for Best Month in Four Years After Record-Breaking Gain|By Bloomberg| - Jul 31, 2020
+12/14/2020, 14:30:43|142ebd7dda708a8963ab810449488dc6|Gold Continues to Climb On Weak Dollar And Low Interest Rates|By Investing.com| - Jul 31, 2020
+12/14/2020, 14:30:43|3f9eb270978f27309b100fac5ab2db2b|Gold Snaps 9-Day Rally But Upside for $2,000 Still Evident |By Investing.com| - Jul 30, 2020
+12/14/2020, 14:31:04|01a29bfd336ce165669163b5da22b3f7|Stocks - Wall Street Opens Lower After Historic GDP Drop; Dow Down 480 Pts|By Investing.com| - Jul 30, 2020
+12/14/2020, 14:31:04|2f361ee849c57fde79c6388d88fcf8b9|Stocks - U.S. Futures Lower on GDP Fears; Dow Futures Down 240 Pts|By Investing.com| - Jul 30, 2020
+12/14/2020, 14:31:04|d4232de01436c76496c1e1f60b210259|Global stocks fall as Fed's pledge relief rally fades|By Reuters| - Jul 30, 2020
+12/14/2020, 14:31:04|0ea5d16f036e47c541509c6e6af70d4f|Stocks - Europe Lower; German GDP, Disappointing Earnings Weigh|By Investing.com| - Jul 30, 2020
+12/14/2020, 14:31:04|52904afc64a38df551bcb3d001bd68c7|Stocks - Europe Seen Mixed; Fed Helps But Auto Sector Suffers|By Investing.com| - Jul 30, 2020
+12/14/2020, 14:31:04|b3af40e11b840f623042d4333fc4b03e|India's 2020 gold demand may hit 26-year low as prices rally: WGC|By Reuters| - Jul 30, 2020
+12/14/2020, 14:31:04|850dd03a946b4b17b63fbc1d5332158d|Gold Continues to Climb on Weak Dollar, Low Rates, Pandemic|By Investing.com| - Jul 29, 2020
+12/14/2020, 14:31:04|5b89aa555b788f89a6b3074f8aab0164|Gold Steadies After Nine-Day Rally as Fed Flags Risk From Virus|By Bloomberg| - Jul 29, 2020
+12/14/2020, 14:31:04|3b6ebb80422b8bf8613a7daa2bd76ddb|Gold Gains as Fed Vows to Use All Tools, Extends Swap Lines|By Bloomberg| - Jul 29, 2020
+12/14/2020, 14:31:04|d29c5f7fbff5bc9d334ae33e41833a00|Gold up 9th Day but Cautious Before Fed and After Huge Gains|By Investing.com| - Jul 29, 2020
+12/14/2020, 14:31:22|ecd0c1f9030a1d9ca5081249fad652e0|Stocks - Wall Street Opens Mostly Higher Ahead of Fed Meeting|By Investing.com| - Jul 29, 2020
+12/14/2020, 14:31:22|d0a593b1ef3090dd3c30c2668ee999e6|Stocks - U.S. Futures Edge Higher Ahead of Fed Announcement|By Investing.com| - Jul 29, 2020
+12/14/2020, 14:31:22|0a92d423f5a9b4fde0bfa5f33e1a9aa8|Gold Wins Over New Buyers From Pension Funds to Private Wealth|By Bloomberg| - Jul 29, 2020
+12/14/2020, 14:31:22|beb9dd657e486fd08c71400aed9da808|Stocks - Europe Mixed; Banks in Focus During Earnings Season|By Investing.com| - Jul 29, 2020
+12/14/2020, 14:31:22|97fba583b2df056ad16fe8ed3ab556c5|Stocks - Europe Seen Lower; Banking Sector in Focus|By Investing.com| - Jul 29, 2020
+12/14/2020, 14:31:22|2ee3371287e1d22e269e28387649cb0b|Hike in Gold Price Slows, Still Near Record Highs|By Investing.com| - Jul 28, 2020
+12/14/2020, 14:31:22|f9d07ed70a0e7d08559579b423942e97|Dollar Down Again as Fears for its Long-Term Strength Grow|By Investing.com| - Jul 28, 2020
+12/14/2020, 14:31:22|cbe8c6162bf075a795e1d8114b1d23c9|Bulls Leave Gold up Again, After New High and Storm of Volatility|By Investing.com| - Jul 28, 2020
+12/14/2020, 14:31:22|420b73d3b3b47cad116c08901329ab0a|Stocks - U.S. Futures Lower as Earnings Flow; Dow Futures Down 144 Pts|By Investing.com| - Jul 28, 2020
+12/14/2020, 14:31:22|dc316ae14051fcbc3e56dbee5a1780ab|Watch Now: Here's What's Moving Markets - July 28 (Video)|By Investing.com| - Jul 28, 2020
+12/14/2020, 14:31:45|e8d99cd4fe1ee5421c35569de14c5838|As Gold Smashes Records, Forecasters Ask Whether Peak Is Near|By Bloomberg| - Jul 28, 2020
+12/14/2020, 14:31:45|aa63187bebc93ae6837031fc9369839b|Gold Hits New Record High on Weaker Dollar|By Investing.com| - Jul 27, 2020
+12/14/2020, 14:31:45|724aa72950d6bca851e2f78042480359|Gold Rips Up Record Book as $2,000 Test Looms in Hunt for Haven|By Bloomberg| - Jul 27, 2020
+12/14/2020, 14:31:45|7e3cf94b5c469e9de862fa97c08f8894|Silver Futures Extend Gains to $25 as Gold at All-Time High|By Bloomberg| - Jul 27, 2020
+12/14/2020, 14:31:45|ebc87e06faf6fa4403b786903cad5876|Day Ahead: 3 Things to Watch for July 28|By Investing.com| - Jul 27, 2020
+12/14/2020, 14:31:45|30eabf5d26f43a5d22395c6386e3905f|Gold Hits Record High at Last, Seen Barreling Toward $2,000 Next|By Investing.com| - Jul 27, 2020
+12/14/2020, 14:31:45|f2fbbbfc58761f5c1aa70796122e7a43|Stocks - Wall Street Opens Mixed, Waiting on Policy; Dow Down 14 Pts|By Investing.com| - Jul 27, 2020
+12/14/2020, 14:31:45|6a8212a51b24c8c3a4338943b1420a5e|Amid Record Prices, Gold Futures Point to Another Big Delivery|By Bloomberg| - Jul 27, 2020
+12/14/2020, 14:31:45|f74c9d7c22a9bb50772a7bbdaf5b2d8e|Gold eyes $2,000 mark in speedy record-breaking run|By Reuters| - Jul 27, 2020
+12/14/2020, 14:31:45|5b49ca8175bce84db5e4cd0d6ec5f35b|Stocks - U.S. Futures Higher; Dow Futures Up 166 Pts|By Investing.com| - Jul 27, 2020
+12/14/2020, 14:32:05|413482103b20597e781e517153e72cac|Watch Now: Here's What's Moving Markets - July 27 (Video)|By Investing.com| - Jul 27, 2020
+12/14/2020, 14:32:05|f93d8389203016bb779bac66dbaaa910|Top 5 Things to Know in the Market on Monday, July 27th|By Investing.com| - Jul 27, 2020
+12/14/2020, 14:32:05|48f7a34b1a53a62227f058893f966403|Stocks - Europe Lower; Travel Stocks Hit Hard by Virus Fears|By Investing.com| - Jul 27, 2020
+12/14/2020, 14:32:05|6138c96fc696dce169e226eacc38cb12|Stocks - Europe Seen Higher; China's Industrial Profits Help|By Investing.com| - Jul 27, 2020
+12/14/2020, 14:32:05|65aae635d37f05c0ccf67df6c6cfd77e|Gold Up, Reaches Record High|By Investing.com| - Jul 26, 2020
+12/14/2020, 14:32:05|cf80e95b84f581cc7ba9925969389c99|Gold Futures Touch Record as Haven Demand Builds, Contract Rolls|By Bloomberg| - Jul 26, 2020
+12/14/2020, 14:32:05|f3437e1c8028806818e978edef97198d|Gold Still Chasing Its 2011 Record With Fed Set to Meet: Chart|By Bloomberg| - Jul 26, 2020
+12/14/2020, 14:32:05|06634c79357a0dd5cffbd343efbd41b1|Precious Metals & Energy - Weekly Review and Calendar Ahead|By Investing.com| - Jul 26, 2020
+12/14/2020, 14:32:05|a8be5a753eb77bebbeca62f1573f9c5e|Weekly Comic: Gold, Silver Surge To Highest In Years Amid Flood Of Stimulus|By Investing.com| - Jul 25, 2020
+12/14/2020, 14:32:05|e8eb0c19d24ac974b9522822a25a31eb|Point/Counterpoint: The Case for Silver|By Investing.com| - Jul 25, 2020
+12/14/2020, 14:32:50|d2cf2d21a43d53091de86d66670fa5b2|Gold Pierces $1,900 First Time Since 2011, Eyes Record High|By Investing.com| - Jul 24, 2020
+12/14/2020, 14:32:50|9f7f7410c2fcfbba701673a7bf74fe15|Stocks - Selling Continues as Wall Street Opens; Dow Down 180 Pts|By Investing.com| - Jul 24, 2020
+12/14/2020, 14:32:50|3f47806f5a984a118e9b412be38ee074|Stocks - U.S. Futures Lower as China, Intel Weigh; Dow Futures Down 78 Pts|By Investing.com| - Jul 24, 2020
+12/14/2020, 14:32:50|755afad1d42dcf1fae22cd7c5b4d7117|Top 5 Things to Know in the Market on Friday, July 24th|By Investing.com| - Jul 24, 2020
+12/14/2020, 14:32:50|d688dc2ddd72c22fc29d33347bc0c80a|Stocks - Europe Lower Amid Recovery Worries; Infineon Drops|By Investing.com| - Jul 24, 2020
+12/14/2020, 14:32:50|bfdd8f54334e336747cb8947e7111ea0|Stocks - Europe Seen Lower; Vodafone in Spotlight|By Investing.com| - Jul 24, 2020
+12/14/2020, 14:32:50|ee22fb354dbf9f7dc9f6c777ac0d8b4a|Gold Hits Pause on March to Record Highs|By Investing.com| - Jul 24, 2020
+12/14/2020, 14:32:50|0c8aae8300d7b5fd440baeb4cb0d419a|Gold Nears $1,900 as Veteran Mobius Says Keep Buying|By Bloomberg| - Jul 23, 2020
+12/14/2020, 14:32:50|10e62d907540dab443f1d9b15bdd6890|Silver, Gold Diverge for First Time in Days After Rallying Together|By Investing.com| - Jul 23, 2020
+12/14/2020, 14:32:50|56e26e975be0f2f49b73c3cfe56fed5f|Stocks gain as upbeat earnings outweigh U.S.-China tensions|By Reuters| - Jul 23, 2020
