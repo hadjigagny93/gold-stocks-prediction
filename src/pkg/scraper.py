@@ -226,8 +226,10 @@ class GoldNewsRetriever:
             return [x.split('|')[1] for x in tail]
         #return hashes
 
-    def back_scrape(self, pagination=2):
+    def back_scrape(self, pagination=3):
         lower = 2
         upper = pagination + lower
         for page in range(lower, upper):
+            print(page)
             self.scrape(page=page)
+            print("ok")
