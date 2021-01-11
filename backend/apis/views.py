@@ -8,8 +8,19 @@ from django.http import JsonResponse
 from app_utils.request_back import return_json
 from .models import *
 import json
+from datetime import datetime
 
-
+def apiscalltask_register(**kwargs):
+    name = kwargs.get('name')
+    if name not in ('back' 'current'):
+        raise
+    now = datetime.now()
+    from_tab, created = Mode.objects.get_or_create(name=name)
+    apiscallertask_params = {"current_datetime": now, "from_tab": from_tab}
+    register_created = ApiCallerTask.objects.create(**apiscallertask_params)
+    if not register_created:
+        raise
+    return
 
 @csrf_exempt
 def back(request, token):
@@ -21,6 +32,14 @@ def back(request, token):
     body_request = request.body.decode("utf-8")
     global_news_headers = json.loads(body_request)
     #print(body_request)
+    # register the api call in aspicallertask table in backend
+    #now = datetime.now()
+    #from_tab = Mode.objects.create(name="back")
+    #apiscallertask_params = {"current_datetime": now, "from_tab": from_tab}
+    #register_created = ApiCallerTask.objects.create(**apiscallertask_params)
+    #if not register_created:
+    #    raise
+    _ = apiscalltask_register(name="back")
     for news_header in global_news_headers:
         created = Back.objects.create(**news_header)
         #print(created)
@@ -36,7 +55,14 @@ def current(request, token):
     body_request = request.body.decode("utf-8")
     global_news_headers = json.loads(body_request)
     #print(body_request)
+    #now = datetime.now()
+    #from_tab = Mode.objects.create(name="current")
+    #apiscallertask_params = {"current_datetime": now, "from_tab": from_tab}
+    #register_created = ApiCallerTask.objects.create(**apiscallertask_params)
+    #if not register_created:
+    #    raise
     result = dict()
+    _ = apiscalltask_register(name="current")
     for news_header in global_news_headers:
         # filter hash value for check
         # if the posted news has not been in the db yet
