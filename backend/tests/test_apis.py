@@ -22,13 +22,21 @@ url = "http://127.0.0.1:8000/apis/88bvchvnsj7/current"
 #ip_adress_params = {"ip_adress": "kaFKX"}
 #verify_backend_func = requests.post(url, params=ip_adress_params)
 data = {
-   "scraping_date": "q",
+   "scraping_date": "a",
    "header_hash": "a",
    "new_header": "a",
    "source": "a",
    "public_date": "a",
 }
+data_a = {
+   "scraping_date": "a",
+   "header_hash": "b",
+   "new_header": "a",
+   "source": "a",
+   "public_date": "a",
+}
 
-data_all = [data] * 2
+
+data_all = [data, data_a]
 verify_backend_func = requests.post(url, json=data_all)
 print(verify_backend_func.json())

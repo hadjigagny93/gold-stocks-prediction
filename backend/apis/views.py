@@ -36,6 +36,7 @@ def current(request, token):
     body_request = request.body.decode("utf-8")
     global_news_headers = json.loads(body_request)
     #print(body_request)
+    result = dict()
     for news_header in global_news_headers:
         # filter hash value for check
         # if the posted news has not been in the db yet
@@ -44,8 +45,9 @@ def current(request, token):
         #print(news_header_exists)
         if news_header_exists:
             print("This news header has already been created")
+            result = {**result, **{current_header_hash: "updated"}}
             continue
-
+        result = {**result, **{current_header_hash: "created"}}
         created = Current.objects.create(**news_header)
         #print(created)
-    return return_json(1, "object well created")
+    return return_json(1, result)
