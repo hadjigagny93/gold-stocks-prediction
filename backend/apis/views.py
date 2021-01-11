@@ -12,15 +12,14 @@ from datetime import datetime
 
 def apiscalltask_register(**kwargs):
     name = kwargs.get('name')
-    if name not in ('back' 'current'):
-        raise
+    status = kwargs.get('status')
     now = datetime.now()
     from_tab, created = Mode.objects.get_or_create(name=name)
-    apiscallertask_params = {"current_datetime": now, "from_tab": from_tab}
+    if name == "back" and not created:
+        return False
+    apiscallertask_params = {"current_datetime": now, "from_tab": from_tab, "status": status}
     register_created = ApiCallerTask.objects.create(**apiscallertask_params)
-    if not register_created:
-        raise
-    return
+    return True
 
 @csrf_exempt
 def back(request, token):
@@ -39,7 +38,10 @@ def back(request, token):
     #register_created = ApiCallerTask.objects.create(**apiscallertask_params)
     #if not register_created:
     #    raise
-    _ = apiscalltask_register(name="back")
+    stay_here = apiscalltask_register(name="back", status="created")
+    if not stay_here:
+        return return_json(1, "historical data already been scraped")
+
     for news_header in global_news_headers:
         created = Back.objects.create(**news_header)
         #print(created)
@@ -62,7 +64,7 @@ def current(request, token):
     #if not register_created:
     #    raise
     result = dict()
-    _ = apiscalltask_register(name="current")
+    #_ = apiscalltask_register(name="current")
     for news_header in global_news_headers:
         # filter hash value for check
         # if the posted news has not been in the db yet
@@ -70,10 +72,14 @@ def current(request, token):
         news_header_exists = Current.objects.filter(header_hash=current_header_hash)
         #print(news_header_exists)
         if news_header_exists:
+            status = "updated"
+            _ = apiscalltask_register(name="current", status=status)
             print("This news header has already been created")
-            result = {**result, **{current_header_hash: "updated"}}
+            result = {**result, **{current_header_hash: status}}
             continue
-        result = {**result, **{current_header_hash: "created"}}
+        status = "created"
+        _ = apiscalltask_register(name="current", status=status)
+        result = {**result, **{current_header_hash: status}}
         created = Current.objects.create(**news_header)
         #print(created)
     return return_json(1, result)

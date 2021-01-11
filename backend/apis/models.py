@@ -49,6 +49,7 @@ class ApiCallerTask(models.Model):
     current_datetime = models.DateTimeField()
     # end_date = models.DateTimeField(null=False)
     from_tab = models.ForeignKey(Mode, on_delete=models.CASCADE)
+    status = models.CharField(max_length=255, blank=True, null=True)
 
 
 class TransferTask(models.Model):

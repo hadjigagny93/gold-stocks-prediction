@@ -1,5 +1,4 @@
 
-
 class Import(type):
     def __call__(cls, import_task):
         if cls is ImportTask:
