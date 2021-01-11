@@ -1,4 +1,4 @@
-from .errors import ERRORS
+from .error_settings import ERRORS
 from django.http import JsonResponse
 
 def return_json(errorCode, result=""):
