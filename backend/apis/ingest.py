@@ -9,7 +9,7 @@ class Import(type):
             elif import_task['transfer_mode'] == 1: return BackImportTask(import_task)
             else:
                 raise NotImplementedError("This transfer mode paradigm is not yet implemented.")
-        return super().__call__(automl_import_task)
+        return super().__call__(import_task)
 
 class ImportTask(object, metaclass=Import):
 
@@ -17,9 +17,9 @@ class ImportTask(object, metaclass=Import):
         self.transfer_mode = import_task.get('transfer_mode')
         self.current_datetime = datetime.datetime.now()
 
-    
-     def transfer(self):
+
+    def transfer(self):
          raise NotImplementedError("This method has not been implemented yet")
 
-from back_import import BackImportTask
-from unsupervised import CurrentImportTask
+from .back_import import BackImportTask
+from .current_import import CurrentImportTask

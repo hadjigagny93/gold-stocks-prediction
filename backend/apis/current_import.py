@@ -1,3 +1,6 @@
 from .ingest import ImportTask
+from .models import *
+
 class CurrentImportTask(ImportTask):
-    pass
+    def transfer(self):
+        return 1
