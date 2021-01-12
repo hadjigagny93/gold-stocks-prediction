@@ -6,7 +6,7 @@ import os
 def api_call(scraper="current", pagination=None):
     BASE_URL = "http://127.0.0.1:8000/apis/88bvchvnsj7"
     url = os.path.join(BASE_URL, scraper)
-    bot = GoldNewsRetriever(register_mode='api')
+    bot = GoldNewsRetriever()
     
     if scraper == "back":
         fresh_news = bot.back_scraper(pagination=pagination)

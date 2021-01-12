@@ -18,6 +18,7 @@ from exceptions import (
 )
 from docker_env import is_dot_docker_env_there
 import yaml
+from tools import normalize_date
 
 
 class GoldNewsRetriever:
@@ -39,6 +40,7 @@ class GoldNewsRetriever:
             chrome_driver_path = BROWSER_CONFIGS['CHROME_DRIVER']
             user_agent = BROWSER_CONFIGS['USER_AGENT']
         return chrome_driver_path, user_agent
+
 
     def scrape(self, **kwargs):
         configs = self.load_configs()
@@ -69,6 +71,9 @@ class GoldNewsRetriever:
         driver.get(url)
         titles = self.__get_titles(driver)
         dates = self.__get_dates(driver)
+        # process dates before push them to backend
+        norm_dates = [normalize_date(date) for date in dates]
+        dates = norm_dates
         sources = self.__get_sources(driver)
         hashes = [hashlib.md5(title.encode()).hexdigest() for title in titles]
         chronos = [datetime.now().strftime("%m/%d/%Y, %H:%M:%S")] * len(hashes)
