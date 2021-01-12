@@ -21,7 +21,7 @@ class Stock(models.Model):
     new_hash = models.CharField(max_length=255, blank=True, null=True)
     date = models.CharField(max_length=255, blank=True, null=True)
     price = models.CharField(max_length=255, blank=True, null=True)
-    news = models.CharField(max_length=1000, blank=True, null=True)
+    news = models.TextField(blank=True, null=True)
 
 
 class Predictors(models.Model):
