@@ -23,7 +23,7 @@ import yaml
 
 class GoldNewsRetriever:
 
-    def __init__(self, register_mode="FS"):
+    def __init__(self, register_mode="fs"):
         self.base_url = BASE_URL
         if register_mode not in PERMITTED_REGISTER_MODE:
             raise RegisterModeException(register_mode)
@@ -77,10 +77,24 @@ class GoldNewsRetriever:
         hashes = [hashlib.md5(title.encode()).hexdigest() for title in titles]
         chronos = [datetime.now().strftime("%m/%d/%Y, %H:%M:%S")] * len(hashes)
         # write data in txt file
+        """
         if self.register_mode == "FS":
             self.register(chronos, hashes, titles, sources, dates, current)
             return
         self.register_db(chronos, hashes, titles, sources, dates, current)
+        """
+        # return data as dict
+        scraped_data = []
+        for data in zip(
+            hashes,
+            chronos,
+            titles,
+            sources,
+            dates):
+            s = dict()
+            s['header_hash'], s['scraping_date'], s['new_header'], s['source'], s['public_date'] = data
+            scraped_data.append(s)
+        return scraped_data
 
     @staticmethod
     def __get_titles(driver, limit=10):
@@ -93,12 +107,12 @@ class GoldNewsRetriever:
     @staticmethod
     def __get_sources(driver, limit=10):
         return [s.text for s in driver.find_elements_by_xpath('//span[contains(text(), "By")]')[:limit]]
-
+    
     @staticmethod
     def __check_file(file_name):
         file_path = os.path.join(DATA_DIR, file_name)
         if not os.path.exists(file_path):
-            # craete taht file
+            # create that file
             shell_touch = f"touch {file_path}"
             os.system(shell_touch)
         return file_path
@@ -226,3 +240,7 @@ class GoldNewsRetriever:
             print(page)
             self.scrape(page=page)
             print("ok")
+    
+if __name__ == "__main__":
+    instance = GoldNewsRetriever(register_mode="DB")
+    print(instance.scrape())

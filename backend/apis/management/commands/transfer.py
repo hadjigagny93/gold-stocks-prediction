@@ -9,6 +9,8 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         transfer_mode = kwargs.get('mode')
-        import_task = {"transfer_mode": transfer_mode}
+        import_task = {
+            "transfer_mode": transfer_mode,
+            "batch": True}
         import_task_instance = ImportTask(import_task)
-        print(import_task_instance.transfer())
+        import_task_instance.sample_batch()
