@@ -16,10 +16,13 @@ class Back(models.Model):
     source = models.CharField(max_length=255, blank=True, null=True)
     public_date = models.CharField(max_length=255, blank=True, null=True)
 
+
 class Stock(models.Model):
+    new_hash = models.CharField(max_length=255, blank=True, null=True)
     date = models.CharField(max_length=255, blank=True, null=True)
     price = models.CharField(max_length=255, blank=True, null=True)
-    news = models.CharField(max_length=255, blank=True, null=True)
+    news = models.CharField(max_length=1000, blank=True, null=True)
+
 
 class Predictors(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
@@ -30,7 +33,7 @@ class Predictors(models.Model):
 
 class Track(models.Model):
     ml_model = models.ForeignKey(Predictors, on_delete=models.CASCADE)
-    feature = models.ForeignKey(Stock, on_delete=models.CASCADE)
+    feature = models.ForeignKey(Stock, on_delete=models.CASCADE, null=True)
     predict = models.FloatField()
 
 class Mode(models.Model):
@@ -55,3 +58,4 @@ class ApiCallerTask(models.Model):
 class TransferTask(models.Model):
     current_datetime = models.DateTimeField(null=False)
     from_tab = models.ForeignKey(Mode, on_delete=models.CASCADE)
+    status = models.CharField(max_length=255, blank=True, null=True)

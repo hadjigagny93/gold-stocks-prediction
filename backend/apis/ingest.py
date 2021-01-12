@@ -1,38 +1,46 @@
 from .models import *
 import datetime
+import hashlib
 
 
-class Import(type):
-    def __call__(cls, import_task):
-        if cls is ImportTask:
-            if import_task['transfer_mode'] == 0: return BackImportTask(import_task)
-            elif import_task['transfer_mode'] == 1: return CurrentImportTask(import_task)
-            else:
-                raise NotImplementedError("This transfer mode paradigm is not yet implemented.")
-        return super().__call__(import_task)
-
-class ImportTask(object, metaclass=Import):
+#datetime.datetime.strftime(date, '%Y-%m-%d')
+class ImportTask(object):
 
     def __init__(self, import_task, **kwargs):
         self.transfer_mode = import_task.get('transfer_mode')
-        self.current_datetime = datetime.datetime.now()
-        self.period = None
-        self.batch = import_task.get('batch')
-
-    def aggregate(self):
-
-        pass
-
-    def sample_batch(self):
-        if self.batch:
-            # retrieve all the data
-            sample = Back.objects.values('new_header', 'public_date')
-            print(sample)
-            return sample
-        pass
+        self.current_date = datetime.date.today()
+        
 
     def transfer(self):
-         raise NotImplementedError("This method has not been implemented yet")
+        if self.transfer_mode == "current":
+            str_date = datetime.datetime.strftime(self.current_date, '%Y-%m-%d')
+            stock = {"date": str_date}
+            daily_news_headers = Current.objects.filter(public_date=str_date).values('new_header')
+            big_new = str()
+            for news in daily_news_headers:
+                big_new += news.get('new_header')
+            new_hash = hashlib.md5(big_new.encode()).hexdigest()
+            # check if the hash is already in the db 
+            news_header_exists = Stock.objects.filter(new_hash=new_hash)
+            if news_header_exists:
+                raise
+            # push data to stock table
+            stock = {**stock, **{"news": big_new, "new_hash": new_hash}}
+            # call yfinance sdk 
+            stock = {**stock, **{"price": 0}}
+            stock_created = Stock.objects.create(**stock)
+            if stock_created:
+                stock_created_status = "upated"
 
-from .back_import import BackImportTask
-from .current_import import CurrentImportTask
+            # create transfertask objects
+            name = 'current'
+            now = datetime.datetime.now()
+            from_tab, created = Mode.objects.get_or_create(name=name)
+            transfer_task_params = {
+                'current_datetime': datetime.datetime.now(), 
+                'from_tab': from_tab,
+                'status': stock_created_status}
+            register_created = TransferTask.objects.create(**transfer_task_params)
+
+
+            

@@ -5,12 +5,12 @@ class Command(BaseCommand):
     help = 'run scripts for transfer data from current to apis_current & apis_back to stock'
 
     def add_arguments(self, parser):
-        parser.add_argument('mode', type=int)
+        parser.add_argument('mode', type=str)
 
     def handle(self, *args, **kwargs):
         transfer_mode = kwargs.get('mode')
         import_task = {
             "transfer_mode": transfer_mode,
-            "batch": True}
+            }
         import_task_instance = ImportTask(import_task)
-        import_task_instance.sample_batch()
+        import_task_instance.transfer()
