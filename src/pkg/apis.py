@@ -15,4 +15,3 @@ def api_call(scraper="current", pagination=None):
 
     fresh_news = bot.current_scraper()
     request_return = requests.post(url, json=fresh_news)
-
