@@ -6,6 +6,11 @@ image:
 container:
 	docker run -it etl:scraper /bin/bash
 
+image-api:
+	docker build -f ./docker/backend/Dockerfile --tag api:django .
+container-api:
+	docker run -it api-django:latest /bin/bash
+
 image-test:
 	docker build -f ./docker/dockerfile-ml --tag etl:test ./docker/app/
 
