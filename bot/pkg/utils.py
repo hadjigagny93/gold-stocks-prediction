@@ -41,8 +41,12 @@ elif register_mode == "fs":
     instance = Register(scraper=scraper, pagination=pagination)
     instance.register()
 
+# api 
 #python pkg/utils.py --scraper current --register_mode api 
 #python pkg/utils.py --scraper back --register_mode api --pagination 4
-#python pkg/utils.py --scraper back --register_mode fs --pagination 2
+
+# fs
+#python bot/pkg/utils.py --scraper current --register_mode fs
+#python pkg/utils.py --scraper back --register_mode fs --pagination 4
 
 

@@ -31,7 +31,7 @@ ENV DISPLAY=:99
 RUN mkdir -p /home/lib/
 
 # Set up work directory
-WORKDIR /home/lib/
+WORKDIR /home/lib
 
 # Set up env variable
 ENV VIRTUAL_ENV=/opt/venv
@@ -47,3 +47,11 @@ COPY bot/ bot/
 
 # Install dependencies
 RUN pip install -r bot/requirements.txt
+
+
+#RUN chmod +x bot/pkg/entrypoint.sh
+#ENTRYPOINT ["bot/pkg/entrypoint.sh"]
+
+CMD [ "python", "bot/pkg/utils.py", "--scraper=current", "--register_mode=fs" ]
+#docker run -it --mount source=my_vol,destination=/home/lib/data bot-selenium:latest python pkg/utils.py --scraper current --register_mode fs 
+

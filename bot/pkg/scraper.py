@@ -8,9 +8,7 @@ from settings import (
     REPO_DIR,
     CONFIG_PATH,
     DATA_DIR,
-    #DATABASES,
     BASE_URL,
-    #PERMITTED_REGISTER_MODE,
 )
 from exceptions import (
     RegisterModeException,
@@ -123,16 +121,3 @@ class GoldNewsRetriever:
     def __get_sources(driver, limit=10):
         return [s.text for s in driver.find_elements_by_xpath('//span[contains(text(), "By")]')[:limit]]
     
-    #def back_scrape(self, pagination=2):
-    #    lower = 2
-    #    upper = pagination + lower
-    #    for page in range(lower, upper):
-    #        print(page)
-    #        self.scrape(page=page)
-    #        print("ok")
-    
-"""
-if __name__ == "__main__":
-    instance = GoldNewsRetriever(register_mode="api")
-    print(instance.scrape())
-"""

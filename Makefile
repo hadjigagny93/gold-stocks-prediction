@@ -8,3 +8,4 @@ image-api:
 container-api:
 	docker run -it api-django:latest /bin/bash
 
+docker run -d --name=me bot-selenium:latest tail -f /dev/null
