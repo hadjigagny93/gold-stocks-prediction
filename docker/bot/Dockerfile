@@ -48,10 +48,4 @@ COPY bot/ bot/
 # Install dependencies
 RUN pip install -r bot/requirements.txt
 
-
-#RUN chmod +x bot/pkg/entrypoint.sh
-#ENTRYPOINT ["bot/pkg/entrypoint.sh"]
-
 CMD [ "python", "bot/pkg/utils.py", "--scraper=current", "--register_mode=fs" ]
-#docker run -it --mount source=my_vol,destination=/home/lib/data bot-selenium:latest python pkg/utils.py --scraper current --register_mode fs 
-
