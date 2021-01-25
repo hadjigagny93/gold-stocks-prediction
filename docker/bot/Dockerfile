@@ -47,5 +47,7 @@ COPY bot/ bot/
 
 # Install dependencies
 RUN pip install -r bot/requirements.txt
-
+# Exposing port
+EXPOSE 8000
 CMD [ "python", "bot/pkg/utils.py", "--scraper=current", "--register_mode=fs" ]
+

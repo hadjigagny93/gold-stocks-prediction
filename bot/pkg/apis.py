@@ -4,7 +4,7 @@ import os
 
 
 def api_call(scraper="current", pagination=None):
-    BASE_URL = "http://127.0.0.1:8000/apis/88bvchvnsj7"
+    BASE_URL = "http://host.docker.internal:8000/apis/88bvchvnsj7"
     url = os.path.join(BASE_URL, scraper)
     bot = GoldNewsRetriever()
     

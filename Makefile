@@ -17,5 +17,9 @@ svlh:
 # remove all running containers 
 rarc:
 	docker container rm $(docker ps -a -q)
+#docker run -it -p 8000:8000 bot-selenium:latest python bot/pkg/utils.py --scraper current --register_mode api
 
+postgresrm:
+	rm /usr/local/var/postgres/postmaster.pid
 
+docker run -it bot-selenium:latest /bin/bash bot/pkg/test-net.sh
