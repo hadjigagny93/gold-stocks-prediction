@@ -28,6 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'host.docker.internal', # for docker test in local env
+    'localhost', 
 ]
 
 

@@ -1,10 +1,16 @@
 import requests
 from scraper import GoldNewsRetriever
 import os 
+from docker_env import is_dot_docker_env_there
 
 
 def api_call(scraper="current", pagination=None):
-    BASE_URL = "http://host.docker.internal:8000/apis/88bvchvnsj7"
+    hosts = {
+        True: 'host.docker.internal',
+        False: 'localhost'
+    }
+
+    BASE_URL = f"http://{hosts[is_dot_docker_env_there()]}:8000/apis/88bvchvnsj7"
     url = os.path.join(BASE_URL, scraper)
     bot = GoldNewsRetriever()
     
