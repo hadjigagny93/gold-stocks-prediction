@@ -1,7 +1,8 @@
 image-bot:
 	docker build -f ./docker/bot/Dockerfile --tag  bot-selenium:latest . 
 container-bot:
-	docker run -it --mount source=my_vol,destination=/home/lib/data bot-selenium:latest python bot/pkg/utils.py --scraper current --register_mode fs
+	#docker run -it --mount source=my_vol,destination=/home/lib/data bot-selenium:latest python bot/pkg/utils.py --scraper current --register_mode fs
+	docker run -it bot-selenium:latest python bot/pkg/utils.py --scraper current --register_mode api
 
 image-api:
 	docker build -f ./docker/backend/Dockerfile --tag api-django:latest .
