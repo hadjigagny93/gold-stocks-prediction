@@ -24,3 +24,4 @@ postgresrm:
 	rm /usr/local/var/postgres/postmaster.pid
 
 docker run -it bot-selenium:latest /bin/bash bot/pkg/test-net.sh
+# commit after a while
