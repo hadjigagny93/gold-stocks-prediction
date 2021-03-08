@@ -21,14 +21,6 @@ register_mode = args.register_mode
 scraper = args.scraper
 pagination = args.pagination
 
-#scraper_instance = GoldNewsRetriever(register_mode=register_mode)
-#if args.scraper == "back":
-#    page = args.pagination
-#    scraper_instance.back_scrape(pagination=page)
-#if args.scraper == "current":
-#    scraper_instance.scrape()
-#print(register_mode, scraper, pagination)
-
 if register_mode not in PERMITTED_REGISTER_MODE:
     raise RegisterModeException(register_mode)
 

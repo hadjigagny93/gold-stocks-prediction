@@ -23,7 +23,7 @@ DATA_DIR = os.path.join(REPO_DIR, 'data/news')
 
 
 # BASE URL
-BASE_URL = "https://www.investing.com/commodities/gold-news"
+BASE_URL = "https://www.investing.com/crypto/bitcoin/news"
 
 # REGISTER MODE
 PERMITTED_REGISTER_MODE = ("api", "fs")

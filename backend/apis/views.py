@@ -62,6 +62,7 @@ def current(request, token):
     #register_created = ApiCallerTask.objects.create(**apiscallertask_params)
     #if not register_created:
     #    raise
+    print(global_news_headers)
     result = dict()
     #_ = apiscalltask_register(name="current")
     for news_header in global_news_headers:

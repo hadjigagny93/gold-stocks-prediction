@@ -4,10 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
-yfinance = "*"
-sklearn = "*"
 joblib = "*"
+numpy = "*"
+ml-model = {editable = true, path = "."}
+flask = "*"
+gunicorn = "*"
 
 [dev-packages]
 ipykernel = "*"

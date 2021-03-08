@@ -9,6 +9,11 @@ image-api:
 container-api:
 	docker run -it api-django:latest /bin/bash
 
+image-engine:
+	docker build -f ./docker/engine/Dockerfile --tag engine:latest .
+container-api:
+	docker run -it -p 5000:5000 engine:latest /bin/bash
+
 #docker run -d --name=me bot-selenium:latest tail -f /dev/null
 
 # svlh -> see volumes on local host (and not try to find them on docker native VM)
@@ -24,4 +29,3 @@ postgresrm:
 	rm /usr/local/var/postgres/postmaster.pid
 
 docker run -it bot-selenium:latest /bin/bash bot/pkg/test-net.sh
-# commit after a while

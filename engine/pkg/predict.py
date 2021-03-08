@@ -1,7 +1,7 @@
 import joblib
 import numpy as np
 import os
-from settings import MODELS_DIR
+from .settings import MODELS_DIR
 
 class Predict:
     def __init__(self):

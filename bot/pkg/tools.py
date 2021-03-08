@@ -3,6 +3,7 @@ import datetime
 def normalize_date(s):
   month = {
     "Jan": "01",
+    "Feb": "02",
     "Aug": "08",
     "Dec": "12",
     "Jul": "07",
