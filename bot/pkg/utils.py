@@ -12,14 +12,18 @@ parser.add_argument("--scraper", type=str,
 parser.add_argument("--register_mode", type=str,
                     help="load in db or in local/mount file system")
 
-parser.add_argument("--pagination", type=int,
-                    help="historical news pagination on investing.com")
+parser.add_argument("--pagination_low", type=int,
+                    help="historical news pagination on investing.com low")
+
+parser.add_argument("--pagination_up", type=int,
+                    help="historical news pagination on investing.com up")
 
 args = parser.parse_args()
 
 register_mode = args.register_mode
 scraper = args.scraper
-pagination = args.pagination
+pagination_low = args.pagination_low
+pagination_up = args.pagination_up
 
 if register_mode not in PERMITTED_REGISTER_MODE:
     raise RegisterModeException(register_mode)
@@ -30,7 +34,7 @@ if register_mode == "api":
 
 elif register_mode == "fs":
     from register import Register
-    instance = Register(scraper=scraper, pagination=pagination)
+    instance = Register(scraper=scraper, pagination_low=pagination_low, pagination_up=pagination_up)
     instance.register()
 
 # api 

@@ -4,7 +4,7 @@ from settings import DATA_DIR
 
 class Register:
 
-    def __init__(self, scraper="current", pagination=None):
+    def __init__(self, scraper="current", pagination_low=None, pagination_up=None):
         bot = GoldNewsRetriever()
         chronos = []
         hashes = []
@@ -16,7 +16,7 @@ class Register:
             fresh_news = bot.current_scraper()
         elif scraper == "back":
             self.current = False
-            fresh_news = bot.back_scraper(pagination=pagination)
+            fresh_news = bot.back_scraper(pagination_low=pagination_low, pagination_up=pagination_up)
         else:
             raise Exception("out")
         for data in fresh_news:
