@@ -66,9 +66,9 @@ class GoldNewsRetriever:
     def current_scraper(self):
         return self.scrape()
 
-    def back_scraper(self, pagination):
-        lower = 2
-        upper = pagination + lower
+    def back_scraper(self, pagination_low, pagination_up):
+        lower = pagination_low
+        upper = pagination_up
         history_data = []
         for page in range(lower, upper):
             print(page)
