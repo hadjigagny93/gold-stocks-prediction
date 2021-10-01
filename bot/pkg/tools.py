@@ -4,6 +4,10 @@ def normalize_date(s):
   month = {
     "Jan": "01",
     "Feb": "02",
+    "Mar": "03",
+    "Apr": "04",
+    "May": "05",
+    "Jun": "06",
     "Aug": "08",
     "Dec": "12",
     "Jul": "07",
